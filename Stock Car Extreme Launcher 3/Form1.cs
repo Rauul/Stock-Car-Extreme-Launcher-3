@@ -832,7 +832,7 @@ namespace Stock_Car_Extreme_Launcher_3
             PopulateMods();
         }
 
-        // Populate news panel x
+        // Populate news panel
         public void PopulateNews()
         {
             newsPage.Invoke((MethodInvoker)delegate { newsPage.Controls.Remove(loadingNewsLabel); });
