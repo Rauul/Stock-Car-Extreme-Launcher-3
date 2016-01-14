@@ -514,7 +514,7 @@ namespace Stock_Car_Extreme_Launcher_3
             //Controller
             controllerComboBox.SelectedIndex = controllerComboBox.FindStringExact(player.Control);
 
-            //Auto Close Launcher
+            //Auto Close Launcher 
             //Parameters
         }
 
