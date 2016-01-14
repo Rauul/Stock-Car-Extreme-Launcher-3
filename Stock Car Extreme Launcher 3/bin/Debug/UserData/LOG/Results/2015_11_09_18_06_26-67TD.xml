@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Practice</Setting>
+<PlayerFile>Martin Vindis</PlayerFile>
+<DateTime>1447087140</DateTime>
+<TimeString>2015/11/09 17:39:00</TimeString>
+<Mod>reiza13.rfm</Mod>
+<Season></Season>
+<TrackVenue>Spielberg</TrackVenue>
+<TrackCourse>Spielberg</TrackCourse>
+<TrackEvent>Austrian Ring GP</TrackEvent>
+<TrackLength>4307.3</TrackLength>
+<GameVersion>1.700</GameVersion>
+<Dedicated>0</Dedicated>
+<ConnectionType upload="64" download="64">ISDN</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>100</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>MetalmoroMR18</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>11</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<TestDay>
+<DateTime>1447087142</DateTime>
+<TimeString>2015/11/09 17:39:02</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>0</Minutes>
+<Stream>
+<Score et="90.4">Martin Vindis(0) lap=0 point=1 t=-1.000 et=90.404</Score>
+<Score et="129.9">Martin Vindis(0) lap=0 point=2 t=-1.000 et=129.871</Score>
+<Score et="160.8">Martin Vindis(0) lap=1 point=0 t=-1.000 et=160.825</Score>
+<Score et="182.3">Martin Vindis(0) lap=1 point=1 t=21.403 et=182.228</Score>
+<Score et="189.1">Martin Vindis(0) lap=1 point=2 t=-1.000 et=189.148</Score>
+<Score et="189.1">Martin Vindis(0) lap=2 point=0 t=-1.000 et=189.148</Score>
+<Score et="299.3">Martin Vindis(0) lap=2 point=1 t=-1.000 et=299.318</Score>
+<Score et="338.5">Martin Vindis(0) lap=2 point=2 t=-1.000 et=338.459</Score>
+<Score et="369.5">Martin Vindis(0) lap=3 point=0 t=-1.000 et=369.522</Score>
+<Score et="391.0">Martin Vindis(0) lap=3 point=1 t=21.440 et=390.963</Score>
+<Score et="429.9">Martin Vindis(0) lap=3 point=2 t=60.325 et=429.847</Score>
+<Score et="460.8">Martin Vindis(0) lap=4 point=0 t=91.282 et=460.804</Score>
+<Score et="482.5">Martin Vindis(0) lap=4 point=1 t=21.663 et=482.467</Score>
+<Score et="527.6">Martin Vindis(0) lap=4 point=2 t=66.741 et=527.546</Score>
+<Score et="558.5">Martin Vindis(0) lap=5 point=0 t=97.720 et=558.524</Score>
+<Score et="580.1">Martin Vindis(0) lap=5 point=1 t=21.524 et=580.048</Score>
+<Score et="619.1">Martin Vindis(0) lap=5 point=2 t=60.554 et=619.078</Score>
+<Score et="650.2">Martin Vindis(0) lap=6 point=0 t=91.639 et=650.164</Score>
+<Score et="671.6">Martin Vindis(0) lap=6 point=1 t=21.421 et=671.584</Score>
+<Score et="716.5">Martin Vindis(0) lap=6 point=2 t=66.347 et=716.511</Score>
+<Score et="747.6">Martin Vindis(0) lap=7 point=0 t=97.373 et=747.537</Score>
+<Score et="769.0">Martin Vindis(0) lap=7 point=1 t=21.427 et=768.964</Score>
+<Score et="810.2">Martin Vindis(0) lap=7 point=2 t=-1.000 et=810.247</Score>
+<Score et="810.2">Martin Vindis(0) lap=8 point=0 t=-1.000 et=810.247</Score>
+</Stream>
+<MostLapsCompleted>8</MostLapsCompleted>
+<Driver>
+<Name>Martin Vindis</Name>
+<Connected>1</Connected>
+<VehFile>MMORO9.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>MR18: Carlos Moyda #09</VehName>
+<CarType>MetalMoro MR18</CarType>
+<CarClass>MetalMoro MR18</CarClass>
+<CarNumber>9</CarNumber>
+<TeamName>Camber Racing</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.184">--.----</Lap>
+<Lap num="2" p="1" et="160.8249" s1="21.4028" fuel="0.176">--.----</Lap>
+<Lap num="3" p="1" et="189.1476" fuel="0.184">--.----</Lap>
+<Lap num="4" p="1" et="369.5222" s1="21.4405" s2="38.8847" s3="30.9570" fuel="0.161">91.2822</Lap>
+<Lap num="5" p="1" et="460.8044" s1="21.6631" s2="45.0782" s3="30.9785" fuel="0.137">97.7198</Lap>
+<Lap num="6" p="1" et="558.5241" s1="21.5239" s2="39.0298" s3="31.0858" fuel="0.110">91.6395</Lap>
+<Lap num="7" p="1" et="650.1636" s1="21.4209" s2="44.9262" s3="31.0259" fuel="0.086">97.3730</Lap>
+<Lap num="8" p="1" et="747.5366" s1="21.4270" fuel="0.078">--.----</Lap>
+<BestLapTime>91.2822</BestLapTime>
+<Laps>8</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="8">PlayerControl,TC=1,ABS=1,Clutch,Invulnerable,AutoLift,AutoBlip</ControlAndAids>
+</Driver>
+</TestDay>
+</RaceResults>
+</rFactorXML>

@@ -1,0 +1,147 @@
+VehicleClassSetting="CopaMarcas"
+UpgradeSetting=(0,0)
+//VEH=GAMEDATA\VEHICLES\MARCAS\MITSUBISHI_TEAMS\MITSUBISHI_2\LANCER_61.VEH
+//UpgradeClass=
+//Note: settings commented out if using the default
+
+[GENERAL]
+Notes=""
+Symmetric=1
+//CGRightSetting=0//50.0:50.0
+//CGRearSetting=0//61.4:38.6
+//WedgeSetting=0//0.00 turns
+//FrontTireCompoundSetting=0//Pirelli PZero
+//RearTireCompoundSetting=0//Pirelli PZero
+//FuelSetting=19//20L (6laps)
+//NumPitstopsSetting=2//2
+//Pitstop1Setting=69//+69L (21laps)
+//Pitstop2Setting=69//+69L (21laps)
+//Pitstop3Setting=0//N/A
+
+[LEFTFENDER]
+//FenderFlareSetting=0//1
+
+[RIGHTFENDER]
+//FenderFlareSetting=0//1
+
+[FRONTWING]
+//FWSetting=0//1
+
+[REARWING]
+//RWSetting=1//2
+
+[BODYAERO]
+//RadiatorSetting=0//1
+//BrakeDuctSetting=2//3
+
+[SUSPENSION]
+//FrontAntiSwaySetting=2//40 N/mm
+//RearAntiSwaySetting=3//50 N/mm
+//FrontToeInSetting=3//-0.75 deg
+//RearToeInSetting=0//1.66 deg
+//LeftCasterSetting=0//10.0 deg
+//RightCasterSetting=0//10.0 deg
+//LeftTrackBarSetting=0//0.0 cm
+//RightTrackBarSetting=0//0.0 cm
+//Front3rdPackerSetting=0//0.0 cm
+//Front3rdSpringSetting=0//Detached
+//Front3rdSlowBumpSetting=0//1
+//Front3rdFastBumpSetting=0//1
+//Front3rdSlowReboundSetting=0//1
+//Front3rdFastReboundSetting=0//1
+//Rear3rdPackerSetting=0//0.0 cm
+//Rear3rdSpringSetting=0//Detached
+//Rear3rdSlowBumpSetting=0//1
+//Rear3rdFastBumpSetting=0//1
+//Rear3rdSlowReboundSetting=0//1
+//Rear3rdFastReboundSetting=0//1
+
+[CONTROLS]
+SteerLockSetting=6//16.0 deg
+//RearBrakeSetting=16//72.0:28.0
+//BrakePressureSetting=15//85%
+//HandbrakePressSetting=0//0%
+
+[ENGINE]
+//RevLimitSetting=0//7,100
+//EngineBoostSetting=0//1
+//EngineBrakingMapSetting=0//0
+
+[DRIVELINE]
+//FinalDriveSetting=0//14/46 (bevel 10/10)
+//ReverseSetting=0//13/39 (9.857)
+Gear1Setting=0//13/39 (9.857)
+Gear2Setting=1//15/30 (6.571)
+Gear3Setting=2//14/22 (5.163)
+Gear4Setting=3//18/24 (4.381)
+Gear5Setting=4//19/23 (3.977)
+Gear6Setting=5//18/20 (3.651)
+//DiffPumpSetting=0//0%
+//DiffPowerSetting=38//40%
+//DiffCoastSetting=18//20%
+//DiffPreloadSetting=124//125
+//RearSplitSetting=0//100.0: 0.0
+
+[FRONTLEFT]
+//CamberSetting=1//-4.5 deg
+//PressureSetting=8//160 kPa
+//PackerSetting=25//2.5 cm
+//SpringSetting=0//300 N/mm
+//SpringRubberSetting=0//Detached
+//RideHeightSetting=5//5.5 cm
+//SlowBumpSetting=7//8
+//FastBumpSetting=7//8
+//SlowReboundSetting=7//8
+//FastReboundSetting=7//8
+//BrakeDiscSetting=0//3.0 cm
+//BrakePadSetting=0//1
+
+[FRONTRIGHT]
+//CamberSetting=1//-4.5 deg
+//PressureSetting=8//160 kPa
+//PackerSetting=25//2.5 cm
+//SpringSetting=0//300 N/mm
+//SpringRubberSetting=0//Detached
+//RideHeightSetting=5//5.5 cm
+//SlowBumpSetting=7//8
+//FastBumpSetting=7//8
+//SlowReboundSetting=7//8
+//FastReboundSetting=7//8
+//BrakeDiscSetting=0//3.0 cm
+//BrakePadSetting=0//1
+
+[REARLEFT]
+//CamberSetting=0//-2.8 deg
+//PressureSetting=10//220 kPa
+//PackerSetting=35//3.5 cm
+//SpringSetting=0//80 N/mm
+//SpringRubberSetting=0//Detached
+//RideHeightSetting=10//6.5 cm
+//SlowBumpSetting=3//4
+//FastBumpSetting=3//4
+//SlowReboundSetting=1//2
+//FastReboundSetting=1//2
+//BrakeDiscSetting=0//3.0 cm
+//BrakePadSetting=0//1
+
+[REARRIGHT]
+//CamberSetting=0//-2.8 deg
+//PressureSetting=10//220 kPa
+//PackerSetting=35//3.5 cm
+//SpringSetting=0//80 N/mm
+//SpringRubberSetting=0//Detached
+//RideHeightSetting=10//6.5 cm
+//SlowBumpSetting=3//4
+//FastBumpSetting=3//4
+//SlowReboundSetting=1//2
+//FastReboundSetting=1//2
+//BrakeDiscSetting=0//3.0 cm
+//BrakePadSetting=0//1
+
+[BASIC]
+Downforce=0.500000
+Balance=0.500000
+Ride=0.500000
+Gearing=0.500000
+Custom=1
+

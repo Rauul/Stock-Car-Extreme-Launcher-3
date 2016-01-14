@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Practice</Setting>
+<PlayerFile>Martin Vindis</PlayerFile>
+<DateTime>1451329290</DateTime>
+<TimeString>2015/12/28 20:01:30</TimeString>
+<Mod>reizaEECGT3.rfm</Mod>
+<Season></Season>
+<TrackVenue>Bologna Historic</TrackVenue>
+<TrackCourse>Bologna Historic</TrackCourse>
+<TrackEvent>Bologna Historic</TrackEvent>
+<TrackLength>4965.7</TrackLength>
+<GameVersion>1.700</GameVersion>
+<Dedicated>0</Dedicated>
+<ConnectionType upload="5000" download="5000">LAN</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>20</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>100</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>reizaEECGT3</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>255</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<TestDay>
+<DateTime>1451329292</DateTime>
+<TimeString>2015/12/28 20:01:32</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>0</Minutes>
+<Stream>
+<Score et="47.3">Martin Vindis(0) lap=0 point=1 t=-1.000 et=47.277</Score>
+<Score et="82.1">Martin Vindis(0) lap=0 point=2 t=-1.000 et=82.050</Score>
+<Score et="135.7">Martin Vindis(0) lap=1 point=0 t=-1.000 et=135.662</Score>
+<Score et="155.6">Martin Vindis(0) lap=1 point=1 t=19.938 et=155.599</Score>
+<Score et="162.3">Martin Vindis(0) lap=1 point=2 t=-1.000 et=162.265</Score>
+<Score et="162.3">Martin Vindis(0) lap=2 point=0 t=-1.000 et=162.265</Score>
+<Score et="242.3">Martin Vindis(0) lap=2 point=1 t=-1.000 et=242.298</Score>
+<Score et="277.1">Martin Vindis(0) lap=2 point=2 t=-1.000 et=276.978</Score>
+<Score et="330.5">Martin Vindis(0) lap=3 point=0 t=-1.000 et=330.462</Score>
+<Score et="350.3">Martin Vindis(0) lap=3 point=1 t=19.789 et=350.251</Score>
+<Score et="384.9">Martin Vindis(0) lap=3 point=2 t=54.406 et=384.868</Score>
+<Score et="438.6">Martin Vindis(0) lap=4 point=0 t=107.922 et=438.384</Score>
+<Score et="458.2">Martin Vindis(0) lap=4 point=1 t=19.762 et=458.145</Score>
+<Score et="492.8">Martin Vindis(0) lap=4 point=2 t=54.344 et=492.728</Score>
+<Score et="505.5">Martin Vindis(0) lap=5 point=0 t=-1.000 et=505.503</Score>
+</Stream>
+<MostLapsCompleted>5</MostLapsCompleted>
+<Driver>
+<Name>Martin Vindis</Name>
+<Connected>1</Connected>
+<VehFile>MCLAREN08.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>McLaren GT MP4-12C</VehName>
+<CarType>EEC GT3</CarType>
+<CarClass>EEC GT3</CarClass>
+<CarNumber>16</CarNumber>
+<TeamName>McLaren Test Car</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.400">--.----</Lap>
+<Lap num="2" p="1" et="135.6616" s1="19.9378" fuel="0.392">--.----</Lap>
+<Lap num="3" p="1" et="162.2651" fuel="0.400">--.----</Lap>
+<Lap num="4" p="1" et="330.4620" s1="19.7888" s2="34.6177" s3="53.5152" fuel="0.376">107.9217</Lap>
+<Lap num="5" p="1" et="438.3837" s1="19.7615" s2="34.5826" fuel="0.361">--.----</Lap>
+<BestLapTime>107.9217</BestLapTime>
+<Laps>5</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">MixedControl,Clutch,Invulnerable,AutoLift,AutoBlip</ControlAndAids>
+<ControlAndAids startLap="4" endLap="4">AIControl</ControlAndAids>
+<ControlAndAids startLap="5" endLap="5">MixedControl,Clutch,Invulnerable,AutoLift,AutoBlip</ControlAndAids>
+</Driver>
+</TestDay>
+</RaceResults>
+</rFactorXML>

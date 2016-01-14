@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Practice</Setting>
+<PlayerFile>Martin Vindis</PlayerFile>
+<DateTime>1451681867</DateTime>
+<TimeString>2016/01/01 21:57:47</TimeString>
+<Mod>reiza76.rfm</Mod>
+<Season></Season>
+<TrackVenue>Kansai</TrackVenue>
+<TrackCourse>Kansai</TrackCourse>
+<TrackEvent>Japanese Grand Prix</TrackEvent>
+<TrackLength>5803.1</TrackLength>
+<GameVersion>1.700</GameVersion>
+<Dedicated>0</Dedicated>
+<ConnectionType upload="5000" download="5000">LAN</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>20</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>100</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>F430GTC</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>11</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<TestDay>
+<DateTime>1451681868</DateTime>
+<TimeString>2016/01/01 21:57:48</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>0</Minutes>
+<Stream>
+<Score et="96.3">Martin Vindis(0) lap=0 point=1 t=-1.000 et=96.282</Score>
+<Score et="146.3">Martin Vindis(0) lap=0 point=2 t=-1.000 et=146.247</Score>
+<Score et="173.7">Martin Vindis(0) lap=1 point=0 t=-1.000 et=173.724</Score>
+<Score et="198.4">Martin Vindis(0) lap=1 point=1 t=-1.000 et=198.422</Score>
+<Score et="198.4">Martin Vindis(0) lap=1 point=2 t=-1.000 et=198.422</Score>
+<Score et="198.4">Martin Vindis(0) lap=2 point=0 t=-1.000 et=198.422</Score>
+</Stream>
+<MostLapsCompleted>2</MostLapsCompleted>
+<Driver>
+<Name>Martin Vindis</Name>
+<Connected>1</Connected>
+<VehFile>MOVE.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>F430GTC: Move Racing #77</VehName>
+<CarType>F430GTC</CarType>
+<CarClass>F430GTC</CarClass>
+<CarNumber>07</CarNumber>
+<TeamName>Move Racing</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.525">--.----</Lap>
+<Lap num="2" p="1" et="173.7243" fuel="0.565">--.----</Lap>
+<Laps>2</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="2">MixedControl,Clutch,AutoLift,AutoBlip</ControlAndAids>
+</Driver>
+</TestDay>
+</RaceResults>
+</rFactorXML>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Practice</Setting>
+<PlayerFile>Martin Vindis</PlayerFile>
+<DateTime>1448805373</DateTime>
+<TimeString>2015/11/29 14:56:13</TimeString>
+<Mod>reiza78.rfm</Mod>
+<Season></Season>
+<TrackVenue>Interlagos</TrackVenue>
+<TrackCourse>Interlagos</TrackCourse>
+<TrackEvent>Interlagos GP</TrackEvent>
+<TrackLength>4297.7</TrackLength>
+<GameVersion>1.700</GameVersion>
+<Dedicated>0</Dedicated>
+<ConnectionType upload="64" download="64">ISDN</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>100</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Reiza78</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>11</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<TestDay>
+<DateTime>1448805378</DateTime>
+<TimeString>2015/11/29 14:56:18</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>0</Minutes>
+<Stream>
+<Score et="113.6">Martin Vindis(0) lap=0 point=1 t=-1.000 et=113.615</Score>
+<Incident et="152.4">Martin Vindis(0) reported contact (0.48) with Immovable</Incident>
+<Incident et="152.5">Martin Vindis(0) reported contact (1.00) with Immovable</Incident>
+<Incident et="152.5">Martin Vindis(0) reported contact (1.00) with Immovable</Incident>
+<Score et="183.1">Martin Vindis(0) lap=0 point=2 t=-1.000 et=183.060</Score>
+<Score et="206.1">Martin Vindis(0) lap=1 point=0 t=-1.000 et=206.123</Score>
+<Score et="231.3">Martin Vindis(0) lap=1 point=1 t=25.116 et=231.240</Score>
+<Score et="249.7">Martin Vindis(0) lap=1 point=2 t=-1.000 et=249.724</Score>
+<Score et="249.7">Martin Vindis(0) lap=2 point=0 t=-1.000 et=249.724</Score>
+</Stream>
+<MostLapsCompleted>2</MostLapsCompleted>
+<Driver>
+<Name>Martin Vindis</Name>
+<Connected>1</Connected>
+<VehFile>PROSPEED.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>997RSR: ProSpeed Competition #60</VehName>
+<CarType>Porsche 997 GT3 RSR</CarType>
+<CarClass>Porsche 997 GT3 RSR</CarClass>
+<CarNumber>18</CarNumber>
+<TeamName>ProSpeed Competition</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.533">--.----</Lap>
+<Lap num="2" p="1" et="206.1233" s1="25.1164" fuel="0.525">--.----</Lap>
+<Laps>2</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="2">PlayerControl,Clutch,Invulnerable,AutoLift,AutoBlip</ControlAndAids>
+</Driver>
+</TestDay>
+</RaceResults>
+</rFactorXML>

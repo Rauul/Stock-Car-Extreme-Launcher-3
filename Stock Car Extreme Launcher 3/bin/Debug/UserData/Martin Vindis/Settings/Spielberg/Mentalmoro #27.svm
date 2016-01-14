@@ -1,0 +1,147 @@
+VehicleClassSetting="MetalmoroMR18"
+UpgradeSetting=(0,0)
+//VEH=GAMEDATA\VEHICLES\METALMORO\TEAMS\MMORO27.VEH
+//UpgradeClass=
+//Note: settings commented out if using the default
+
+[GENERAL]
+Notes=""
+Symmetric=1
+//CGRightSetting=10//50.0:50.0
+CGRearSetting=15//45.7:54.3
+//WedgeSetting=0//0.00 turns
+//FrontTireCompoundSetting=0//Pirelli PZero
+//RearTireCompoundSetting=0//Pirelli PZero
+FuelSetting=20//21L (7laps)
+//NumPitstopsSetting=0//0
+//Pitstop1Setting=29//N/A
+//Pitstop2Setting=29//N/A
+//Pitstop3Setting=29//N/A
+
+[LEFTFENDER]
+//FenderFlareSetting=0//1
+
+[RIGHTFENDER]
+//FenderFlareSetting=0//1
+
+[FRONTWING]
+//FWSetting=0//1
+
+[REARWING]
+RWSetting=7//7 deg
+
+[BODYAERO]
+//RadiatorSetting=0//1
+//BrakeDuctSetting=0//1
+
+[SUSPENSION]
+//FrontAntiSwaySetting=0//Detached
+//RearAntiSwaySetting=0//Detached
+//FrontToeInSetting=1//-0.20 deg
+RearToeInSetting=2//0.10 deg
+LeftCasterSetting=27//4.7 deg
+RightCasterSetting=27//4.7 deg
+//LeftTrackBarSetting=0//0.0 cm
+//RightTrackBarSetting=0//0.0 cm
+//Front3rdPackerSetting=0//0.0 cm
+//Front3rdSpringSetting=0//Detached
+//Front3rdSlowBumpSetting=0//1
+//Front3rdFastBumpSetting=0//1
+//Front3rdSlowReboundSetting=0//1
+//Front3rdFastReboundSetting=0//1
+//Rear3rdPackerSetting=0//0.0 cm
+//Rear3rdSpringSetting=0//Detached
+//Rear3rdSlowBumpSetting=0//1
+//Rear3rdFastBumpSetting=0//1
+//Rear3rdSlowReboundSetting=0//1
+//Rear3rdFastReboundSetting=0//1
+
+[CONTROLS]
+SteerLockSetting=17//29.0 deg
+RearBrakeSetting=21//54.5:45.5
+BrakePressureSetting=33//93%
+//HandbrakePressSetting=0//0%
+
+[ENGINE]
+//RevLimitSetting=0//7,200
+//EngineBoostSetting=0//1
+//EngineBrakingMapSetting=0//0
+
+[DRIVELINE]
+//FinalDriveSetting=0//17/21 (bevel 12/27)
+//ReverseSetting=3//12/31 (7.180)
+Gear1Setting=0//12/38 (8.801)
+Gear2Setting=5//12/29 (6.717)
+Gear3Setting=13//15/29 (5.374)
+Gear4Setting=22//16/26 (4.517)
+Gear5Setting=30//18/25 (3.860)
+Gear6Setting=41//19/23 (3.365)
+//DiffPumpSetting=0//0%
+DiffPowerSetting=8//26%
+DiffCoastSetting=16//42%
+DiffPreloadSetting=0//1
+//RearSplitSetting=0// 0.0:100.0
+
+[FRONTLEFT]
+CamberSetting=19//-3.1 deg
+PressureSetting=15//135 kPa
+PackerSetting=0//0.0 cm
+SpringSetting=37//285 N/mm
+//SpringRubberSetting=0//Detached
+RideHeightSetting=3//3.3 cm
+SlowBumpSetting=3//4
+FastBumpSetting=3//4
+//SlowReboundSetting=2//3
+//FastReboundSetting=2//3
+//BrakeDiscSetting=0//3.0 cm
+//BrakePadSetting=0//1
+
+[FRONTRIGHT]
+CamberSetting=19//-3.1 deg
+PressureSetting=15//135 kPa
+PackerSetting=0//0.0 cm
+SpringSetting=37//285 N/mm
+//SpringRubberSetting=0//Detached
+RideHeightSetting=3//3.3 cm
+SlowBumpSetting=3//4
+FastBumpSetting=3//4
+//SlowReboundSetting=2//3
+//FastReboundSetting=2//3
+//BrakeDiscSetting=0//3.0 cm
+//BrakePadSetting=0//1
+
+[REARLEFT]
+CamberSetting=23//-2.1 deg
+PressureSetting=19//139 kPa
+PackerSetting=0//0.0 cm
+SpringSetting=32//260 N/mm
+//SpringRubberSetting=0//Detached
+RideHeightSetting=0//4.0 cm
+SlowBumpSetting=2//3
+FastBumpSetting=2//3
+SlowReboundSetting=1//2
+FastReboundSetting=1//2
+//BrakeDiscSetting=0//3.0 cm
+//BrakePadSetting=0//1
+
+[REARRIGHT]
+CamberSetting=23//-2.1 deg
+PressureSetting=19//139 kPa
+PackerSetting=0//0.0 cm
+SpringSetting=32//260 N/mm
+//SpringRubberSetting=0//Detached
+RideHeightSetting=0//4.0 cm
+SlowBumpSetting=2//3
+FastBumpSetting=2//3
+SlowReboundSetting=1//2
+FastReboundSetting=1//2
+//BrakeDiscSetting=0//3.0 cm
+//BrakePadSetting=0//1
+
+[BASIC]
+Downforce=0.500000
+Balance=0.500000
+Ride=0.500000
+Gearing=0.500000
+Custom=1
+

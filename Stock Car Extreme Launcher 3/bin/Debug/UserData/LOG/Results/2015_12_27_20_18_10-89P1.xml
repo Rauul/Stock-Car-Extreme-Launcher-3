@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>AAAAAAAAAAAAAAAAAAAAA</ServerName>
+<PlayerFile>Martin Vindis</PlayerFile>
+<DateTime>1451241666</DateTime>
+<TimeString>2015/12/27 19:41:06</TimeString>
+<Mod>reiza17.rfm</Mod>
+<Season></Season>
+<TrackVenue>Spielberg</TrackVenue>
+<TrackCourse>Austrian Ring Short</TrackCourse>
+<TrackEvent>Austrian Ring Short</TrackEvent>
+<TrackLength>2328.2</TrackLength>
+<GameVersion>1.700</GameVersion>
+<Dedicated>0</Dedicated>
+<ConnectionType upload="5000" download="5000">LAN</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>50</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|LancerR|LancerRS</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>0</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Practice1>
+<DateTime>1451241667</DateTime>
+<TimeString>2015/12/27 19:41:07</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>165</Minutes>
+<Stream>
+<Chat et="1.9">Martin Vindis has entered the game.</Chat>
+<Score et="272.6">James Wilson(1) lap=2 point=2 t=42.177 et=272.502</Score>
+<Score et="279.9">James Wilson(1) lap=3 point=0 t=-1.000 et=278.533</Score>
+<Score et="279.9">James Wilson(1) lap=3 point=1 t=-1.000 et=278.533</Score>
+<Score et="279.9">James Wilson(1) lap=4 point=0 t=-1.000 et=278.533</Score>
+<Score et="279.9">James Wilson(1) lap=4 point=2 t=-1.000 et=278.533</Score>
+<Incident et="308.4">James Wilson(1) reported contact (0.23) with Immovable</Incident>
+<Score et="313.9">Martin Vindis(3) lap=0 point=1 t=-1.000 et=313.880</Score>
+<Score et="315.0">James Wilson(1) lap=4 point=1 t=-1.000 et=314.883</Score>
+<Score et="341.5">Martin Vindis(3) lap=0 point=2 t=-1.000 et=341.510</Score>
+<Score et="342.3">James Wilson(1) lap=4 point=2 t=-1.000 et=342.158</Score>
+<Score et="359.5">Martin Vindis(3) lap=1 point=0 t=-1.000 et=359.485</Score>
+<Score et="361.0">James Wilson(1) lap=5 point=0 t=-1.000 et=360.883</Score>
+<Score et="373.6">Martin Vindis(3) lap=1 point=1 t=14.037 et=373.522</Score>
+<Score et="374.8">James Wilson(1) lap=5 point=1 t=13.825 et=374.708</Score>
+<Score et="400.6">Martin Vindis(3) lap=1 point=2 t=41.034 et=400.519</Score>
+<Score et="401.5">James Wilson(1) lap=5 point=2 t=40.525 et=401.408</Score>
+<Score et="419.6">Martin Vindis(3) lap=2 point=0 t=60.150 et=419.635</Score>
+<Score et="420.2">James Wilson(1) lap=6 point=0 t=59.240 et=420.123</Score>
+<Score et="433.9">Martin Vindis(3) lap=2 point=1 t=14.239 et=433.875</Score>
+<Score et="434.1">James Wilson(1) lap=6 point=1 t=13.845 et=433.968</Score>
+<Incident et="436.3">Martin Vindis(3) reported contact (0.06) with another vehicle James Wilson(1)</Incident>
+<Score et="461.4">Martin Vindis(3) lap=2 point=2 t=41.775 et=461.411</Score>
+<Score et="461.7">James Wilson(1) lap=6 point=2 t=41.485 et=461.608</Score>
+<Score et="480.2">Martin Vindis(3) lap=3 point=0 t=60.512 et=480.148</Score>
+<Score et="480.3">James Wilson(1) lap=7 point=0 t=60.120 et=480.244</Score>
+<Incident et="484.5">Martin Vindis(3) reported contact (0.35) with another vehicle James Wilson(1)</Incident>
+<Incident et="484.5">Martin Vindis(3) reported contact (0.16) with another vehicle James Wilson(1)</Incident>
+<Incident et="484.5">Martin Vindis(3) reported contact (0.03) with another vehicle James Wilson(1)</Incident>
+<Incident et="484.6">James Wilson(1) reported contact (0.39) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="484.6">James Wilson(1) reported contact (0.16) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="485.0">Martin Vindis(3) reported contact (0.23) with another vehicle James Wilson(1)</Incident>
+<Incident et="485.0">Martin Vindis(3) reported contact (0.06) with another vehicle James Wilson(1)</Incident>
+<Incident et="485.0">James Wilson(1) reported contact (0.23) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="485.1">James Wilson(1) reported contact (0.06) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="485.3">Martin Vindis(3) reported contact (0.06) with another vehicle James Wilson(1)</Incident>
+<Incident et="485.5">Martin Vindis(3) reported contact (0.03) with another vehicle James Wilson(1)</Incident>
+<Incident et="485.6">James Wilson(1) reported contact (0.03) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="488.2">Martin Vindis(3) reported contact (0.03) with another vehicle James Wilson(1)</Incident>
+<Incident et="489.3">Martin Vindis(3) reported contact (1.00) with Immovable</Incident>
+<Incident et="489.3">Martin Vindis(3) reported contact (0.94) with another vehicle James Wilson(1)</Incident>
+<Incident et="489.3">Martin Vindis(3) reported contact (0.97) with another vehicle James Wilson(1)</Incident>
+<Incident et="489.3">Martin Vindis(3) reported contact (0.35) with Immovable</Incident>
+<Incident et="489.3">Martin Vindis(3) reported contact (0.26) with another vehicle James Wilson(1)</Incident>
+<Incident et="489.3">Martin Vindis(3) reported contact (0.29) with another vehicle James Wilson(1)</Incident>
+<Incident et="489.3">Martin Vindis(3) reported contact (0.81) with Immovable</Incident>
+<Incident et="489.3">Martin Vindis(3) reported contact (0.19) with another vehicle James Wilson(1)</Incident>
+<Incident et="489.3">Martin Vindis(3) reported contact (0.16) with another vehicle James Wilson(1)</Incident>
+<Incident et="489.4">James Wilson(1) reported contact (0.58) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="489.5">James Wilson(1) reported contact (1.00) with Immovable</Incident>
+<Incident et="489.5">Martin Vindis(3) reported contact (1.00) with Immovable</Incident>
+<Incident et="489.8">James Wilson(1) reported contact (0.45) with Immovable</Incident>
+<Incident et="490.3">Martin Vindis(3) reported contact (1.00) with Immovable</Incident>
+<Incident et="490.5">Martin Vindis(3) reported contact (0.55) with Immovable</Incident>
+<Incident et="490.5">Martin Vindis(3) reported contact (0.26) with Immovable</Incident>
+<Incident et="490.8">James Wilson(1) reported contact (1.00) with Immovable</Incident>
+<Incident et="497.1">Martin Vindis(3) reported contact (0.68) with Immovable</Incident>
+<Incident et="498.0">James Wilson(1) reported contact (0.06) with Immovable</Incident>
+<Incident et="498.4">James Wilson(1) reported contact (0.81) with Immovable</Incident>
+<Incident et="498.4">James Wilson(1) reported contact (0.06) with Immovable</Incident>
+<Incident et="498.8">James Wilson(1) reported contact (0.23) with Immovable</Incident>
+<Incident et="504.5">Martin Vindis(3) reported contact (1.00) with another vehicle James Wilson(1)</Incident>
+<Incident et="504.5">Martin Vindis(3) reported contact (0.10) with another vehicle James Wilson(1)</Incident>
+<Incident et="504.5">Martin Vindis(3) reported contact (0.06) with another vehicle James Wilson(1)</Incident>
+<Incident et="504.5">Martin Vindis(3) reported contact (0.13) with another vehicle James Wilson(1)</Incident>
+<Incident et="504.5">James Wilson(1) reported contact (1.00) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="504.5">James Wilson(1) reported contact (0.19) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="504.5">James Wilson(1) reported contact (0.32) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="504.5">James Wilson(1) reported contact (0.13) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="504.6">James Wilson(1) reported contact (0.06) with another vehicle Martin Vindis(3)</Incident>
+<Score et="511.3">Martin Vindis(3) lap=3 point=1 t=31.175 et=511.322</Score>
+<Score et="511.7">James Wilson(1) lap=7 point=1 t=31.390 et=511.633</Score>
+<Score et="538.8">Martin Vindis(3) lap=3 point=2 t=58.598 et=538.745</Score>
+<Score et="539.0">James Wilson(1) lap=7 point=2 t=58.704 et=538.948</Score>
+<Incident et="547.2">Martin Vindis(3) reported contact (0.32) with another vehicle James Wilson(1)</Incident>
+<Incident et="547.2">Martin Vindis(3) reported contact (0.03) with another vehicle James Wilson(1)</Incident>
+<Incident et="547.3">James Wilson(1) reported contact (0.35) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="547.3">James Wilson(1) reported contact (0.10) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="550.5">James Wilson(1) reported contact (0.26) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="550.5">James Wilson(1) reported contact (0.03) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="550.7">Martin Vindis(3) reported contact (0.19) with another vehicle James Wilson(1)</Incident>
+<Incident et="550.8">James Wilson(1) reported contact (0.16) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="551.9">James Wilson(1) reported contact (1.00) with Immovable</Incident>
+<Incident et="552.3">Martin Vindis(3) reported contact (0.84) with Immovable</Incident>
+<Incident et="552.4">Martin Vindis(3) reported contact (1.00) with Immovable</Incident>
+<Incident et="552.4">Martin Vindis(3) reported contact (0.13) with Immovable</Incident>
+<Incident et="553.0">James Wilson(1) reported contact (0.26) with Immovable</Incident>
+<Score et="561.6">Martin Vindis(3) lap=4 point=0 t=81.406 et=561.553</Score>
+<Score et="563.7">James Wilson(1) lap=8 point=0 t=83.390 et=563.633</Score>
+<Score et="576.8">Martin Vindis(3) lap=4 point=1 t=15.241 et=576.794</Score>
+<Score et="578.0">James Wilson(1) lap=8 point=1 t=14.226 et=577.860</Score>
+<Score et="603.5">Martin Vindis(3) lap=4 point=2 t=41.941 et=603.494</Score>
+<Score et="604.7">James Wilson(1) lap=8 point=2 t=40.900 et=604.533</Score>
+<Score et="622.5">Martin Vindis(3) lap=5 point=0 t=60.916 et=622.469</Score>
+<Score et="623.2">James Wilson(1) lap=9 point=0 t=59.461 et=623.094</Score>
+<Score et="636.3">Martin Vindis(3) lap=5 point=1 t=13.750 et=636.219</Score>
+<Score et="636.8">James Wilson(1) lap=9 point=1 t=13.589 et=636.683</Score>
+<Score et="663.0">Martin Vindis(3) lap=5 point=2 t=40.527 et=662.997</Score>
+<Score et="663.3">James Wilson(1) lap=9 point=2 t=40.074 et=663.168</Score>
+<Incident et="680.6">James Wilson(1) reported contact (1.00) with Immovable</Incident>
+<Incident et="680.6">James Wilson(1) reported contact (1.00) with Immovable</Incident>
+<Incident et="680.7">James Wilson(1) reported contact (0.06) with Immovable</Incident>
+<Score et="681.7">James Wilson(1) lap=10 point=0 t=58.528 et=681.622</Score>
+<Score et="681.8">Martin Vindis(3) lap=6 point=0 t=59.315 et=681.784</Score>
+<Incident et="683.1">Martin Vindis(3) reported contact (0.74) with another vehicle James Wilson(1)</Incident>
+<Incident et="683.1">Martin Vindis(3) reported contact (0.26) with another vehicle James Wilson(1)</Incident>
+<Incident et="683.2">James Wilson(1) reported contact (1.00) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="683.2">Martin Vindis(3) reported contact (1.00) with another vehicle James Wilson(1)</Incident>
+<Incident et="683.2">James Wilson(1) reported contact (0.23) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="683.2">James Wilson(1) reported contact (0.71) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="684.4">Martin Vindis(3) reported contact (0.81) with Immovable</Incident>
+<Incident et="684.6">Martin Vindis(3) reported contact (0.81) with Immovable</Incident>
+<Incident et="684.6">Martin Vindis(3) reported contact (0.29) with Immovable</Incident>
+<Incident et="685.0">Martin Vindis(3) reported contact (0.16) with Immovable</Incident>
+<Incident et="685.3">Martin Vindis(3) reported contact (0.03) with Immovable</Incident>
+<Incident et="687.3">Martin Vindis(3) reported contact (0.55) with Sign</Incident>
+<Incident et="687.3">Martin Vindis(3) reported contact (0.23) with Sign</Incident>
+<Incident et="687.6">Martin Vindis(3) reported contact (0.10) with Sign</Incident>
+<Incident et="687.7">Martin Vindis(3) reported contact (1.00) with Immovable</Incident>
+<Incident et="687.8">Martin Vindis(3) reported contact (0.42) with Track</Incident>
+<Incident et="687.8">Martin Vindis(3) reported contact (1.00) with Immovable</Incident>
+<Incident et="688.2">Martin Vindis(3) reported contact (0.74) with Immovable</Incident>
+<Incident et="688.6">Martin Vindis(3) reported contact (0.13) with Track</Incident>
+<Incident et="696.4">Martin Vindis(3) reported contact (1.00) with Immovable</Incident>
+<Incident et="696.9">Martin Vindis(3) reported contact (0.00) with Immovable</Incident>
+<Score et="715.6">James Wilson(1) lap=10 point=1 t=33.920 et=715.542</Score>
+<Score et="715.7">Martin Vindis(3) lap=6 point=1 t=33.885 et=715.669</Score>
+<Score et="742.8">James Wilson(1) lap=10 point=2 t=61.115 et=742.737</Score>
+<Score et="742.9">Martin Vindis(3) lap=6 point=2 t=61.125 et=742.910</Score>
+<Incident et="750.7">Martin Vindis(3) reported contact (0.48) with another vehicle James Wilson(1)</Incident>
+<Incident et="750.7">Martin Vindis(3) reported contact (0.13) with another vehicle James Wilson(1)</Incident>
+<Incident et="750.8">James Wilson(1) reported contact (0.48) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="750.8">James Wilson(1) reported contact (0.13) with another vehicle Martin Vindis(3)</Incident>
+<Score et="761.4">Martin Vindis(3) lap=7 point=0 t=79.585 et=761.370</Score>
+<Score et="761.7">James Wilson(1) lap=11 point=0 t=79.978 et=761.600</Score>
+<Incident et="768.1">Martin Vindis(3) reported contact (0.39) with another vehicle James Wilson(1)</Incident>
+<Incident et="768.1">Martin Vindis(3) reported contact (0.06) with another vehicle James Wilson(1)</Incident>
+<Incident et="768.2">James Wilson(1) reported contact (0.26) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="768.2">James Wilson(1) reported contact (0.06) with another vehicle Martin Vindis(3)</Incident>
+<Score et="775.2">Martin Vindis(3) lap=7 point=1 t=13.775 et=775.144</Score>
+<Score et="775.5">James Wilson(1) lap=11 point=1 t=13.769 et=775.369</Score>
+<Score et="801.9">Martin Vindis(3) lap=7 point=2 t=40.550 et=801.920</Score>
+<Score et="802.2">James Wilson(1) lap=11 point=2 t=40.446 et=802.046</Score>
+<Score et="820.4">Martin Vindis(3) lap=8 point=0 t=59.000 et=820.369</Score>
+<Score et="820.8">James Wilson(1) lap=12 point=0 t=58.963 et=820.563</Score>
+<Score et="834.2">Martin Vindis(3) lap=8 point=1 t=13.836 et=834.206</Score>
+<Score et="834.5">James Wilson(1) lap=12 point=1 t=13.770 et=834.333</Score>
+<Score et="860.9">Martin Vindis(3) lap=8 point=2 t=40.511 et=860.881</Score>
+<Score et="861.2">James Wilson(1) lap=12 point=2 t=40.445 et=861.008</Score>
+<Score et="879.4">Martin Vindis(3) lap=9 point=0 t=58.952 et=879.322</Score>
+<Score et="879.6">James Wilson(1) lap=13 point=0 t=58.870 et=879.433</Score>
+<Score et="893.6">James Wilson(1) lap=13 point=1 t=14.002 et=893.435</Score>
+<Score et="893.8">Martin Vindis(3) lap=9 point=1 t=14.399 et=893.720</Score>
+<Score et="920.2">James Wilson(1) lap=13 point=2 t=40.580 et=920.013</Score>
+<Score et="920.3">Martin Vindis(3) lap=9 point=2 t=40.923 et=920.244</Score>
+<Incident et="926.0">Martin Vindis(3) reported contact (0.16) with another vehicle James Wilson(1)</Incident>
+<Incident et="926.1">Martin Vindis(3) reported contact (0.10) with another vehicle James Wilson(1)</Incident>
+<Incident et="926.1">Martin Vindis(3) reported contact (0.03) with another vehicle James Wilson(1)</Incident>
+<Incident et="926.2">James Wilson(1) reported contact (0.48) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="926.2">James Wilson(1) reported contact (0.26) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="931.2">James Wilson(1) reported contact (1.00) with Immovable</Incident>
+<Incident et="931.4">James Wilson(1) reported contact (1.00) with Immovable</Incident>
+<Incident et="931.4">James Wilson(1) reported contact (0.45) with Immovable</Incident>
+<Incident et="946.8">Martin Vindis(3) reported contact (0.94) with another vehicle James Wilson(1)</Incident>
+<Incident et="946.8">Martin Vindis(3) reported contact (0.16) with another vehicle James Wilson(1)</Incident>
+<Incident et="946.8">Martin Vindis(3) reported contact (0.35) with another vehicle James Wilson(1)</Incident>
+<Incident et="946.9">Martin Vindis(3) reported contact (0.16) with another vehicle James Wilson(1)</Incident>
+<Incident et="946.9">Martin Vindis(3) reported contact (0.03) with another vehicle James Wilson(1)</Incident>
+<Incident et="947.0">James Wilson(1) reported contact (0.97) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="947.1">James Wilson(1) reported contact (0.03) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="947.1">James Wilson(1) reported contact (0.16) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="947.1">James Wilson(1) reported contact (0.19) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="949.6">Martin Vindis(3) reported contact (1.00) with Immovable</Incident>
+<Incident et="950.1">Martin Vindis(3) reported contact (0.74) with Immovable</Incident>
+<Incident et="950.6">Martin Vindis(3) reported contact (0.68) with another vehicle James Wilson(1)</Incident>
+<Incident et="950.7">Martin Vindis(3) reported contact (0.35) with another vehicle James Wilson(1)</Incident>
+<Incident et="950.7">Martin Vindis(3) reported contact (0.35) with another vehicle James Wilson(1)</Incident>
+<Incident et="950.8">Martin Vindis(3) reported contact (0.39) with another vehicle James Wilson(1)</Incident>
+<Incident et="950.8">Martin Vindis(3) reported contact (0.13) with another vehicle James Wilson(1)</Incident>
+<Incident et="950.9">James Wilson(1) reported contact (0.61) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="950.9">James Wilson(1) reported contact (0.16) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="950.9">James Wilson(1) reported contact (0.29) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="951.0">James Wilson(1) reported contact (0.16) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="951.0">James Wilson(1) reported contact (0.06) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="951.3">James Wilson(1) reported contact (1.00) with Immovable</Incident>
+<Incident et="951.3">James Wilson(1) reported contact (0.10) with Immovable</Incident>
+<Score et="955.1">Martin Vindis(3) lap=10 point=0 t=75.773 et=955.094</Score>
+<Score et="955.9">James Wilson(1) lap=14 point=0 t=76.282 et=955.715</Score>
+<Score et="971.7">Martin Vindis(3) lap=10 point=1 t=16.580 et=971.674</Score>
+<Score et="972.0">James Wilson(1) lap=14 point=1 t=16.071 et=971.787</Score>
+<Incident et="988.6">Martin Vindis(3) reported contact (0.19) with another vehicle James Wilson(1)</Incident>
+<Incident et="988.6">Martin Vindis(3) reported contact (0.03) with another vehicle James Wilson(1)</Incident>
+<Incident et="988.8">James Wilson(1) reported contact (0.55) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="997.8">James Wilson(1) reported contact (1.00) with Immovable</Incident>
+<Incident et="997.8">James Wilson(1) reported contact (0.23) with Immovable</Incident>
+<Incident et="998.4">James Wilson(1) reported contact (0.16) with Immovable</Incident>
+<Incident et="999.4">Martin Vindis(3) reported contact (1.00) with another vehicle James Wilson(1)</Incident>
+<Incident et="999.4">Martin Vindis(3) reported contact (0.77) with another vehicle James Wilson(1)</Incident>
+<Incident et="999.4">Martin Vindis(3) reported contact (0.94) with another vehicle James Wilson(1)</Incident>
+<Incident et="999.4">Martin Vindis(3) reported contact (0.32) with another vehicle James Wilson(1)</Incident>
+<Incident et="999.5">James Wilson(1) reported contact (1.00) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="999.5">James Wilson(1) reported contact (0.84) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="999.6">Martin Vindis(3) reported contact (0.65) with Immovable</Incident>
+<Incident et="999.6">Martin Vindis(3) reported contact (1.00) with Immovable</Incident>
+<Incident et="999.7">Martin Vindis(3) reported contact (0.10) with Immovable</Incident>
+<Score et="1000.3">James Wilson(1) lap=14 point=2 t=44.409 et=1000.124</Score>
+<Score et="1000.4">Martin Vindis(3) lap=10 point=2 t=45.282 et=1000.377</Score>
+<Incident et="1002.2">Martin Vindis(3) reported contact (0.42) with another vehicle James Wilson(1)</Incident>
+<Incident et="1002.3">Martin Vindis(3) reported contact (0.19) with another vehicle James Wilson(1)</Incident>
+<Incident et="1002.4">Martin Vindis(3) reported contact (0.03) with another vehicle James Wilson(1)</Incident>
+<Score et="1029.4">Martin Vindis(3) lap=11 point=0 t=74.300 et=1029.394</Score>
+<Score et="1029.7">James Wilson(1) lap=15 point=0 t=73.953 et=1029.668</Score>
+<Score et="1043.3">Martin Vindis(3) lap=11 point=1 t=13.900 et=1043.294</Score>
+<Score et="1043.5">James Wilson(1) lap=15 point=1 t=13.729 et=1043.397</Score>
+<Incident et="1048.0">Martin Vindis(3) reported contact (0.13) with another vehicle James Wilson(1)</Incident>
+<Incident et="1048.1">James Wilson(1) reported contact (0.13) with another vehicle Martin Vindis(3)</Incident>
+<Score et="1070.1">Martin Vindis(3) lap=11 point=2 t=40.698 et=1070.092</Score>
+<Score et="1070.5">James Wilson(1) lap=15 point=2 t=40.716 et=1070.385</Score>
+<Incident et="1071.1">Martin Vindis(3) reported contact (0.58) with Immovable</Incident>
+<Incident et="1071.1">Martin Vindis(3) reported contact (0.16) with Immovable</Incident>
+<Incident et="1074.5">James Wilson(1) reported contact (0.26) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="1075.4">James Wilson(1) reported contact (1.00) with Immovable</Incident>
+<Incident et="1075.4">James Wilson(1) reported contact (1.00) with Immovable</Incident>
+<Incident et="1076.1">Martin Vindis(3) reported contact (1.00) with Immovable</Incident>
+<Incident et="1076.1">Martin Vindis(3) reported contact (0.13) with Immovable</Incident>
+<Score et="1104.1">Martin Vindis(3) lap=12 point=0 t=74.704 et=1104.099</Score>
+<Score et="1104.6">James Wilson(1) lap=16 point=0 t=74.802 et=1104.470</Score>
+<Incident et="1112.2">James Wilson(1) reported contact (1.00) with Immovable</Incident>
+<Incident et="1112.2">James Wilson(1) reported contact (1.00) with Immovable</Incident>
+<Incident et="1112.2">James Wilson(1) reported contact (0.87) with Immovable</Incident>
+<Incident et="1112.6">James Wilson(1) reported contact (0.42) with Immovable</Incident>
+<Incident et="1131.6">Martin Vindis(3) reported contact (0.77) with another vehicle James Wilson(1)</Incident>
+<Incident et="1131.6">Martin Vindis(3) reported contact (0.35) with another vehicle James Wilson(1)</Incident>
+<Incident et="1131.6">Martin Vindis(3) reported contact (0.13) with another vehicle James Wilson(1)</Incident>
+<Incident et="1131.6">James Wilson(1) reported contact (0.65) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="1131.7">James Wilson(1) reported contact (0.29) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="1131.7">James Wilson(1) reported contact (0.10) with another vehicle Martin Vindis(3)</Incident>
+<Score et="1134.1">Martin Vindis(3) lap=12 point=1 t=29.996 et=1134.094</Score>
+<Score et="1134.5">James Wilson(1) lap=16 point=1 t=29.938 et=1134.408</Score>
+<Score et="1160.9">Martin Vindis(3) lap=12 point=2 t=56.796 et=1160.894</Score>
+<Score et="1161.4">James Wilson(1) lap=16 point=2 t=56.789 et=1161.259</Score>
+<Incident et="1169.4">Martin Vindis(3) reported contact (0.81) with another vehicle James Wilson(1)</Incident>
+<Incident et="1169.4">Martin Vindis(3) reported contact (0.35) with another vehicle James Wilson(1)</Incident>
+<Incident et="1169.4">James Wilson(1) reported contact (0.74) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="1169.4">Martin Vindis(3) reported contact (0.10) with another vehicle James Wilson(1)</Incident>
+<Incident et="1169.5">James Wilson(1) reported contact (0.16) with another vehicle Martin Vindis(3)</Incident>
+<Score et="1179.9">Martin Vindis(3) lap=13 point=0 t=75.746 et=1179.844</Score>
+<Score et="1180.1">James Wilson(1) lap=17 point=0 t=75.497 et=1179.967</Score>
+<Score et="1193.8">Martin Vindis(3) lap=13 point=1 t=13.886 et=1193.730</Score>
+<Score et="1194.0">James Wilson(1) lap=17 point=1 t=13.972 et=1193.938</Score>
+<Incident et="1196.9">Martin Vindis(3) reported contact (0.45) with another vehicle James Wilson(1)</Incident>
+<Incident et="1196.9">James Wilson(1) reported contact (0.48) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="1196.9">James Wilson(1) reported contact (0.13) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="1199.0">Martin Vindis(3) reported contact (0.16) with another vehicle James Wilson(1)</Incident>
+<Score et="1220.3">Martin Vindis(3) lap=13 point=2 t=40.377 et=1220.221</Score>
+<Score et="1220.7">James Wilson(1) lap=17 point=2 t=40.655 et=1220.622</Score>
+<Incident et="1235.4">James Wilson(1) reported contact (0.16) with Immovable</Incident>
+<Score et="1239.2">Martin Vindis(3) lap=14 point=0 t=59.350 et=1239.194</Score>
+<Score et="1239.4">James Wilson(1) lap=18 point=0 t=59.325 et=1239.292</Score>
+<Score et="1253.2">Martin Vindis(3) lap=14 point=1 t=14.029 et=1253.223</Score>
+<Score et="1253.5">James Wilson(1) lap=18 point=1 t=14.117 et=1253.408</Score>
+<Incident et="1267.0">Martin Vindis(3) reported contact (0.13) with another vehicle James Wilson(1)</Incident>
+<Incident et="1267.1">James Wilson(1) reported contact (0.13) with another vehicle Martin Vindis(3)</Incident>
+<Score et="1280.1">James Wilson(1) lap=18 point=2 t=40.699 et=1279.991</Score>
+<Score et="1280.3">Martin Vindis(3) lap=14 point=2 t=41.036 et=1280.230</Score>
+<Incident et="1284.6">James Wilson(1) reported contact (0.10) with another vehicle Martin Vindis(3)</Incident>
+<Score et="1298.9">James Wilson(1) lap=19 point=0 t=59.554 et=1298.846</Score>
+<Score et="1299.6">Martin Vindis(3) lap=15 point=0 t=60.408 et=1299.602</Score>
+<Incident et="1307.0">James Wilson(1) reported contact (0.35) with Track</Incident>
+<Incident et="1308.5">James Wilson(1) reported contact (1.00) with Immovable</Incident>
+<Incident et="1308.9">James Wilson(1) reported contact (0.06) with Immovable</Incident>
+<Score et="1314.6">Martin Vindis(3) lap=15 point=1 t=14.977 et=1314.580</Score>
+<Score et="1315.8">James Wilson(1) lap=19 point=1 t=16.824 et=1315.670</Score>
+<Incident et="1336.3">Martin Vindis(3) reported contact (0.68) with Immovable</Incident>
+<Incident et="1336.3">Martin Vindis(3) reported contact (0.90) with Immovable</Incident>
+<Incident et="1336.3">Martin Vindis(3) reported contact (1.00) with Immovable</Incident>
+<Incident et="1336.3">Martin Vindis(3) reported contact (1.00) with Immovable</Incident>
+<Incident et="1336.3">Martin Vindis(3) reported contact (1.00) with Immovable</Incident>
+<Incident et="1336.3">Martin Vindis(3) reported contact (0.68) with Immovable</Incident>
+<Incident et="1336.3">Martin Vindis(3) reported contact (0.45) with Immovable</Incident>
+<Incident et="1336.3">Martin Vindis(3) reported contact (0.39) with Immovable</Incident>
+<Incident et="1336.5">Martin Vindis(3) reported contact (1.00) with another vehicle James Wilson(1)</Incident>
+<Incident et="1336.5">Martin Vindis(3) reported contact (0.03) with Immovable</Incident>
+<Incident et="1336.5">Martin Vindis(3) reported contact (1.00) with another vehicle James Wilson(1)</Incident>
+<Incident et="1336.5">Martin Vindis(3) reported contact (1.00) with Immovable</Incident>
+<Incident et="1336.6">Martin Vindis(3) reported contact (0.74) with another vehicle James Wilson(1)</Incident>
+<Incident et="1336.6">Martin Vindis(3) reported contact (0.74) with Immovable</Incident>
+<Incident et="1336.6">Martin Vindis(3) reported contact (0.68) with another vehicle James Wilson(1)</Incident>
+<Incident et="1336.6">Martin Vindis(3) reported contact (0.13) with Immovable</Incident>
+<Incident et="1336.6">Martin Vindis(3) reported contact (0.81) with another vehicle James Wilson(1)</Incident>
+<Incident et="1336.6">Martin Vindis(3) reported contact (1.00) with Immovable</Incident>
+<Incident et="1336.6">James Wilson(1) reported contact (1.00) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="1336.6">James Wilson(1) reported contact (1.00) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="1336.6">James Wilson(1) reported contact (1.00) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="1336.6">Martin Vindis(3) reported contact (0.16) with Immovable</Incident>
+<Incident et="1336.6">Martin Vindis(3) reported contact (0.16) with Immovable</Incident>
+<Incident et="1336.6">Martin Vindis(3) reported contact (0.16) with another vehicle James Wilson(1)</Incident>
+<Incident et="1336.6">Martin Vindis(3) reported contact (0.58) with Immovable</Incident>
+<Incident et="1336.6">Martin Vindis(3) reported contact (0.81) with Immovable</Incident>
+<Incident et="1336.6">Martin Vindis(3) reported contact (0.13) with another vehicle James Wilson(1)</Incident>
+<Incident et="1336.6">Martin Vindis(3) reported contact (0.32) with Immovable</Incident>
+<Incident et="1336.6">James Wilson(1) reported contact (1.00) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="1336.6">Martin Vindis(3) reported contact (0.29) with Immovable</Incident>
+<Incident et="1336.7">James Wilson(1) reported contact (0.00) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="1337.0">James Wilson(1) reported contact (0.35) with Immovable</Incident>
+<Incident et="1337.0">James Wilson(1) reported contact (0.06) with Immovable</Incident>
+<Incident et="1344.7">James Wilson(1) reported contact (0.13) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="1346.9">James Wilson(1) reported contact (0.13) with Immovable</Incident>
+<Incident et="1383.5">Martin Vindis(3) reported contact (0.19) with another vehicle James Wilson(1)</Incident>
+<Incident et="1383.5">James Wilson(1) reported contact (0.10) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="1386.5">Martin Vindis(3) reported contact (0.42) with another vehicle James Wilson(1)</Incident>
+<Incident et="1386.5">Martin Vindis(3) reported contact (0.19) with another vehicle James Wilson(1)</Incident>
+<Incident et="1386.6">James Wilson(1) reported contact (0.23) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="1386.6">James Wilson(1) reported contact (0.03) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="1386.7">Martin Vindis(3) reported contact (0.06) with Immovable</Incident>
+<Incident et="1417.7">Martin Vindis(3) reported contact (0.35) with another vehicle James Wilson(1)</Incident>
+<Incident et="1417.7">James Wilson(1) reported contact (0.32) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="1417.8">James Wilson(1) reported contact (0.03) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="1418.0">Martin Vindis(3) reported contact (0.13) with another vehicle James Wilson(1)</Incident>
+<Score et="1424.1">James Wilson(1) lap=19 point=2 t=-1.000 et=1423.780</Score>
+<Score et="1424.1">James Wilson(1) lap=20 point=0 t=-1.000 et=1423.780</Score>
+<Score et="1639.1">Martin Vindis(3) lap=15 point=2 t=339.475 et=1639.078</Score>
+<Score et="1658.1">Martin Vindis(3) lap=16 point=0 t=358.482 et=1658.084</Score>
+<Score et="1672.2">Martin Vindis(3) lap=16 point=1 t=14.062 et=1672.146</Score>
+<Score et="1698.9">Martin Vindis(3) lap=16 point=2 t=40.794 et=1698.879</Score>
+<Score et="1717.8">Martin Vindis(3) lap=17 point=0 t=59.646 et=1717.730</Score>
+<Score et="1731.6">Martin Vindis(3) lap=17 point=1 t=13.825 et=1731.555</Score>
+<Score et="1758.1">Martin Vindis(3) lap=17 point=2 t=40.305 et=1758.036</Score>
+<Score et="1777.2">Martin Vindis(3) lap=18 point=0 t=59.447 et=1777.177</Score>
+<Score et="1784.1">Martin Vindis(3) lap=18 point=1 t=-1.000 et=1784.102</Score>
+<Score et="1784.1">Martin Vindis(3) lap=18 point=2 t=-1.000 et=1784.102</Score>
+<Score et="1784.1">Martin Vindis(3) lap=19 point=0 t=-1.000 et=1784.102</Score>
+<Incident et="1854.8">Martin Vindis(3) reported contact (1.00) with another vehicle James Wilson(1)</Incident>
+<Incident et="1854.8">Martin Vindis(3) reported contact (0.13) with another vehicle James Wilson(1)</Incident>
+<Incident et="1854.8">Martin Vindis(3) reported contact (0.58) with another vehicle James Wilson(1)</Incident>
+<Incident et="1854.9">James Wilson(1) reported contact (1.00) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="1854.9">James Wilson(1) reported contact (0.16) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="1854.9">James Wilson(1) reported contact (0.26) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="1854.9">James Wilson(1) reported contact (0.06) with another vehicle Martin Vindis(3)</Incident>
+<Incident et="1865.8">Martin Vindis(3) reported contact (0.10) with Immovable</Incident>
+<Incident et="1866.3">Martin Vindis(3) reported contact (0.06) with Immovable</Incident>
+<Incident et="1866.3">Martin Vindis(3) reported contact (0.39) with Immovable</Incident>
+<Incident et="1866.4">Martin Vindis(3) reported contact (0.06) with Immovable</Incident>
+<Incident et="1866.4">Martin Vindis(3) reported contact (0.03) with Immovable</Incident>
+<Incident et="1866.5">Martin Vindis(3) reported contact (0.42) with Immovable</Incident>
+<Incident et="1866.5">Martin Vindis(3) reported contact (0.65) with Immovable</Incident>
+<Incident et="1866.6">Martin Vindis(3) reported contact (0.45) with Immovable</Incident>
+<Incident et="1866.7">Martin Vindis(3) reported contact (0.03) with Immovable</Incident>
+<Incident et="1866.7">Martin Vindis(3) reported contact (0.35) with Immovable</Incident>
+<Incident et="1866.8">Martin Vindis(3) reported contact (0.84) with Immovable</Incident>
+<Incident et="1866.8">Martin Vindis(3) reported contact (0.19) with Immovable</Incident>
+<Incident et="1866.9">Martin Vindis(3) reported contact (0.29) with Immovable</Incident>
+<Incident et="1867.0">Martin Vindis(3) reported contact (0.16) with Immovable</Incident>
+<Incident et="1867.0">Martin Vindis(3) reported contact (0.19) with Immovable</Incident>
+<Incident et="1867.0">Martin Vindis(3) reported contact (0.94) with Immovable</Incident>
+<Incident et="1867.0">Martin Vindis(3) reported contact (0.03) with Immovable</Incident>
+<Incident et="1867.0">Martin Vindis(3) reported contact (0.10) with Immovable</Incident>
+<Incident et="1867.0">Martin Vindis(3) reported contact (0.29) with Immovable</Incident>
+<Incident et="1867.0">Martin Vindis(3) reported contact (0.48) with Immovable</Incident>
+<Incident et="1867.1">Martin Vindis(3) reported contact (0.06) with Immovable</Incident>
+<Incident et="1867.1">Martin Vindis(3) reported contact (0.97) with Immovable</Incident>
+<Incident et="1867.2">Martin Vindis(3) reported contact (0.16) with Immovable</Incident>
+<Score et="1873.1">Martin Vindis(3) lap=19 point=1 t=-1.000 et=1873.106</Score>
+<Score et="1874.9">James Wilson(1) lap=20 point=1 t=-1.000 et=1874.825</Score>
+<Score et="1900.1">Martin Vindis(3) lap=19 point=2 t=-1.000 et=1900.119</Score>
+<Score et="1902.2">James Wilson(1) lap=20 point=2 t=-1.000 et=1902.099</Score>
+<Score et="1918.8">Martin Vindis(3) lap=20 point=0 t=-1.000 et=1918.746</Score>
+<Score et="1920.8">James Wilson(1) lap=21 point=0 t=-1.000 et=1920.666</Score>
+<Score et="1932.4">Martin Vindis(3) lap=20 point=1 t=13.675 et=1932.422</Score>
+<Score et="1934.5">James Wilson(1) lap=21 point=1 t=13.720 et=1934.386</Score>
+<Score et="1959.0">Martin Vindis(3) lap=20 point=2 t=40.273 et=1959.019</Score>
+<Score et="1961.3">James Wilson(1) lap=21 point=2 t=40.499 et=1961.165</Score>
+<Score et="1977.5">Martin Vindis(3) lap=21 point=0 t=58.674 et=1977.420</Score>
+<Score et="1979.9">James Wilson(1) lap=22 point=0 t=59.095 et=1979.761</Score>
+<Score et="1990.9">Martin Vindis(3) lap=21 point=1 t=13.449 et=1990.869</Score>
+<Score et="1993.8">James Wilson(1) lap=22 point=1 t=13.930 et=1993.692</Score>
+<Score et="2017.3">Martin Vindis(3) lap=21 point=2 t=39.877 et=2017.297</Score>
+<Score et="2020.2">James Wilson(1) lap=22 point=2 t=40.350 et=2020.111</Score>
+<Score et="2035.6">Martin Vindis(3) lap=22 point=0 t=58.174 et=2035.594</Score>
+<Score et="2038.6">James Wilson(1) lap=23 point=0 t=58.813 et=2038.574</Score>
+<Score et="2049.4">Martin Vindis(3) lap=22 point=1 t=13.752 et=2049.347</Score>
+<Score et="2052.4">James Wilson(1) lap=23 point=1 t=13.725 et=2052.299</Score>
+<Score et="2075.8">Martin Vindis(3) lap=22 point=2 t=40.175 et=2075.770</Score>
+<Score et="2079.1">James Wilson(1) lap=23 point=2 t=40.369 et=2078.943</Score>
+<Score et="2094.2">Martin Vindis(3) lap=23 point=0 t=58.585 et=2094.180</Score>
+<Score et="2097.8">James Wilson(1) lap=24 point=0 t=59.137 et=2097.711</Score>
+<Score et="2107.9">Martin Vindis(3) lap=23 point=1 t=13.650 et=2107.830</Score>
+<Score et="2111.5">James Wilson(1) lap=24 point=1 t=13.675 et=2111.386</Score>
+<Score et="2134.0">Martin Vindis(3) lap=23 point=2 t=39.822 et=2134.002</Score>
+<Score et="2138.0">James Wilson(1) lap=24 point=2 t=40.215 et=2137.927</Score>
+<Score et="2152.5">Martin Vindis(3) lap=24 point=0 t=58.249 et=2152.428</Score>
+<Score et="2156.6">James Wilson(1) lap=25 point=0 t=58.801 et=2156.512</Score>
+<Score et="2166.2">Martin Vindis(3) lap=24 point=1 t=13.696 et=2166.125</Score>
+<Score et="2169.9">James Wilson(1) lap=25 point=1 t=13.335 et=2169.847</Score>
+<Score et="2192.6">Martin Vindis(3) lap=24 point=2 t=40.116 et=2192.544</Score>
+<Score et="2196.5">James Wilson(1) lap=25 point=2 t=39.925 et=2196.438</Score>
+<Score et="2211.1">Martin Vindis(3) lap=25 point=0 t=58.631 et=2211.059</Score>
+<Score et="2214.6">James Wilson(1) lap=26 point=0 t=57.974 et=2214.486</Score>
+<Score et="2224.7">Martin Vindis(3) lap=25 point=1 t=13.665 et=2224.724</Score>
+<Score et="2228.3">James Wilson(1) lap=26 point=1 t=13.761 et=2228.247</Score>
+<Score et="2251.2">Martin Vindis(3) lap=25 point=2 t=40.099 et=2251.158</Score>
+<Score et="2254.8">James Wilson(1) lap=26 point=2 t=40.188 et=2254.675</Score>
+<Score et="2269.4">Martin Vindis(3) lap=26 point=0 t=58.292 et=2269.351</Score>
+<Score et="2273.4">James Wilson(1) lap=27 point=0 t=58.775 et=2273.261</Score>
+<Score et="2283.2">Martin Vindis(3) lap=26 point=1 t=13.794 et=2283.145</Score>
+<Score et="2287.1">James Wilson(1) lap=27 point=1 t=13.740 et=2287.001</Score>
+<Score et="2309.5">Martin Vindis(3) lap=26 point=2 t=40.104 et=2309.455</Score>
+<Score et="2313.5">James Wilson(1) lap=27 point=2 t=40.125 et=2313.386</Score>
+<Score et="2328.1">Martin Vindis(3) lap=27 point=0 t=58.759 et=2328.109</Score>
+<Score et="2332.0">James Wilson(1) lap=28 point=0 t=58.688 et=2331.949</Score>
+<Score et="2341.9">Martin Vindis(3) lap=27 point=1 t=13.789 et=2341.898</Score>
+<Score et="2345.7">James Wilson(1) lap=28 point=1 t=13.688 et=2345.637</Score>
+<Score et="2368.2">Martin Vindis(3) lap=27 point=2 t=40.110 et=2368.219</Score>
+<Score et="2372.1">James Wilson(1) lap=28 point=2 t=40.029 et=2371.978</Score>
+<Score et="2386.7">Martin Vindis(3) lap=28 point=0 t=58.535 et=2386.645</Score>
+<Score et="2390.5">James Wilson(1) lap=29 point=0 t=58.437 et=2390.386</Score>
+<Score et="2400.4">Martin Vindis(3) lap=28 point=1 t=13.736 et=2400.380</Score>
+<Score et="2404.1">James Wilson(1) lap=29 point=1 t=13.650 et=2404.036</Score>
+<Score et="2430.8">James Wilson(1) lap=29 point=2 t=40.325 et=2430.711</Score>
+<System et="2443.2">Disqualified: Wrong Way (-0 credits)</System>
+<Score et="2449.4">James Wilson(1) lap=30 point=0 t=58.911 et=2449.297</Score>
+<Incident et="2472.2">James Wilson(1) reported contact (1.00) with Immovable</Incident>
+<Chat et="2473.3">Martin Vindis has become an administrator</Chat>
+<Chat et="2473.3">Your new admin status is: Regular</Chat>
+<Score et="2473.4">James Wilson(1) lap=30 point=1 t=-1.000 et=2473.173</Score>
+<Score et="2473.4">James Wilson(1) lap=30 point=2 t=-1.000 et=2473.173</Score>
+<Score et="2473.4">James Wilson(1) lap=31 point=0 t=-1.000 et=2473.173</Score>
+</Stream>
+<MostLapsCompleted>31</MostLapsCompleted>
+<Driver>
+<Name>James Wilson</Name>
+<Connected>1</Connected>
+<VehFile>VPOKITA.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>EvoRS: Valter Pokita #14</VehName>
+<CarType>Lancer RS</CarType>
+<CarClass>Lancer RS</CarClass>
+<CarNumber>14</CarNumber>
+<TeamName>Kymori Racing</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="105" et="--.---" fuel="1.000">--.----</Lap>
+<Lap num="2" p="105" et="--.---" fuel="1.000">--.----</Lap>
+<Lap num="3" p="1" et="--.---" fuel="0.451">--.----</Lap>
+<Lap num="4" p="1" et="278.5333" fuel="0.490">--.----</Lap>
+<Lap num="5" p="1" et="278.5333" fuel="0.463">--.----</Lap>
+<Lap num="6" p="1" et="360.8833" s1="13.8250" s2="26.7000" s3="18.7151" fuel="0.439">59.2401</Lap>
+<Lap num="7" p="1" et="420.1234" s1="13.8448" s2="27.6401" s3="18.6354" fuel="0.416">60.1203</Lap>
+<Lap num="8" p="1" et="480.2437" s1="31.3896" s2="27.3146" s3="24.6854" fuel="0.384">83.3896</Lap>
+<Lap num="9" p="1" et="563.6334" s1="14.2263" s2="26.6736" s3="18.5608" fuel="0.361">59.4608</Lap>
+<Lap num="10" p="1" et="623.0941" s1="13.5892" s2="26.4850" s3="18.4538" fuel="0.337">58.5281</Lap>
+<Lap num="11" p="1" et="681.6222" s1="33.9200" s2="27.1946" s3="18.8633" fuel="0.310">79.9780</Lap>
+<Lap num="12" p="1" et="761.6002" s1="13.7686" s2="26.6774" s3="18.5168" fuel="0.282">58.9628</Lap>
+<Lap num="13" p="1" et="820.5630" s1="13.7703" s2="26.6750" s3="18.4250" fuel="0.259">58.8704</Lap>
+<Lap num="14" p="1" et="879.4333" s1="14.0017" s2="26.5784" s3="35.7020" fuel="0.231">76.2821</Lap>
+<Lap num="15" p="1" et="955.7155" s1="16.0712" s2="28.3376" s3="29.5439" fuel="0.204">73.9528</Lap>
+<Lap num="16" p="1" et="1029.6682" s1="13.7289" s2="26.9875" s3="34.0854" fuel="0.176">74.8019</Lap>
+<Lap num="17" p="1" et="1104.4701" s1="29.9382" s2="26.8510" s3="18.7074" fuel="0.149">75.4966</Lap>
+<Lap num="18" p="1" et="1179.9667" s1="13.9718" s2="26.6836" s3="18.6696" fuel="0.125">59.3250</Lap>
+<Lap num="19" p="1" et="1239.2916" s1="14.1167" s2="26.5825" s3="18.8552" fuel="0.098">59.5544</Lap>
+<Lap num="20" p="1" et="1298.8461" s1="16.8240" fuel="0.094">--.----</Lap>
+<Lap num="21" p="1" et="1423.7804" fuel="0.463">--.----</Lap>
+<Lap num="22" p="1" et="1920.6664" s1="13.7197" s2="26.7789" s3="18.5961" fuel="0.439">59.0947</Lap>
+<Lap num="23" p="2" et="1979.7611" s1="13.9304" s2="26.4196" s3="18.4630" fuel="0.416">58.8130</Lap>
+<Lap num="24" p="2" et="2038.5741" s1="13.7250" s2="26.6443" s3="18.7678" fuel="0.388">59.1371</Lap>
+<Lap num="25" p="2" et="2097.7112" s1="13.6750" s2="26.5403" s3="18.5859" fuel="0.365">58.8013</Lap>
+<Lap num="26" p="1" et="2156.5125" s1="13.3347" s2="26.5906" s3="18.0483" fuel="0.341">57.9736</Lap>
+<Lap num="27" p="1" et="2214.4861" s1="13.7607" s2="26.4277" s3="18.5867" fuel="0.314">58.7751</Lap>
+<Lap num="28" p="1" et="2273.2612" s1="13.7395" s2="26.3855" s3="18.5630" fuel="0.290">58.6880</Lap>
+<Lap num="29" p="1" et="2331.9492" s1="13.6880" s2="26.3406" s3="18.4084" fuel="0.267">58.4370</Lap>
+<Lap num="30" p="1" et="2390.3862" s1="13.6499" s2="26.6750" s3="18.5857" fuel="0.239">58.9106</Lap>
+<Lap num="31" p="1" et="2449.2969" fuel="0.490">--.----</Lap>
+<BestLapTime>57.9736</BestLapTime>
+<Laps>31</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="4">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="5" endLap="31">PlayerControl,Clutch,Invulnerable,AutoLift,AutoBlip</ControlAndAids>
+<Swap startLap="1" endLap="2"></Swap><Swap startLap="3" endLap="31">James Wilson</Swap></Driver>
+<Driver>
+<Name>Martin Vindis</Name>
+<Connected>1</Connected>
+<VehFile>MFIBEIRAS.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>EvoRS: Mike Fibeiras #07</VehName>
+<CarType>Lancer RS</CarType>
+<CarClass>Lancer RS</CarClass>
+<CarNumber>07</CarNumber>
+<TeamName>MITSport</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>2</Position>
+<ClassPosition>2</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="2" et="--.---" fuel="0.463">--.----</Lap>
+<Lap num="2" p="1" et="359.4853" s1="14.0370" s2="26.9972" s3="19.1161" fuel="0.439">60.1502</Lap>
+<Lap num="3" p="2" et="419.6355" s1="14.2391" s2="27.5363" s3="18.7366" fuel="0.412">60.5120</Lap>
+<Lap num="4" p="2" et="480.1475" s1="31.1746" s2="27.4234" s3="22.8076" fuel="0.384">81.4056</Lap>
+<Lap num="5" p="2" et="561.5531" s1="15.2413" s2="26.7000" s3="18.9750" fuel="0.357">60.9163</Lap>
+<Lap num="6" p="2" et="622.4694" s1="13.7500" s2="26.7773" s3="18.7878" fuel="0.329">59.3151</Lap>
+<Lap num="7" p="2" et="681.7845" s1="33.8849" s2="27.2405" s3="18.4596" fuel="0.302">79.5850</Lap>
+<Lap num="8" p="2" et="761.3695" s1="13.7750" s2="26.7753" s3="18.4496" fuel="0.275">58.9999</Lap>
+<Lap num="9" p="2" et="820.3694" s1="13.8363" s2="26.6750" s3="18.4409" fuel="0.247">58.9523</Lap>
+<Lap num="10" p="2" et="879.3217" s1="14.3987" s2="26.5240" s3="34.8500" fuel="0.224">75.7727</Lap>
+<Lap num="11" p="2" et="955.0944" s1="16.5800" s2="28.7022" s3="29.0178" fuel="0.192">74.3000</Lap>
+<Lap num="12" p="2" et="1029.3944" s1="13.9000" s2="26.7977" s3="34.0066" fuel="0.165">74.7043</Lap>
+<Lap num="13" p="2" et="1104.0988" s1="29.9957" s2="26.7999" s3="18.9501" fuel="0.137">75.7457</Lap>
+<Lap num="14" p="2" et="1179.8445" s1="13.8860" s2="26.4910" s3="18.9730" fuel="0.110">59.3500</Lap>
+<Lap num="15" p="2" et="1239.1945" s1="14.0288" s2="27.0070" s3="19.3722" fuel="0.082">60.4080</Lap>
+<Lap num="16" p="2" et="1299.6024" s1="14.9772" s2="324.4983" s3="19.0065" fuel="0.055">358.4819</Lap>
+<Lap num="17" p="2" et="1658.0844" s1="14.0615" s2="26.7328" s3="18.8518" fuel="0.027">59.6461</Lap>
+<Lap num="18" p="2" et="1717.7305" s1="13.8247" s2="26.4803" s3="19.1420" fuel="0.000">59.4470</Lap>
+<Lap num="19" p="2" et="1777.1775" fuel="0.490">--.----</Lap>
+<Lap num="20" p="2" et="1784.1017" fuel="0.973">--.----</Lap>
+<Lap num="21" p="2" et="1918.7461" s1="13.6754" s2="26.5979" s3="18.4009" fuel="0.945">58.6742</Lap>
+<Lap num="22" p="1" et="1977.4203" s1="13.4491" s2="26.4276" s3="18.2975" fuel="0.918">58.1742</Lap>
+<Lap num="23" p="1" et="2035.5945" s1="13.7522" s2="26.4229" s3="18.4104" fuel="0.890">58.5854</Lap>
+<Lap num="24" p="1" et="2094.1799" s1="13.6504" s2="26.1716" s3="18.4265" fuel="0.863">58.2485</Lap>
+<Lap num="25" p="1" et="2152.4285" s1="13.6963" s2="26.4197" s3="18.5149" fuel="0.839">58.6309</Lap>
+<Lap num="26" p="2" et="2211.0593" s1="13.6650" s2="26.4341" s3="18.1924" fuel="0.812">58.2915</Lap>
+<Lap num="27" p="2" et="2269.3508" s1="13.7937" s2="26.3103" s3="18.6545" fuel="0.784">58.7585</Lap>
+<Lap num="28" p="2" et="2328.1094" s1="13.7886" s2="26.3215" s3="18.4250" fuel="0.757">58.5352</Lap>
+<BestLapTime>58.1742</BestLapTime>
+<Laps>28</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>DQ</FinishStatus>
+<ControlAndAids startLap="1" endLap="28">PlayerControl,Clutch,Invulnerable,AutoLift,AutoBlip</ControlAndAids>
+</Driver>
+</Practice1>
+</RaceResults>
+</rFactorXML>

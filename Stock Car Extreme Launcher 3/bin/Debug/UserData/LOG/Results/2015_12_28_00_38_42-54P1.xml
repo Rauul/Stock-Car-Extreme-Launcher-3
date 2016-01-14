@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>AAAAAAAAAAAAAAAAAAAAA</ServerName>
+<PlayerFile>Martin Vindis</PlayerFile>
+<DateTime>1451258130</DateTime>
+<TimeString>2015/12/28 00:15:30</TimeString>
+<Mod>reizaEECGT3.rfm</Mod>
+<Season></Season>
+<TrackVenue>Bologna Historic</TrackVenue>
+<TrackCourse>Bologna Historic</TrackCourse>
+<TrackEvent>Bologna Historic</TrackEvent>
+<TrackLength>4965.7</TrackLength>
+<GameVersion>1.700</GameVersion>
+<Dedicated>0</Dedicated>
+<ConnectionType upload="5000" download="5000">LAN</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>50</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>reizaEECGT3</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>2147483647</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Practice1>
+<DateTime>1451258132</DateTime>
+<TimeString>2015/12/28 00:15:32</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>165</Minutes>
+<Stream>
+<Chat et="2.3">Martin Vindis has entered the game.</Chat>
+<Score et="724.3">Martin Vindis(2) lap=2 point=1 t=-1.000 et=724.308</Score>
+<Score et="760.5">Martin Vindis(2) lap=2 point=2 t=-1.000 et=760.492</Score>
+<Score et="815.9">Martin Vindis(2) lap=3 point=0 t=-1.000 et=815.903</Score>
+<Score et="836.0">Martin Vindis(2) lap=3 point=1 t=20.132 et=836.035</Score>
+<Score et="871.7">Martin Vindis(2) lap=3 point=2 t=55.716 et=871.618</Score>
+<Score et="926.6">Martin Vindis(2) lap=4 point=0 t=110.639 et=926.542</Score>
+<Score et="946.5">Martin Vindis(2) lap=4 point=1 t=19.963 et=946.505</Score>
+<Score et="982.6">Martin Vindis(2) lap=4 point=2 t=56.086 et=982.628</Score>
+<Score et="1037.3">Martin Vindis(2) lap=5 point=0 t=110.707 et=1037.249</Score>
+<Score et="1057.2">Martin Vindis(2) lap=5 point=1 t=19.971 et=1057.220</Score>
+<Score et="1092.2">Martin Vindis(2) lap=5 point=2 t=54.900 et=1092.149</Score>
+<Score et="1146.5">Martin Vindis(2) lap=6 point=0 t=109.227 et=1146.476</Score>
+<Score et="1166.5">Martin Vindis(2) lap=6 point=1 t=19.983 et=1166.459</Score>
+<Score et="1201.0">Martin Vindis(2) lap=6 point=2 t=54.531 et=1201.007</Score>
+<Score et="1255.5">Martin Vindis(2) lap=7 point=0 t=109.026 et=1255.502</Score>
+<Score et="1257.9">Martin Vindis(2) lap=7 point=1 t=-1.000 et=1257.920</Score>
+<Score et="1257.9">Martin Vindis(2) lap=7 point=2 t=-1.000 et=1257.920</Score>
+<Score et="1257.9">Martin Vindis(2) lap=8 point=0 t=-1.000 et=1257.920</Score>
+<Chat et="1336.4">James Wilson left the game.</Chat>
+<Chat et="1597.9">James Wilson has entered the game.</Chat>
+<Score et="1600.4">Martin Vindis(2) lap=8 point=1 t=-1.000 et=1600.371</Score>
+<Score et="1635.8">Martin Vindis(2) lap=8 point=2 t=-1.000 et=1635.757</Score>
+<Score et="1645.8">James Wilson(3) lap=0 point=1 t=-1.000 et=1645.675</Score>
+<Score et="1682.2">James Wilson(3) lap=0 point=2 t=-1.000 et=1682.093</Score>
+<Score et="1690.2">Martin Vindis(2) lap=9 point=0 t=-1.000 et=1690.135</Score>
+<Score et="1710.2">Martin Vindis(2) lap=9 point=1 t=20.019 et=1710.154</Score>
+<Incident et="1711.4">James Wilson(3) reported contact (0.39) with Track</Incident>
+<Incident et="1711.4">James Wilson(3) reported contact (0.90) with Track</Incident>
+<Incident et="1711.4">James Wilson(3) reported contact (0.42) with Track</Incident>
+<Incident et="1713.8">James Wilson(3) reported contact (0.03) with Track</Incident>
+<Incident et="1725.0">James Wilson(3) reported contact (0.16) with Track</Incident>
+<Score et="1745.2">Martin Vindis(2) lap=9 point=2 t=55.064 et=1745.199</Score>
+<Score et="1770.2">James Wilson(3) lap=1 point=0 t=-1.000 et=1770.137</Score>
+<Score et="1789.6">James Wilson(3) lap=1 point=1 t=19.308 et=1789.445</Score>
+<Score et="1799.1">Martin Vindis(2) lap=10 point=0 t=108.943 et=1799.077</Score>
+<Score et="1819.1">Martin Vindis(2) lap=10 point=1 t=20.020 et=1819.097</Score>
+<Score et="1824.1">James Wilson(3) lap=1 point=2 t=53.846 et=1823.983</Score>
+<Score et="1854.1">Martin Vindis(2) lap=10 point=2 t=55.022 et=1854.099</Score>
+<Score et="1881.9">James Wilson(3) lap=2 point=0 t=111.659 et=1881.796</Score>
+<Score et="1901.3">James Wilson(3) lap=2 point=1 t=19.424 et=1901.221</Score>
+<Score et="1907.9">Martin Vindis(2) lap=11 point=0 t=108.853 et=1907.930</Score>
+<Score et="1919.8">Martin Vindis(2) lap=11 point=1 t=-1.000 et=1919.803</Score>
+<Score et="1919.8">Martin Vindis(2) lap=11 point=2 t=-1.000 et=1919.803</Score>
+<Score et="1919.8">Martin Vindis(2) lap=12 point=0 t=-1.000 et=1919.803</Score>
+<Incident et="1931.0">James Wilson(3) reported contact (0.52) with Track</Incident>
+<Incident et="1931.0">James Wilson(3) reported contact (0.03) with Track</Incident>
+<Incident et="1931.1">James Wilson(3) reported contact (0.19) with Track</Incident>
+<Incident et="1931.3">James Wilson(3) reported contact (0.16) with Track</Incident>
+<Score et="1983.4">James Wilson(3) lap=2 point=2 t=101.553 et=1983.349</Score>
+</Stream>
+<MostLapsCompleted>12</MostLapsCompleted>
+<Driver>
+<Name>Martin Vindis</Name>
+<Connected>1</Connected>
+<VehFile>MCLAREN08.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>McLaren GT MP4-12C</VehName>
+<CarType>EEC GT3</CarType>
+<CarClass>EEC GT3</CarClass>
+<CarNumber>16</CarNumber>
+<TeamName>McLaren Test Car</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="105" et="--.---" fuel="1.000">--.----</Lap>
+<Lap num="2" p="105" et="--.---" fuel="1.000">--.----</Lap>
+<Lap num="3" p="2" et="--.---" fuel="0.396">--.----</Lap>
+<Lap num="4" p="1" et="815.9026" s1="20.1323" s2="35.5833" s3="54.9236" fuel="0.369">110.6391</Lap>
+<Lap num="5" p="1" et="926.5417" s1="19.9631" s2="36.1229" s3="54.6212" fuel="0.337">110.7072</Lap>
+<Lap num="6" p="1" et="1037.2489" s1="19.9709" s2="34.9287" s3="54.3276" fuel="0.310">109.2273</Lap>
+<Lap num="7" p="1" et="1146.4762" s1="19.9825" s2="34.5483" s3="54.4949" fuel="0.282">109.0258</Lap>
+<Lap num="8" p="1" et="1255.5020" fuel="0.424">--.----</Lap>
+<Lap num="9" p="1" et="1257.9202" fuel="0.396">--.----</Lap>
+<Lap num="10" p="1" et="1690.1348" s1="20.0189" s2="35.0453" s3="53.8783" fuel="0.369">108.9425</Lap>
+<Lap num="11" p="1" et="1799.0773" s1="20.0195" s2="35.0024" s3="53.8309" fuel="0.341">108.8529</Lap>
+<Lap num="12" p="1" et="1907.9302" fuel="0.424">--.----</Lap>
+<BestLapTime>108.8529</BestLapTime>
+<Laps>12</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="2">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="3" endLap="12">PlayerControl,TC=3,ABS=2,Clutch,Invulnerable,AutoLift,AutoBlip</ControlAndAids>
+<Swap startLap="1" endLap="2"></Swap><Swap startLap="3" endLap="12">Martin Vindis</Swap></Driver>
+<Driver>
+<Name>James Wilson</Name>
+<Connected>1</Connected>
+<VehFile>SRT20.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>SRT Viper GT3-R</VehName>
+<CarType>EEC GT3</CarType>
+<CarClass>EEC GT3</CarClass>
+<CarNumber>23</CarNumber>
+<TeamName>SRT Test Car</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>2</Position>
+<ClassPosition>2</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="2" et="--.---" fuel="0.396">--.----</Lap>
+<Lap num="2" p="2" et="1770.1372" s1="19.3082" s2="34.5378" s3="57.8131" fuel="0.369">111.6592</Lap>
+<BestLapTime>111.6592</BestLapTime>
+<Laps>2</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="1">PlayerControl,Clutch,Invulnerable,AutoLift,AutoBlip</ControlAndAids>
+<ControlAndAids startLap="2" endLap="2">PlayerControl,TC=3,ABS=2,Clutch,Invulnerable,AutoLift,AutoBlip</ControlAndAids>
+</Driver>
+</Practice1>
+</RaceResults>
+</rFactorXML>

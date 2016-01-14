@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Practice</Setting>
+<PlayerFile>Martin Vindis</PlayerFile>
+<DateTime>1451325966</DateTime>
+<TimeString>2015/12/28 19:06:06</TimeString>
+<Mod>reizaEECGT3.rfm</Mod>
+<Season></Season>
+<TrackVenue>Bologna Historic</TrackVenue>
+<TrackCourse>Bologna Historic</TrackCourse>
+<TrackEvent>Bologna Historic</TrackEvent>
+<TrackLength>4965.7</TrackLength>
+<GameVersion>1.700</GameVersion>
+<Dedicated>0</Dedicated>
+<ConnectionType upload="5000" download="5000">LAN</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>20</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>100</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>reizaEECGT3</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>255</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<TestDay>
+<DateTime>1451325968</DateTime>
+<TimeString>2015/12/28 19:06:08</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>0</Minutes>
+<Stream>
+</Stream>
+<MostLapsCompleted>0</MostLapsCompleted>
+<Driver>
+<Name>Martin Vindis</Name>
+<Connected>1</Connected>
+<VehFile>MCLAREN08.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>McLaren GT MP4-12C</VehName>
+<CarType>EEC GT3</CarType>
+<CarClass>EEC GT3</CarClass>
+<CarNumber>16</CarNumber>
+<TeamName>McLaren Test Car</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+</TestDay>
+</RaceResults>
+</rFactorXML>

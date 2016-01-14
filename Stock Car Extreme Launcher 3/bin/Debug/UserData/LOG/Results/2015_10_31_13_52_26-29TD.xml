@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Practice</Setting>
+<PlayerFile>Martin Vindis</PlayerFile>
+<DateTime>1446295934</DateTime>
+<TimeString>2015/10/31 13:52:14</TimeString>
+<Mod>reiza17.rfm</Mod>
+<Season></Season>
+<TrackVenue>Velo Citta</TrackVenue>
+<TrackCourse>Velo Citta</TrackCourse>
+<TrackEvent>Velo Citta</TrackEvent>
+<TrackLength>3327.8</TrackLength>
+<GameVersion>1.700</GameVersion>
+<Dedicated>0</Dedicated>
+<ConnectionType upload="64" download="64">ISDN</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>100</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|LancerRS</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>255</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<TestDay>
+<DateTime>1446295936</DateTime>
+<TimeString>2015/10/31 13:52:16</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>0</Minutes>
+<Stream>
+</Stream>
+<MostLapsCompleted>0</MostLapsCompleted>
+<Driver>
+<Name>Martin Vindis</Name>
+<Connected>1</Connected>
+<VehFile>MFIBEIRAS.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>EvoRS: Mike Fibeiras #07</VehName>
+<CarType>Lancer RS</CarType>
+<CarClass>Lancer RS</CarClass>
+<CarNumber>07</CarNumber>
+<TeamName>MITSport</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+</TestDay>
+</RaceResults>
+</rFactorXML>

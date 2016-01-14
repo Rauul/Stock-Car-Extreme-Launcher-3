@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>RACEDEPARTMENT.COM EU CLUB</ServerName>
+<PlayerFile>Martin Vindis</PlayerFile>
+<DateTime>1447258367</DateTime>
+<TimeString>2015/11/11 17:12:47</TimeString>
+<Mod>reiza16.rfm</Mod>
+<Season></Season>
+<TrackVenue>Sandown Raceway 2012</TrackVenue>
+<TrackCourse>Sandown Raceway 2012</TrackCourse>
+<TrackEvent>Dicksmith Sandown 500</TrackEvent>
+<TrackLength>3152.8</TrackLength>
+<GameVersion>1.700</GameVersion>
+<Dedicated>0</Dedicated>
+<ConnectionType upload="64" download="64">ISDN</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>60</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>52</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|SuperV8</VehiclesAllowed>
+<ParcFerme>0</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>0</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Practice1>
+<DateTime>1447258368</DateTime>
+<TimeString>2015/11/11 17:12:48</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>165</Minutes>
+<Stream>
+<Chat et="0.2">Martin Vindis has entered the game.</Chat>
+<Score et="106.5">Martin Vindis(9) lap=0 point=1 t=-1.000 et=106.501</Score>
+<Score et="122.0">Martin Vindis(9) lap=0 point=2 t=-1.000 et=122.025</Score>
+<Incident et="125.7">Martin Vindis(9) reported contact (1.00) with Track</Incident>
+<Incident et="125.7">Martin Vindis(9) reported contact (1.00) with Track</Incident>
+<Incident et="127.1">Martin Vindis(9) reported contact (0.81) with Sign</Incident>
+<Incident et="127.1">Martin Vindis(9) reported contact (0.06) with Sign</Incident>
+<Score et="162.6">Martin Vindis(9) lap=1 point=0 t=-1.000 et=162.597</Score>
+<Score et="178.0">Martin Vindis(9) lap=1 point=1 t=-1.000 et=177.990</Score>
+<Score et="178.0">Martin Vindis(9) lap=1 point=2 t=-1.000 et=177.990</Score>
+<Score et="178.0">Martin Vindis(9) lap=2 point=0 t=-1.000 et=177.990</Score>
+</Stream>
+<MostLapsCompleted>2</MostLapsCompleted>
+<Driver>
+<Name>Martin Vindis</Name>
+<Connected>1</Connected>
+<VehFile>NMATHEAS.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>SupV8: Nilson Matheas #33</VehName>
+<CarType>SuperV8</CarType>
+<CarClass>SuperV8</CarClass>
+<CarNumber>33</CarNumber>
+<TeamName>Shelix Team</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.424">--.----</Lap>
+<Lap num="2" p="1" et="162.5971" fuel="0.447">--.----</Lap>
+<Laps>2</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="2">PlayerControl,ABS=1,Clutch,AutoLift,AutoBlip</ControlAndAids>
+</Driver>
+</Practice1>
+</RaceResults>
+</rFactorXML>

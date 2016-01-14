@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>Race2Play - Lancer</ServerName>
+<PlayerFile>Martin Vindis</PlayerFile>
+<DateTime>1451245562</DateTime>
+<TimeString>2015/12/27 20:46:02</TimeString>
+<Mod>reiza17.rfm</Mod>
+<Season></Season>
+<TrackVenue>Spielberg</TrackVenue>
+<TrackCourse>Austrian Ring Short</TrackCourse>
+<TrackEvent>Austrian Ring Short</TrackEvent>
+<TrackLength>2328.2</TrackLength>
+<GameVersion>1.700</GameVersion>
+<Dedicated>0</Dedicated>
+<ConnectionType upload="5000" download="5000">LAN</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>30</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>100</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|LancerR|LancerRS</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>2147483647</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Practice1>
+<DateTime>1451245563</DateTime>
+<TimeString>2015/12/27 20:46:03</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>165</Minutes>
+<Stream>
+<Score et="6.6">James Wilson(9) lap=0 point=2 t=-1.000 et=549.103</Score>
+<Score et="6.6">James Ilianov(6) lap=0 point=1 t=13.662 et=551.639</Score>
+<Chat et="6.8">Martin Vindis has entered the game.</Chat>
+<Score et="7.6">Neil Larson(3) lap=8 point=0 t=58.663 et=553.788</Score>
+<Score et="560.1">Pedro Costa(1) lap=8 point=1 t=13.461 et=559.822</Score>
+<Chat et="560.3">Roberto Boniotti has entered the game.</Chat>
+<Score et="564.1">Flavio Costa(5) lap=6 point=2 t=40.695 et=563.868</Score>
+<Score et="566.0">Aleksei Spirichev(8) lap=2 point=0 t=61.599 et=565.839</Score>
+<Score et="568.1">James Wilson(9) lap=9 point=0 t=-1.000 et=567.908</Score>
+<Score et="570.3">Neil Larson(3) lap=9 point=0 t=-1.000 et=563.012</Score>
+<Score et="570.3">Neil Larson(3) lap=9 point=1 t=-1.000 et=563.012</Score>
+<Score et="570.3">Neil Larson(3) lap=9 point=2 t=-1.000 et=563.012</Score>
+<Score et="578.5">James Ilianov(6) lap=5 point=2 t=40.291 et=578.268</Score>
+<Incident et="580.2">Pedro Costa(1) reported contact (1.00) with Immovable</Incident>
+<Incident et="580.2">Pedro Costa(1) reported contact (0.26) with Wing</Incident>
+<Incident et="580.2">Pedro Costa(1) reported contact (0.61) with Wing</Incident>
+<Incident et="580.3">Pedro Costa(1) reported contact (1.00) with Immovable</Incident>
+<Incident et="580.3">Pedro Costa(1) reported contact (0.26) with Immovable</Incident>
+<Incident et="580.3">Pedro Costa(1) reported contact (0.03) with Immovable</Incident>
+<Score et="580.5">Aleksei Spirichev(8) lap=2 point=1 t=14.375 et=580.214</Score>
+<Score et="581.9">James Wilson(9) lap=9 point=1 t=13.732 et=581.640</Score>
+<Score et="583.1">Flavio Costa(5) lap=7 point=0 t=59.660 et=582.833</Score>
+<Score et="589.2">Pedro Costa(1) lap=8 point=2 t=42.625 et=588.986</Score>
+<Incident et="594.7">Pedro Costa(1) reported contact (1.00) with Immovable</Incident>
+<Score et="595.9">Nils Jordan(10) lap=0 point=1 t=-1.000 et=595.708</Score>
+<Score et="596.8">Flavio Costa(5) lap=7 point=1 t=13.675 et=596.508</Score>
+<Score et="597.0">James Ilianov(6) lap=6 point=0 t=58.853 et=596.830</Score>
+<Incident et="601.6">Aleksei Spirichev(8) reported contact (0.81) with Part</Incident>
+<Incident et="601.7">Aleksei Spirichev(8) reported contact (0.35) with Part</Incident>
+<Incident et="601.7">Aleksei Spirichev(8) reported contact (0.39) with Part</Incident>
+<Incident et="601.7">Aleksei Spirichev(8) reported contact (0.52) with Part</Incident>
+<Score et="604.7">Pedro Costa(1) lap=9 point=0 t=-1.000 et=596.182</Score>
+<Score et="604.7">Pedro Costa(1) lap=9 point=1 t=-1.000 et=596.182</Score>
+<Score et="604.7">Pedro Costa(1) lap=10 point=0 t=-1.000 et=596.182</Score>
+<Score et="604.7">Pedro Costa(1) lap=10 point=2 t=-1.000 et=596.182</Score>
+<Score et="608.3">James Wilson(9) lap=9 point=2 t=40.145 et=608.053</Score>
+<Chat et="608.4">Pedro Costa left the game.</Chat>
+<Score et="608.8">Aleksei Spirichev(8) lap=2 point=2 t=42.725 et=608.564</Score>
+<Score et="611.2">Martin Vindis(11) lap=0 point=1 t=-1.000 et=611.181</Score>
+<Score et="611.3">James Ilianov(6) lap=6 point=1 t=14.266 et=611.096</Score>
+<Score et="615.2">Roberto Boniotti(12) lap=6 point=1 t=-1.000 et=615.017</Score>
+<Score et="624.1">Flavio Costa(5) lap=7 point=2 t=41.037 et=623.870</Score>
+<Score et="624.9">Nils Jordan(10) lap=0 point=2 t=-1.000 et=624.710</Score>
+<Score et="627.3">James Wilson(9) lap=10 point=0 t=59.181 et=627.089</Score>
+<Score et="628.2">Aleksei Spirichev(8) lap=3 point=0 t=62.207 et=628.046</Score>
+<Score et="638.1">James Ilianov(6) lap=6 point=2 t=41.046 et=637.876</Score>
+<Score et="638.4">Martin Vindis(11) lap=0 point=2 t=-1.000 et=638.335</Score>
+<Score et="641.1">James Wilson(9) lap=10 point=1 t=13.801 et=640.890</Score>
+<Score et="642.5">Roberto Boniotti(12) lap=6 point=2 t=-1.000 et=642.322</Score>
+<Score et="642.7">Aleksei Spirichev(8) lap=3 point=1 t=14.457 et=642.503</Score>
+<Score et="644.5">Nils Jordan(10) lap=1 point=0 t=-1.000 et=644.283</Score>
+<Score et="656.5">James Ilianov(6) lap=7 point=0 t=59.434 et=656.264</Score>
+<Score et="656.7">Martin Vindis(11) lap=1 point=0 t=-1.000 et=656.722</Score>
+<Score et="658.4">Nils Jordan(10) lap=1 point=1 t=13.900 et=658.183</Score>
+<Score et="661.6">Roberto Boniotti(12) lap=7 point=0 t=-1.000 et=661.371</Score>
+<Score et="664.3">Flavio Costa(5) lap=8 point=0 t=-1.000 et=650.846</Score>
+<Score et="667.7">James Wilson(9) lap=10 point=2 t=40.446 et=667.536</Score>
+<Score et="670.2">James Ilianov(6) lap=7 point=1 t=13.657 et=669.921</Score>
+<Score et="670.5">Martin Vindis(11) lap=1 point=1 t=13.733 et=670.456</Score>
+<Score et="670.5">Aleksei Spirichev(8) lap=3 point=2 t=42.218 et=670.264</Score>
+<Score et="675.3">Roberto Boniotti(12) lap=7 point=1 t=13.737 et=675.108</Score>
+<Incident et="678.8">James Wilson(9) reported contact (0.77) with Immovable</Incident>
+<Incident et="678.8">James Wilson(9) reported contact (0.65) with Immovable</Incident>
+<Incident et="678.8">James Wilson(9) reported contact (1.00) with Immovable</Incident>
+<Score et="685.5">Nils Jordan(10) lap=1 point=2 t=40.983 et=685.266</Score>
+<Score et="687.1">James Wilson(9) lap=11 point=0 t=-1.000 et=682.469</Score>
+<Score et="687.1">James Wilson(9) lap=11 point=1 t=-1.000 et=682.469</Score>
+<Score et="687.1">James Wilson(9) lap=12 point=0 t=-1.000 et=682.469</Score>
+<Score et="687.1">James Wilson(9) lap=12 point=2 t=-1.000 et=682.469</Score>
+<Score et="689.7">Aleksei Spirichev(8) lap=4 point=0 t=61.486 et=689.532</Score>
+<Score et="696.6">James Ilianov(6) lap=7 point=2 t=40.127 et=696.391</Score>
+<Score et="696.8">Martin Vindis(11) lap=1 point=2 t=40.033 et=696.756</Score>
+<Score et="702.2">Roberto Boniotti(12) lap=7 point=2 t=40.587 et=701.958</Score>
+<Score et="704.0">Aleksei Spirichev(8) lap=4 point=1 t=14.236 et=703.767</Score>
+<Score et="704.6">Nils Jordan(10) lap=2 point=0 t=60.113 et=704.396</Score>
+<Score et="713.7">Neil Larson(3) lap=9 point=1 t=-1.000 et=713.522</Score>
+<Score et="714.8">James Ilianov(6) lap=8 point=0 t=58.390 et=714.654</Score>
+<Score et="715.3">Martin Vindis(11) lap=2 point=0 t=58.508 et=715.231</Score>
+<Score et="718.5">Nils Jordan(10) lap=2 point=1 t=13.837 et=718.233</Score>
+<Score et="719.3">Flavio Costa(5) lap=8 point=1 t=-1.000 et=719.013</Score>
+<Score et="720.7">Roberto Boniotti(12) lap=8 point=0 t=59.140 et=720.512</Score>
+<Score et="727.3">James Wilson(9) lap=12 point=1 t=-1.000 et=727.067</Score>
+<Score et="728.3">James Ilianov(6) lap=8 point=1 t=13.460 et=728.114</Score>
+<Chat et="728.5">Brian Fairley has entered the game.</Chat>
+<Score et="728.8">Martin Vindis(11) lap=2 point=1 t=13.575 et=728.806</Score>
+<Score et="734.6">Roberto Boniotti(12) lap=8 point=1 t=13.931 et=734.443</Score>
+<Score et="738.4">Aleksei Spirichev(8) lap=5 point=0 t=-1.000 et=725.558</Score>
+<Score et="738.4">Aleksei Spirichev(8) lap=5 point=2 t=-1.000 et=725.558</Score>
+<Score et="741.9">Neil Larson(3) lap=9 point=2 t=-1.000 et=741.753</Score>
+<Score et="745.3">Nils Jordan(10) lap=2 point=2 t=40.737 et=745.133</Score>
+<Score et="747.7">Flavio Costa(5) lap=8 point=2 t=-1.000 et=747.392</Score>
+<Score et="754.7">James Wilson(9) lap=12 point=2 t=-1.000 et=754.478</Score>
+<Score et="755.0">James Ilianov(6) lap=8 point=2 t=40.060 et=754.714</Score>
+<Score et="755.1">Martin Vindis(11) lap=2 point=2 t=39.852 et=755.082</Score>
+<Score et="761.3">Roberto Boniotti(12) lap=8 point=2 t=40.575 et=761.087</Score>
+<Score et="762.1">Neil Larson(3) lap=10 point=0 t=-1.000 et=761.947</Score>
+<Score et="764.5">Neil Larson(3) lap=11 point=0 t=-1.000 et=762.980</Score>
+<Score et="764.6">Neil Larson(3) lap=11 point=1 t=-1.000 et=762.980</Score>
+<Score et="764.6">Neil Larson(3) lap=11 point=2 t=-1.000 et=762.980</Score>
+<Score et="764.6">Nils Jordan(10) lap=3 point=0 t=60.020 et=764.417</Score>
+<Score et="767.0">Flavio Costa(5) lap=9 point=0 t=-1.000 et=766.766</Score>
+<Score et="773.6">Martin Vindis(11) lap=3 point=0 t=58.350 et=773.581</Score>
+<Score et="773.7">James Wilson(9) lap=13 point=0 t=-1.000 et=773.473</Score>
+<Score et="773.8">James Ilianov(6) lap=9 point=0 t=58.888 et=773.542</Score>
+<Score et="778.3">Nils Jordan(10) lap=3 point=1 t=13.717 et=778.133</Score>
+<Score et="779.7">Roberto Boniotti(12) lap=9 point=0 t=59.012 et=779.524</Score>
+<Score et="781.3">Flavio Costa(5) lap=9 point=1 t=14.240 et=781.006</Score>
+<Score et="787.7">James Wilson(9) lap=13 point=1 t=14.020 et=787.492</Score>
+<Score et="787.9">Martin Vindis(11) lap=3 point=1 t=14.313 et=787.894</Score>
+<Score et="788.6">James Ilianov(6) lap=9 point=1 t=14.822 et=788.364</Score>
+<Score et="793.9">Roberto Boniotti(12) lap=9 point=1 t=14.196 et=793.720</Score>
+<Score et="805.3">Nils Jordan(10) lap=3 point=2 t=40.617 et=805.033</Score>
+<Score et="808.4">Flavio Costa(5) lap=9 point=2 t=41.375 et=808.141</Score>
+<Score et="814.1">Martin Vindis(11) lap=3 point=2 t=40.535 et=814.116</Score>
+<Score et="814.3">James Wilson(9) lap=13 point=2 t=40.636 et=814.108</Score>
+<Score et="815.0">James Ilianov(6) lap=9 point=2 t=41.231 et=814.773</Score>
+<Score et="820.6">Roberto Boniotti(12) lap=9 point=2 t=40.812 et=820.336</Score>
+<Score et="825.1">Nils Jordan(10) lap=4 point=0 t=60.553 et=824.970</Score>
+<Score et="827.9">Flavio Costa(5) lap=10 point=0 t=60.927 et=827.693</Score>
+<Incident et="830.3">James Wilson(9) reported contact (0.16) with another vehicle Martin Vindis(11)</Incident>
+<Incident et="830.3">James Wilson(9) reported contact (0.03) with another vehicle Martin Vindis(11)</Incident>
+<Score et="833.8">Martin Vindis(11) lap=4 point=0 t=60.159 et=833.740</Score>
+<Score et="833.8">James Wilson(9) lap=14 point=0 t=60.158 et=833.631</Score>
+<Score et="834.0">James Ilianov(6) lap=10 point=0 t=60.278 et=833.821</Score>
+<Incident et="835.2">Nils Jordan(10) reported contact (1.00) with Immovable</Incident>
+<Incident et="835.2">Nils Jordan(10) reported contact (1.00) with Immovable</Incident>
+<Incident et="835.3">Nils Jordan(10) reported contact (0.26) with Immovable</Incident>
+<Score et="839.1">Roberto Boniotti(12) lap=10 point=0 t=59.361 et=838.885</Score>
+<Score et="839.6">Nils Jordan(10) lap=5 point=0 t=-1.000 et=837.367</Score>
+<Score et="839.6">Nils Jordan(10) lap=5 point=1 t=-1.000 et=837.367</Score>
+<Score et="839.6">Nils Jordan(10) lap=5 point=2 t=-1.000 et=837.367</Score>
+<Score et="842.0">Flavio Costa(5) lap=10 point=1 t=14.062 et=841.756</Score>
+<Score et="847.8">James Wilson(9) lap=14 point=1 t=13.911 et=847.542</Score>
+<Score et="848.7">Martin Vindis(11) lap=4 point=1 t=14.891 et=848.631</Score>
+<Score et="848.9">James Ilianov(6) lap=10 point=1 t=14.826 et=848.647</Score>
+<Score et="853.4">Roberto Boniotti(12) lap=10 point=1 t=14.285 et=853.170</Score>
+<Score et="869.1">Flavio Costa(5) lap=10 point=2 t=41.165 et=868.859</Score>
+<Score et="874.8">James Wilson(9) lap=14 point=2 t=40.913 et=874.544</Score>
+<Score et="874.8">Martin Vindis(11) lap=4 point=2 t=41.075 et=874.815</Score>
+<Score et="875.8">James Ilianov(6) lap=10 point=2 t=41.718 et=875.539</Score>
+<Score et="880.1">Roberto Boniotti(12) lap=10 point=2 t=40.955 et=879.840</Score>
+<Score et="880.6">Nils Jordan(10) lap=5 point=1 t=-1.000 et=880.336</Score>
+<Score et="888.0">Flavio Costa(5) lap=11 point=0 t=60.070 et=887.763</Score>
+<Score et="893.7">Martin Vindis(11) lap=5 point=0 t=59.906 et=893.646</Score>
+<Score et="893.8">James Wilson(9) lap=15 point=0 t=59.921 et=893.552</Score>
+<Score et="894.3">James Ilianov(6) lap=11 point=0 t=60.301 et=894.121</Score>
+<Score et="898.2">Roberto Boniotti(12) lap=11 point=0 t=59.073 et=897.958</Score>
+<Score et="902.1">Flavio Costa(5) lap=11 point=1 t=14.078 et=901.841</Score>
+<Score et="907.5">Martin Vindis(11) lap=5 point=1 t=13.849 et=907.495</Score>
+<Score et="908.1">James Wilson(9) lap=15 point=1 t=14.303 et=907.855</Score>
+<Score et="908.1">Nils Jordan(10) lap=5 point=2 t=-1.000 et=907.940</Score>
+<Score et="908.2">James Ilianov(6) lap=11 point=1 t=13.830 et=907.951</Score>
+<Score et="911.9">Roberto Boniotti(12) lap=11 point=1 t=13.753 et=911.712</Score>
+<Score et="913.7">Neil Larson(3) lap=11 point=1 t=-1.000 et=913.561</Score>
+<Score et="927.4">Nils Jordan(10) lap=6 point=0 t=-1.000 et=927.211</Score>
+<Score et="928.7">Brian Fairley(13) lap=0 point=1 t=-1.000 et=928.523</Score>
+<Score et="928.9">Flavio Costa(5) lap=11 point=2 t=40.845 et=928.609</Score>
+<Score et="933.7">Martin Vindis(11) lap=5 point=2 t=40.010 et=933.656</Score>
+<Score et="934.5">James Wilson(9) lap=15 point=2 t=40.765 et=934.317</Score>
+<Score et="935.4">James Ilianov(6) lap=11 point=2 t=41.094 et=935.215</Score>
+<Score et="938.7">Roberto Boniotti(12) lap=11 point=2 t=40.503 et=938.461</Score>
+<Score et="941.2">Nils Jordan(10) lap=6 point=1 t=13.803 et=941.014</Score>
+<Score et="941.3">Neil Larson(3) lap=11 point=2 t=-1.000 et=941.165</Score>
+<Score et="947.8">Flavio Costa(5) lap=12 point=0 t=59.792 et=947.556</Score>
+<Score et="951.8">Martin Vindis(11) lap=6 point=0 t=58.164 et=951.810</Score>
+<Score et="952.8">James Wilson(9) lap=16 point=0 t=59.015 et=952.567</Score>
+<Score et="954.2">James Ilianov(6) lap=12 point=0 t=59.873 et=953.995</Score>
+<Score et="956.7">Brian Fairley(13) lap=0 point=2 t=-1.000 et=956.526</Score>
+<Score et="956.9">Roberto Boniotti(12) lap=12 point=0 t=58.791 et=956.749</Score>
+<Score et="960.4">Neil Larson(3) lap=12 point=0 t=-1.000 et=960.261</Score>
+<Score et="962.3">Flavio Costa(5) lap=12 point=1 t=14.503 et=962.058</Score>
+<Score et="965.5">Martin Vindis(11) lap=6 point=1 t=13.621 et=965.431</Score>
+<Score et="966.4">James Wilson(9) lap=16 point=1 t=13.601 et=966.168</Score>
+<Score et="967.8">James Ilianov(6) lap=12 point=1 t=13.578 et=967.573</Score>
+<Score et="968.2">Nils Jordan(10) lap=6 point=2 t=40.759 et=967.970</Score>
+<Score et="970.7">Roberto Boniotti(12) lap=12 point=1 t=13.670 et=970.419</Score>
+<Score et="974.1">Neil Larson(3) lap=12 point=1 t=13.675 et=973.936</Score>
+<Score et="975.9">Brian Fairley(13) lap=1 point=0 t=-1.000 et=975.739</Score>
+<Score et="983.7">Aleksei Spirichev(8) lap=5 point=1 t=-1.000 et=983.458</Score>
+<Score et="986.9">Nils Jordan(10) lap=7 point=0 t=59.457 et=986.669</Score>
+<Score et="989.0">Flavio Costa(5) lap=12 point=2 t=41.175 et=988.731</Score>
+<Score et="990.0">Brian Fairley(13) lap=1 point=1 t=14.075 et=989.814</Score>
+<Score et="991.5">Martin Vindis(11) lap=6 point=2 t=39.659 et=991.468</Score>
+<Score et="992.6">James Wilson(9) lap=16 point=2 t=39.841 et=992.407</Score>
+<Score et="994.3">James Ilianov(6) lap=12 point=2 t=40.069 et=994.064</Score>
+<Score et="997.4">Roberto Boniotti(12) lap=12 point=2 t=40.371 et=997.120</Score>
+<Score et="1000.5">Nils Jordan(10) lap=7 point=1 t=13.679 et=1000.347</Score>
+<Score et="1001.1">Neil Larson(3) lap=12 point=2 t=40.650 et=1000.911</Score>
+<Score et="1007.9">Flavio Costa(5) lap=13 point=0 t=60.100 et=1007.656</Score>
+<Score et="1009.8">Martin Vindis(11) lap=7 point=0 t=57.996 et=1009.806</Score>
+<Score et="1010.9">James Wilson(9) lap=17 point=0 t=58.128 et=1010.694</Score>
+<Score et="1012.0">Aleksei Spirichev(8) lap=5 point=2 t=-1.000 et=1011.752</Score>
+<Score et="1012.9">James Ilianov(6) lap=13 point=0 t=58.685 et=1012.679</Score>
+<Score et="1015.7">Roberto Boniotti(12) lap=13 point=0 t=58.684 et=1015.433</Score>
+<Score et="1017.3">Brian Fairley(13) lap=1 point=2 t=41.350 et=1017.089</Score>
+<Score et="1019.9">Neil Larson(3) lap=13 point=0 t=59.461 et=1019.722</Score>
+<Score et="1021.5">Flavio Costa(5) lap=13 point=1 t=13.600 et=1021.256</Score>
+<Score et="1023.4">Martin Vindis(11) lap=7 point=1 t=13.600 et=1023.406</Score>
+<Score et="1024.5">James Wilson(9) lap=17 point=1 t=13.613 et=1024.307</Score>
+<Score et="1026.4">James Ilianov(6) lap=13 point=1 t=13.544 et=1026.223</Score>
+<Score et="1027.0">Roberto Boniotti(12) lap=14 point=0 t=-1.000 et=1025.681</Score>
+<Score et="1027.0">Roberto Boniotti(12) lap=14 point=1 t=-1.000 et=1025.681</Score>
+<Score et="1027.0">Roberto Boniotti(12) lap=14 point=2 t=-1.000 et=1025.681</Score>
+<Score et="1027.5">Nils Jordan(10) lap=7 point=2 t=40.593 et=1027.261</Score>
+<Score et="1031.6">Aleksei Spirichev(8) lap=6 point=0 t=-1.000 et=1031.407</Score>
+<Score et="1033.6">Neil Larson(3) lap=13 point=1 t=13.689 et=1033.411</Score>
+<Score et="1036.7">Brian Fairley(13) lap=2 point=0 t=60.801 et=1036.540</Score>
+<Score et="1046.1">Aleksei Spirichev(8) lap=6 point=1 t=14.532 et=1045.939</Score>
+<Score et="1046.6">Nils Jordan(10) lap=8 point=0 t=59.743 et=1046.411</Score>
+<Score et="1048.0">Flavio Costa(5) lap=13 point=2 t=40.155 et=1047.810</Score>
+<Score et="1049.5">Nils Jordan(10) lap=9 point=0 t=-1.000 et=1049.051</Score>
+<Score et="1049.5">Nils Jordan(10) lap=9 point=1 t=-1.000 et=1049.051</Score>
+<Score et="1049.5">Nils Jordan(10) lap=9 point=2 t=-1.000 et=1049.051</Score>
+<Score et="1049.6">Martin Vindis(11) lap=7 point=2 t=39.787 et=1049.593</Score>
+<Score et="1050.7">Brian Fairley(13) lap=2 point=1 t=13.953 et=1050.493</Score>
+<Score et="1050.8">James Wilson(9) lap=17 point=2 t=39.853 et=1050.548</Score>
+<Score et="1052.9">James Ilianov(6) lap=13 point=2 t=39.992 et=1052.671</Score>
+<Score et="1054.2">Roberto Boniotti(12) lap=14 point=1 t=-1.000 et=1054.000</Score>
+<Score et="1060.8">Neil Larson(3) lap=13 point=2 t=40.864 et=1060.586</Score>
+<Score et="1067.3">Flavio Costa(5) lap=14 point=0 t=59.415 et=1067.070</Score>
+<Score et="1067.9">Martin Vindis(11) lap=8 point=0 t=58.034 et=1067.839</Score>
+<Score et="1068.9">James Wilson(9) lap=18 point=0 t=58.047 et=1068.742</Score>
+<Score et="1071.2">James Ilianov(6) lap=14 point=0 t=58.286 et=1070.965</Score>
+<Score et="1074.0">Aleksei Spirichev(8) lap=6 point=2 t=42.385 et=1073.793</Score>
+<Score et="1078.0">Brian Fairley(13) lap=2 point=2 t=41.313 et=1077.853</Score>
+<Score et="1079.4">Neil Larson(3) lap=14 point=0 t=59.503 et=1079.226</Score>
+<Score et="1079.8">Flavio Costa(5) lap=15 point=0 t=-1.000 et=1077.115</Score>
+<Score et="1079.8">Flavio Costa(5) lap=15 point=1 t=-1.000 et=1077.115</Score>
+<Score et="1079.8">Flavio Costa(5) lap=15 point=2 t=-1.000 et=1077.115</Score>
+<Score et="1081.2">Roberto Boniotti(12) lap=14 point=2 t=-1.000 et=1081.017</Score>
+<Score et="1081.4">Martin Vindis(11) lap=8 point=1 t=13.529 et=1081.368</Score>
+<Score et="1082.5">James Wilson(9) lap=18 point=1 t=13.575 et=1082.317</Score>
+<Score et="1084.6">James Ilianov(6) lap=14 point=1 t=13.373 et=1084.339</Score>
+<Score et="1093.0">Neil Larson(3) lap=14 point=1 t=13.561 et=1092.786</Score>
+<Score et="1093.3">Aleksei Spirichev(8) lap=7 point=0 t=61.718 et=1093.125</Score>
+<Score et="1096.9">Brian Fairley(13) lap=3 point=0 t=60.178 et=1096.719</Score>
+<Score et="1100.0">Roberto Boniotti(12) lap=15 point=0 t=-1.000 et=1099.792</Score>
+<Score et="1107.5">Martin Vindis(11) lap=8 point=2 t=39.641 et=1107.481</Score>
+<Score et="1107.8">Aleksei Spirichev(8) lap=7 point=1 t=14.457 et=1107.582</Score>
+<Score et="1108.8">James Wilson(9) lap=18 point=2 t=39.814 et=1108.556</Score>
+<Score et="1108.9">Neil Larson(3) lap=15 point=0 t=-1.000 et=1108.474</Score>
+<Score et="1108.9">Neil Larson(3) lap=15 point=2 t=-1.000 et=1108.474</Score>
+<Score et="1110.8">Brian Fairley(13) lap=3 point=1 t=13.870 et=1110.589</Score>
+<Score et="1111.1">James Ilianov(6) lap=14 point=2 t=39.898 et=1110.864</Score>
+<Score et="1113.7">Roberto Boniotti(12) lap=15 point=1 t=13.658 et=1113.450</Score>
+<Chat et="1115.7">Antonio Castagna has entered the game.</Chat>
+<Score et="1125.8">Martin Vindis(11) lap=9 point=0 t=57.917 et=1125.756</Score>
+<Score et="1127.1">James Wilson(9) lap=19 point=0 t=58.215 et=1126.957</Score>
+<Score et="1129.3">James Ilianov(6) lap=15 point=0 t=58.136 et=1129.101</Score>
+<Score et="1135.4">Aleksei Spirichev(8) lap=7 point=2 t=42.025 et=1135.150</Score>
+<Score et="1137.9">Brian Fairley(13) lap=3 point=2 t=40.927 et=1137.646</Score>
+<Score et="1139.4">Martin Vindis(11) lap=9 point=1 t=13.608 et=1139.365</Score>
+<Score et="1140.4">Roberto Boniotti(12) lap=15 point=2 t=40.325 et=1140.117</Score>
+<Score et="1140.9">James Wilson(9) lap=19 point=1 t=13.723 et=1140.680</Score>
+<Score et="1142.7">James Ilianov(6) lap=15 point=1 t=13.313 et=1142.414</Score>
+<Score et="1151.2">Flavio Costa(5) lap=15 point=1 t=-1.000 et=1150.933</Score>
+<Score et="1154.8">Aleksei Spirichev(8) lap=8 point=0 t=61.525 et=1154.650</Score>
+<Score et="1156.6">Brian Fairley(13) lap=4 point=0 t=59.745 et=1156.464</Score>
+<Score et="1158.7">Roberto Boniotti(12) lap=16 point=0 t=58.684 et=1158.475</Score>
+<Incident et="1165.2">Brian Fairley(13) reported contact (0.23) with Track</Incident>
+<Incident et="1165.4">Brian Fairley(13) reported contact (0.23) with Track</Incident>
+<Score et="1165.6">Martin Vindis(11) lap=9 point=2 t=39.858 et=1165.615</Score>
+<Incident et="1166.0">Brian Fairley(13) reported contact (0.13) with Track</Incident>
+<Incident et="1166.3">Brian Fairley(13) reported contact (0.10) with Track</Incident>
+<Incident et="1166.4">Brian Fairley(13) reported contact (0.35) with Track</Incident>
+<Incident et="1166.6">Brian Fairley(13) reported contact (0.03) with Track</Incident>
+<Incident et="1167.2">Brian Fairley(13) reported contact (0.06) with Track</Incident>
+<Score et="1167.3">James Wilson(9) lap=19 point=2 t=40.085 et=1167.042</Score>
+<Incident et="1167.4">Brian Fairley(13) reported contact (1.00) with Immovable</Incident>
+<Incident et="1167.4">Brian Fairley(13) reported contact (0.16) with Immovable</Incident>
+<Incident et="1167.6">Brian Fairley(13) reported contact (1.00) with Immovable</Incident>
+<Incident et="1167.7">Brian Fairley(13) reported contact (0.13) with Immovable</Incident>
+<Incident et="1167.7">Brian Fairley(13) reported contact (0.19) with Track</Incident>
+<Incident et="1167.7">Brian Fairley(13) reported contact (0.13) with Immovable</Incident>
+<Incident et="1167.7">Brian Fairley(13) reported contact (0.61) with Immovable</Incident>
+<Incident et="1167.8">Brian Fairley(13) reported contact (0.06) with Immovable</Incident>
+<Incident et="1168.3">Brian Fairley(13) reported contact (0.26) with Track</Incident>
+<Incident et="1168.5">Brian Fairley(13) reported contact (0.26) with Track</Incident>
+<Incident et="1168.6">Brian Fairley(13) reported contact (0.06) with Track</Incident>
+<Incident et="1168.9">Brian Fairley(13) reported contact (0.03) with Track</Incident>
+<Score et="1169.1">James Ilianov(6) lap=15 point=2 t=39.800 et=1168.902</Score>
+<Score et="1169.4">Aleksei Spirichev(8) lap=8 point=1 t=14.575 et=1169.225</Score>
+<Score et="1172.1">Roberto Boniotti(12) lap=16 point=1 t=13.417 et=1171.892</Score>
+<Score et="1174.4">Brian Fairley(13) lap=5 point=0 t=-1.000 et=1173.335</Score>
+<Score et="1174.5">Brian Fairley(13) lap=5 point=1 t=-1.000 et=1173.335</Score>
+<Score et="1174.5">Brian Fairley(13) lap=5 point=2 t=-1.000 et=1173.335</Score>
+<Score et="1178.3">Flavio Costa(5) lap=15 point=2 t=-1.000 et=1178.062</Score>
+<Score et="1184.2">Martin Vindis(11) lap=10 point=0 t=58.403 et=1184.159</Score>
+<Score et="1185.6">James Wilson(9) lap=20 point=0 t=58.411 et=1185.368</Score>
+<Score et="1187.7">James Ilianov(6) lap=16 point=0 t=58.362 et=1187.464</Score>
+<Score et="1197.1">Aleksei Spirichev(8) lap=8 point=2 t=42.214 et=1196.864</Score>
+<Score et="1197.4">Flavio Costa(5) lap=16 point=0 t=-1.000 et=1197.233</Score>
+<Score et="1198.0">Martin Vindis(11) lap=10 point=1 t=13.805 et=1197.965</Score>
+<Score et="1198.8">Roberto Boniotti(12) lap=16 point=2 t=40.066 et=1198.542</Score>
+<Score et="1199.1">James Wilson(9) lap=20 point=1 t=13.499 et=1198.867</Score>
+<Incident et="1201.5">Martin Vindis(11) reported contact (1.00) with another vehicle James Wilson(9)</Incident>
+<Incident et="1201.5">Martin Vindis(11) reported contact (1.00) with another vehicle James Wilson(9)</Incident>
+<Incident et="1201.6">Martin Vindis(11) reported contact (1.00) with another vehicle James Wilson(9)</Incident>
+<Incident et="1201.6">James Wilson(9) reported contact (1.00) with another vehicle Martin Vindis(11)</Incident>
+<Incident et="1201.7">James Wilson(9) reported contact (0.19) with Wing</Incident>
+<Incident et="1201.7">James Wilson(9) reported contact (0.45) with Part</Incident>
+<Incident et="1201.7">James Wilson(9) reported contact (1.00) with another vehicle Martin Vindis(11)</Incident>
+<Incident et="1201.7">James Wilson(9) reported contact (0.94) with Wing</Incident>
+<Incident et="1201.7">James Wilson(9) reported contact (0.55) with another vehicle Martin Vindis(11)</Incident>
+<Incident et="1201.7">James Wilson(9) reported contact (0.13) with Wing</Incident>
+<Incident et="1201.7">James Wilson(9) reported contact (0.03) with another vehicle Martin Vindis(11)</Incident>
+<Incident et="1201.7">James Wilson(9) reported contact (0.81) with another vehicle Martin Vindis(11)</Incident>
+<Incident et="1201.7">James Wilson(9) reported contact (0.10) with another vehicle Martin Vindis(11)</Incident>
+<Incident et="1201.8">James Wilson(9) reported contact (0.10) with another vehicle Martin Vindis(11)</Incident>
+<Incident et="1201.8">James Wilson(9) reported contact (0.52) with another vehicle Martin Vindis(11)</Incident>
+<Incident et="1201.8">James Wilson(9) reported contact (0.13) with another vehicle Martin Vindis(11)</Incident>
+<Score et="1208.0">Martin Vindis(11) lap=10 point=2 t=-1.000 et=1208.017</Score>
+<Score et="1208.0">Martin Vindis(11) lap=11 point=0 t=-1.000 et=1208.017</Score>
+<Score et="1211.4">Flavio Costa(5) lap=16 point=1 t=13.884 et=1211.117</Score>
+<Score et="1214.2">James Ilianov(6) lap=17 point=0 t=-1.000 et=1202.106</Score>
+<Score et="1214.3">James Ilianov(6) lap=17 point=1 t=-1.000 et=1202.106</Score>
+<Score et="1214.3">James Ilianov(6) lap=17 point=2 t=-1.000 et=1202.106</Score>
+<Score et="1214.7">James Wilson(9) lap=21 point=0 t=-1.000 et=1211.631</Score>
+<Score et="1214.7">James Wilson(9) lap=21 point=2 t=-1.000 et=1211.631</Score>
+<Score et="1216.5">Aleksei Spirichev(8) lap=9 point=0 t=61.677 et=1216.327</Score>
+<Score et="1216.9">Roberto Boniotti(12) lap=17 point=0 t=58.218 et=1216.694</Score>
+<Score et="1222.4">Aleksei Spirichev(8) lap=10 point=0 t=-1.000 et=1219.130</Score>
+<Score et="1222.5">Aleksei Spirichev(8) lap=10 point=1 t=-1.000 et=1219.130</Score>
+<Score et="1222.5">Aleksei Spirichev(8) lap=10 point=2 t=-1.000 et=1219.130</Score>
+<Score et="1226.8">Roberto Boniotti(12) lap=18 point=0 t=-1.000 et=1225.577</Score>
+<Score et="1226.9">Roberto Boniotti(12) lap=18 point=1 t=-1.000 et=1225.577</Score>
+<Score et="1226.9">Roberto Boniotti(12) lap=18 point=2 t=-1.000 et=1225.577</Score>
+<Score et="1238.3">Flavio Costa(5) lap=16 point=2 t=40.812 et=1238.045</Score>
+<Score et="1257.2">Flavio Costa(5) lap=17 point=0 t=59.783 et=1257.017</Score>
+<Score et="1270.8">Flavio Costa(5) lap=17 point=1 t=13.543 et=1270.560</Score>
+<Score et="1282.4">Aleksei Spirichev(8) lap=10 point=1 t=-1.000 et=1282.221</Score>
+<Chat et="1290.8">Roberto Boniotti: ciao Antonio</Chat>
+<Score et="1297.8">Flavio Costa(5) lap=17 point=2 t=40.531 et=1297.548</Score>
+<Chat et="1308.9">Antonio Castagna: ciao roby ;)</Chat>
+<Score et="1310.6">Aleksei Spirichev(8) lap=10 point=2 t=-1.000 et=1310.397</Score>
+<Score et="1317.6">Flavio Costa(5) lap=18 point=0 t=60.367 et=1317.383</Score>
+<Score et="1328.6">Brian Fairley(13) lap=5 point=1 t=-1.000 et=1328.410</Score>
+<Score et="1330.1">Aleksei Spirichev(8) lap=11 point=0 t=-1.000 et=1329.930</Score>
+<Score et="1332.0">Flavio Costa(5) lap=18 point=1 t=14.465 et=1331.848</Score>
+<Score et="1342.7">Roberto Boniotti(12) lap=18 point=1 t=-1.000 et=1342.442</Score>
+<Score et="1344.6">Aleksei Spirichev(8) lap=11 point=1 t=14.384 et=1344.314</Score>
+<Score et="1356.5">Brian Fairley(13) lap=5 point=2 t=-1.000 et=1356.322</Score>
+<Score et="1358.9">Flavio Costa(5) lap=18 point=2 t=41.325 et=1358.708</Score>
+<Score et="1369.8">Roberto Boniotti(12) lap=18 point=2 t=-1.000 et=1369.591</Score>
+<Score et="1372.1">Aleksei Spirichev(8) lap=11 point=2 t=41.959 et=1371.889</Score>
+<Score et="1375.5">Brian Fairley(13) lap=6 point=0 t=-1.000 et=1375.337</Score>
+<Score et="1377.8">Flavio Costa(5) lap=19 point=0 t=60.200 et=1377.583</Score>
+<Score et="1388.3">Roberto Boniotti(12) lap=19 point=0 t=-1.000 et=1388.102</Score>
+<Score et="1389.5">Brian Fairley(13) lap=6 point=1 t=14.015 et=1389.352</Score>
+<Score et="1391.4">Aleksei Spirichev(8) lap=12 point=0 t=61.246 et=1391.176</Score>
+<Score et="1391.8">Flavio Costa(5) lap=19 point=1 t=13.988 et=1391.571</Score>
+<Incident et="1394.4">Brian Fairley(13) reported contact (0.16) with Cone</Incident>
+<Incident et="1394.4">Brian Fairley(13) reported contact (0.03) with Cone</Incident>
+<Incident et="1394.4">Brian Fairley(13) reported contact (0.00) with Cone</Incident>
+<Score et="1401.8">Roberto Boniotti(12) lap=19 point=1 t=13.464 et=1401.565</Score>
+<Score et="1405.6">Aleksei Spirichev(8) lap=12 point=1 t=14.188 et=1405.364</Score>
+<Chat et="1414.3">Martin Vindis: Aleksei You might want to change car to RS, its faster</Chat>
+<Score et="1418.2">Brian Fairley(13) lap=6 point=2 t=42.674 et=1418.011</Score>
+<Score et="1419.7">Flavio Costa(5) lap=19 point=2 t=41.825 et=1419.408</Score>
+<Score et="1426.1">Flavio Costa(5) lap=20 point=0 t=-1.000 et=1425.746</Score>
+<Score et="1426.1">Flavio Costa(5) lap=20 point=1 t=-1.000 et=1425.746</Score>
+<Score et="1426.1">Flavio Costa(5) lap=21 point=0 t=-1.000 et=1425.746</Score>
+<Score et="1426.1">Flavio Costa(5) lap=21 point=2 t=-1.000 et=1425.746</Score>
+<Score et="1428.6">Roberto Boniotti(12) lap=19 point=2 t=40.310 et=1428.411</Score>
+<Score et="1433.1">Roberto Boniotti(12) lap=20 point=0 t=-1.000 et=1432.851</Score>
+<Score et="1433.1">Roberto Boniotti(12) lap=20 point=1 t=-1.000 et=1432.851</Score>
+<Score et="1433.1">Roberto Boniotti(12) lap=21 point=0 t=-1.000 et=1432.851</Score>
+<Score et="1433.1">Roberto Boniotti(12) lap=21 point=2 t=-1.000 et=1432.851</Score>
+<Score et="1433.1">Aleksei Spirichev(8) lap=12 point=2 t=41.747 et=1432.923</Score>
+<Score et="1437.0">Brian Fairley(13) lap=7 point=0 t=61.540 et=1436.877</Score>
+<Score et="1451.1">Brian Fairley(13) lap=7 point=1 t=13.996 et=1450.873</Score>
+<Score et="1452.4">Aleksei Spirichev(8) lap=13 point=0 t=61.055 et=1452.231</Score>
+<Score et="1466.7">Aleksei Spirichev(8) lap=13 point=1 t=14.265 et=1466.496</Score>
+<Incident et="1473.1">Safety Car Driver(104) reported contact (1.00) with another vehicle James Wilson(9)</Incident>
+<Incident et="1473.2">Safety Car Driver(104) reported contact (0.97) with another vehicle James Wilson(9)</Incident>
+<Incident et="1473.2">Safety Car Driver(104) reported contact (0.06) with another vehicle James Wilson(9)</Incident>
+<Incident et="1473.3">Safety Car Driver(104) reported contact (0.52) with another vehicle James Wilson(9)</Incident>
+<Incident et="1473.3">James Wilson(9) reported contact (0.32) with another vehicle Safety Car Driver(104)</Incident>
+<Score et="1478.1">Brian Fairley(13) lap=7 point=2 t=40.998 et=1477.875</Score>
+<Score et="1494.3">Aleksei Spirichev(8) lap=13 point=2 t=41.872 et=1494.103</Score>
+<Score et="1496.8">Brian Fairley(13) lap=8 point=0 t=59.720 et=1496.597</Score>
+<Score et="1510.6">Brian Fairley(13) lap=8 point=1 t=13.750 et=1510.348</Score>
+<Score et="1513.9">Aleksei Spirichev(8) lap=14 point=0 t=61.517 et=1513.748</Score>
+<Score et="1514.6">Aleksei Spirichev(8) lap=15 point=0 t=-1.000 et=1514.250</Score>
+<Score et="1514.6">Aleksei Spirichev(8) lap=15 point=1 t=-1.000 et=1514.250</Score>
+<Score et="1514.6">Aleksei Spirichev(8) lap=15 point=2 t=-1.000 et=1514.250</Score>
+<Score et="1526.1">James Wilson(9) lap=21 point=1 t=-1.000 et=1525.928</Score>
+<Score et="1537.2">Brian Fairley(13) lap=8 point=2 t=40.425 et=1537.022</Score>
+<Score et="1553.2">James Wilson(9) lap=21 point=2 t=-1.000 et=1553.040</Score>
+<Score et="1555.9">Brian Fairley(13) lap=9 point=0 t=59.113 et=1555.710</Score>
+<Score et="1557.9">Antonio Castagna(14) lap=0 point=1 t=-1.000 et=1557.706</Score>
+<Score et="1561.6">James Wilson(9) lap=22 point=0 t=-1.000 et=1561.367</Score>
+<Score et="1563.4">Martin Vindis(11) lap=11 point=1 t=-1.000 et=1563.357</Score>
+<Chat et="1568.9">&quot;advance to next session&quot; proposed by Neil Larson: 6 votes needed to pass</Chat>
+<Score et="1569.9">Brian Fairley(13) lap=9 point=1 t=13.912 et=1569.622</Score>
+<Chat et="1574.0">Roberto Boniotti voted YES to advance to next session: 5 more to pass</Chat>
+<Score et="1574.6">Martin Vindis(11) lap=11 point=2 t=-1.000 et=1574.630</Score>
+<Score et="1574.6">Martin Vindis(11) lap=12 point=0 t=-1.000 et=1574.630</Score>
+<Chat et="1575.7">James Wilson voted YES to advance to next session: 4 more to pass</Chat>
+<Sent et="1576.7">/vote yes</Sent>
+<Chat et="1576.8">Martin Vindis voted YES to advance to next session: 3 more to pass</Chat>
+<Chat et="1577.9">Aleksei Spirichev voted YES to advance to next session: 2 more to pass</Chat>
+<Score et="1578.2">Flavio Costa(5) lap=21 point=1 t=-1.000 et=1577.948</Score>
+<Score et="1583.3">Flavio Costa(5) lap=22 point=0 t=-1.000 et=1582.982</Score>
+<Score et="1583.3">Flavio Costa(5) lap=22 point=2 t=-1.000 et=1582.982</Score>
+<Score et="1585.7">Antonio Castagna(14) lap=0 point=2 t=-1.000 et=1585.450</Score>
+<Chat et="1587.1">Flavio Costa voted YES to advance to next session: 1 more to pass</Chat>
+<Chat et="1591.6">Antonio Castagna voted YES to advance to next session: vote PASSED</Chat>
+<Chat et="1593.0">Aleksei Spirichev left the game.</Chat>
+</Stream>
+<MostLapsCompleted>22</MostLapsCompleted>
+<Driver>
+<Name>Martin Vindis</Name>
+<Connected>1</Connected>
+<VehFile>SOLOBOS.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>EvoRS: Stefan Olobos #46</VehName>
+<CarType>Lancer RS</CarType>
+<CarClass>Lancer RS</CarClass>
+<CarNumber>46</CarNumber>
+<TeamName>Domeja</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="8" et="--.---" fuel="0.463">--.----</Lap>
+<Lap num="2" p="2" et="656.7222" s1="13.7334" s2="26.2999" s3="18.4750" fuel="0.435">58.5083</Lap>
+<Lap num="3" p="1" et="715.2305" s1="13.5750" s2="26.2768" s3="18.4982" fuel="0.412">58.3500</Lap>
+<Lap num="4" p="1" et="773.5806" s1="14.3132" s2="26.2219" s3="19.6241" fuel="0.384">60.1592</Lap>
+<Lap num="5" p="1" et="833.7398" s1="14.8907" s2="26.1841" s3="18.8311" fuel="0.357">59.9059</Lap>
+<Lap num="6" p="1" et="893.6457" s1="13.8494" s2="26.1605" s3="18.1541" fuel="0.329">58.1639</Lap>
+<Lap num="7" p="1" et="951.8096" s1="13.6209" s2="26.0377" s3="18.3373" fuel="0.306">57.9959</Lap>
+<Lap num="8" p="1" et="1009.8055" s1="13.6000" s2="26.1873" s3="18.2465" fuel="0.278">58.0338</Lap>
+<Lap num="9" p="1" et="1067.8394" s1="13.5286" s2="26.1127" s3="18.2759" fuel="0.251">57.9171</Lap>
+<Lap num="10" p="1" et="1125.7565" s1="13.6083" s2="26.2498" s3="18.5449" fuel="0.224">58.4030</Lap>
+<Lap num="11" p="1" et="1184.1594" s1="13.8052" fuel="0.220">--.----</Lap>
+<Lap num="12" p="1" et="1208.0171" fuel="0.992">--.----</Lap>
+<BestLapTime>57.9171</BestLapTime>
+<Laps>12</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="12">PlayerControl,Clutch,AutoLift,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>James Wilson</Name>
+<Connected>1</Connected>
+<VehFile>VPOKITA.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>EvoRS: Valter Pokita #14</VehName>
+<CarType>Lancer RS</CarType>
+<CarClass>Lancer RS</CarClass>
+<CarNumber>14</CarNumber>
+<TeamName>Kymori Racing</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>2</Position>
+<ClassPosition>2</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="105" et="--.---" fuel="1.000">--.----</Lap>
+<Lap num="2" p="105" et="--.---" fuel="1.000">--.----</Lap>
+<Lap num="3" p="105" et="--.---" fuel="1.000">--.----</Lap>
+<Lap num="4" p="105" et="--.---" fuel="1.000">--.----</Lap>
+<Lap num="5" p="105" et="--.---" fuel="1.000">--.----</Lap>
+<Lap num="6" p="105" et="--.---" fuel="1.000">--.----</Lap>
+<Lap num="7" p="105" et="--.---" fuel="1.000">--.----</Lap>
+<Lap num="8" p="105" et="--.---" fuel="1.000">--.----</Lap>
+<Lap num="9" p="3" et="--.---" fuel="0.463">--.----</Lap>
+<Lap num="10" p="2" et="567.9080" s1="13.7321" s2="26.4127" s3="19.0364" fuel="0.439">59.1812</Lap>
+<Lap num="11" p="2" et="627.0892" s1="13.8012" s2="26.6451" fuel="0.420">--.----</Lap>
+<Lap num="12" p="2" et="682.4687" fuel="0.490">--.----</Lap>
+<Lap num="13" p="4" et="682.4687" fuel="0.463">--.----</Lap>
+<Lap num="14" p="4" et="773.4726" s1="14.0197" s2="26.6160" s3="19.5226" fuel="0.435">60.1582</Lap>
+<Lap num="15" p="4" et="833.6308" s1="13.9109" s2="27.0022" s3="19.0079" fuel="0.412">59.9210</Lap>
+<Lap num="16" p="4" et="893.5518" s1="14.3029" s2="26.4620" s3="18.2500" fuel="0.384">59.0148</Lap>
+<Lap num="17" p="2" et="952.5667" s1="13.6010" s2="26.2398" s3="18.2869" fuel="0.361">58.1277</Lap>
+<Lap num="18" p="2" et="1010.6943" s1="13.6125" s2="26.2408" s3="18.1940" fuel="0.337">58.0474</Lap>
+<Lap num="19" p="2" et="1068.7417" s1="13.5750" s2="26.2389" s3="18.4014" fuel="0.310">58.2152</Lap>
+<Lap num="20" p="2" et="1126.9569" s1="13.7230" s2="26.3617" s3="18.3263" fuel="0.286">58.4110</Lap>
+<Lap num="21" p="2" et="1185.3679" s1="13.4988" fuel="0.278">--.----</Lap>
+<Lap num="22" p="2" et="1211.6311" fuel="0.980">--.----</Lap>
+<BestLapTime>58.0474</BestLapTime>
+<Laps>22</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="12">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="13" endLap="22">PlayerControl,Clutch,AutoLift,AutoBlip</ControlAndAids>
+<Swap startLap="1" endLap="1">James Wilson</Swap><Swap startLap="2" endLap="8"></Swap><Swap startLap="9" endLap="22">James Wilson</Swap></Driver>
+<Driver>
+<Name>James Ilianov</Name>
+<Connected>1</Connected>
+<VehFile>MFIBEIRAS.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>EvoRS: Mike Fibeiras #07</VehName>
+<CarType>Lancer RS</CarType>
+<CarClass>Lancer RS</CarClass>
+<CarNumber>07</CarNumber>
+<TeamName>MITSport</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>3</Position>
+<ClassPosition>3</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>3</LapRankIncludingDiscos>
+<Lap num="1" p="105" et="--.---" s1="13.6618" fuel="1.000">--.----</Lap>
+<Lap num="2" p="105" et="--.---" fuel="1.000">--.----</Lap>
+<Lap num="3" p="105" et="--.---" fuel="1.000">--.----</Lap>
+<Lap num="4" p="105" et="--.---" fuel="1.000">--.----</Lap>
+<Lap num="5" p="105" et="--.---" fuel="1.000">--.----</Lap>
+<Lap num="6" p="5" et="--.---" fuel="0.706">58.8533</Lap>
+<Lap num="7" p="4" et="596.8304" s1="14.2657" s2="26.7801" s3="18.3878" fuel="0.678">59.4335</Lap>
+<Lap num="8" p="1" et="656.2639" s1="13.6570" s2="26.4704" s3="18.2626" fuel="0.655">58.3900</Lap>
+<Lap num="9" p="2" et="714.6539" s1="13.4600" s2="26.6000" s3="18.8284" fuel="0.631">58.8884</Lap>
+<Lap num="10" p="2" et="773.5423" s1="14.8216" s2="26.4095" s3="19.0473" fuel="0.608">60.2784</Lap>
+<Lap num="11" p="2" et="833.8207" s1="14.8265" s2="26.8917" s3="18.5823" fuel="0.584">60.3005</Lap>
+<Lap num="12" p="2" et="894.1212" s1="13.8300" s2="27.2642" s3="18.7793" fuel="0.557">59.8735</Lap>
+<Lap num="13" p="3" et="953.9947" s1="13.5782" s2="26.4910" s3="18.6153" fuel="0.533">58.6845</Lap>
+<Lap num="14" p="3" et="1012.6792" s1="13.5442" s2="26.4475" s3="18.2946" fuel="0.506">58.2863</Lap>
+<Lap num="15" p="3" et="1070.9655" s1="13.3734" s2="26.5250" s3="18.2375" fuel="0.482">58.1360</Lap>
+<Lap num="16" p="3" et="1129.1014" s1="13.3125" s2="26.4877" s3="18.5623" fuel="0.455">58.3624</Lap>
+<Lap num="17" p="3" et="1187.4639" fuel="0.780">--.----</Lap>
+<BestLapTime>58.1360</BestLapTime>
+<Laps>17</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="17">UnknownControl</ControlAndAids>
+<Swap startLap="1" endLap="1">James Ilianov</Swap><Swap startLap="2" endLap="5"></Swap><Swap startLap="6" endLap="17">James Ilianov</Swap></Driver>
+<Driver>
+<Name>Roberto Boniotti</Name>
+<Connected>1</Connected>
+<VehFile>MFIBEIRAS.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>EvoRS: Mike Fibeiras #07</VehName>
+<CarType>Lancer RS</CarType>
+<CarClass>Lancer RS</CarClass>
+<CarNumber>07</CarNumber>
+<TeamName>MITSport</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>4</Position>
+<ClassPosition>4</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>4</LapRankIncludingDiscos>
+<Lap num="1" p="105" et="--.---" fuel="1.000">--.----</Lap>
+<Lap num="2" p="105" et="--.---" fuel="1.000">59.7150</Lap>
+<Lap num="3" p="105" et="--.---" fuel="1.000">59.2930</Lap>
+<Lap num="4" p="105" et="--.---" fuel="1.000">58.5470</Lap>
+<Lap num="5" p="105" et="--.---" fuel="1.000">58.6200</Lap>
+<Lap num="6" p="105" et="--.---" fuel="1.000">--.----</Lap>
+<Lap num="7" p="1" et="--.---" fuel="0.463">--.----</Lap>
+<Lap num="8" p="3" et="661.3715" s1="13.7369" s2="26.8500" s3="18.5535" fuel="0.439">59.1404</Lap>
+<Lap num="9" p="3" et="720.5118" s1="13.9315" s2="26.6436" s3="18.4366" fuel="0.412">59.0117</Lap>
+<Lap num="10" p="3" et="779.5236" s1="14.1964" s2="26.6161" s3="18.5490" fuel="0.388">59.3614</Lap>
+<Lap num="11" p="3" et="838.8849" s1="14.2848" s2="26.6707" s3="18.1179" fuel="0.365">59.0734</Lap>
+<Lap num="12" p="3" et="897.9583" s1="13.7532" s2="26.7499" s3="18.2878" fuel="0.337">58.7909</Lap>
+<Lap num="13" p="4" et="956.7492" s1="13.6697" s2="26.7012" s3="18.3132" fuel="0.314">58.6841</Lap>
+<Lap num="14" p="4" et="1015.4333" fuel="0.490">--.----</Lap>
+<Lap num="15" p="4" et="1025.6805" fuel="0.463">--.----</Lap>
+<Lap num="16" p="4" et="1099.7916" s1="13.6583" s2="26.6667" s3="18.3585" fuel="0.435">58.6836</Lap>
+<Lap num="17" p="4" et="1158.4752" s1="13.4165" s2="26.6499" s3="18.1520" fuel="0.412">58.2184</Lap>
+<Lap num="18" p="4" et="1216.6936" fuel="0.490">--.----</Lap>
+<Lap num="19" p="4" et="1225.5767" fuel="0.208">--.----</Lap>
+<Lap num="20" p="4" et="1388.1016" s1="13.4636" s2="26.8459" fuel="0.188">--.----</Lap>
+<Lap num="21" p="4" et="1432.8508" fuel="0.235">--.----</Lap>
+<BestLapTime>58.2184</BestLapTime>
+<Laps>21</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="6">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="7" endLap="20">PlayerControl,Clutch,AutoLift,AutoBlip</ControlAndAids>
+<ControlAndAids startLap="21" endLap="21">UnknownControl</ControlAndAids>
+<Swap startLap="1" endLap="6"></Swap><Swap startLap="7" endLap="21">Roberto Boniotti</Swap></Driver>
+<Driver>
+<Name>Neil Larson</Name>
+<Connected>1</Connected>
+<VehFile>HNAKUMATA.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>EvoRS: Hiro Nakumata #87</VehName>
+<CarType>Lancer RS</CarType>
+<CarClass>Lancer RS</CarClass>
+<CarNumber>87</CarNumber>
+<TeamName>Cardius Motorsport</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>5</Position>
+<ClassPosition>5</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>5</LapRankIncludingDiscos>
+<Lap num="1" p="105" et="--.---" fuel="1.000">--.----</Lap>
+<Lap num="2" p="105" et="--.---" fuel="1.000">--.----</Lap>
+<Lap num="3" p="105" et="--.---" fuel="1.000">--.----</Lap>
+<Lap num="4" p="105" et="--.---" fuel="1.000">--.----</Lap>
+<Lap num="5" p="105" et="--.---" fuel="1.000">--.----</Lap>
+<Lap num="6" p="105" et="--.---" fuel="1.000">--.----</Lap>
+<Lap num="7" p="105" et="--.---" fuel="1.000">--.----</Lap>
+<Lap num="8" p="3" et="--.---" fuel="0.239">58.6631</Lap>
+<Lap num="9" p="4" et="553.7881" fuel="0.345">--.----</Lap>
+<Lap num="10" p="5" et="563.0121" fuel="0.322">--.----</Lap>
+<Lap num="11" p="5" et="761.9472" fuel="0.345">--.----</Lap>
+<Lap num="12" p="5" et="762.9800" fuel="0.973">--.----</Lap>
+<Lap num="13" p="5" et="960.2611" s1="13.6750" s2="26.9750" s3="18.8113" fuel="0.949">59.4614</Lap>
+<Lap num="14" p="5" et="1019.7225" s1="13.6887" s2="27.1749" s3="18.6395" fuel="0.922">59.5031</Lap>
+<Lap num="15" p="5" et="1079.2256" s1="13.5605" fuel="0.914">--.----</Lap>
+<BestLapTime>58.6631</BestLapTime>
+<Laps>15</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="9">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="10" endLap="12">PlayerControl,Clutch,AutoLift,AutoBlip</ControlAndAids>
+<ControlAndAids startLap="13" endLap="15">PlayerControl</ControlAndAids>
+<Swap startLap="1" endLap="7"></Swap><Swap startLap="8" endLap="15">Neil Larson</Swap></Driver>
+<Driver>
+<Name>Brian Fairley</Name>
+<Connected>1</Connected>
+<VehFile>LROUDY.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>EvoRS: Leo Roudy #61</VehName>
+<CarType>Lancer RS</CarType>
+<CarClass>Lancer RS</CarClass>
+<CarNumber>61</CarNumber>
+<TeamName>RaceSport</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>6</Position>
+<ClassPosition>6</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>6</LapRankIncludingDiscos>
+<Lap num="1" p="9" et="--.---" fuel="0.878">--.----</Lap>
+<Lap num="2" p="8" et="975.7392" s1="14.0747" s2="27.2750" s3="19.4515" fuel="0.855">60.8012</Lap>
+<Lap num="3" p="8" et="1036.5404" s1="13.9525" s2="27.3601" s3="18.8657" fuel="0.827">60.1783</Lap>
+<Lap num="4" p="8" et="1096.7188" s1="13.8701" s2="27.0568" s3="18.8182" fuel="0.804">59.7451</Lap>
+<Lap num="5" p="8" et="1156.4639" fuel="0.910">--.----</Lap>
+<Lap num="6" p="8" et="1173.3348" fuel="0.882">--.----</Lap>
+<Lap num="7" p="8" et="1375.3372" s1="14.0146" s2="28.6592" s3="18.8658" fuel="0.855">61.5397</Lap>
+<Lap num="8" p="8" et="1436.8768" s1="13.9957" s2="27.0022" s3="18.7224" fuel="0.831">59.7203</Lap>
+<Lap num="9" p="6" et="1496.5972" s1="13.7505" s2="26.6746" s3="18.6882" fuel="0.804">59.1133</Lap>
+<BestLapTime>59.1133</BestLapTime>
+<Laps>9</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="9">PlayerControl,Clutch,AutoLift,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Flavio Costa</Name>
+<Connected>1</Connected>
+<VehFile>MFIBEIRAS.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>EvoRS: Mike Fibeiras #07</VehName>
+<CarType>Lancer RS</CarType>
+<CarClass>Lancer RS</CarClass>
+<CarNumber>07</CarNumber>
+<TeamName>MITSport</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>7</Position>
+<ClassPosition>7</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>7</LapRankIncludingDiscos>
+<Lap num="1" p="105" et="--.---" fuel="1.000">--.----</Lap>
+<Lap num="2" p="105" et="--.---" fuel="1.000">--.----</Lap>
+<Lap num="3" p="105" et="--.---" fuel="1.000">--.----</Lap>
+<Lap num="4" p="105" et="--.---" fuel="1.000">--.----</Lap>
+<Lap num="5" p="105" et="--.---" fuel="1.000">--.----</Lap>
+<Lap num="6" p="105" et="--.---" fuel="1.000">--.----</Lap>
+<Lap num="7" p="6" et="--.---" fuel="0.671">59.6595</Lap>
+<Lap num="8" p="5" et="582.8333" s1="13.6750" s2="27.3618" fuel="0.655" pit="1">--.----</Lap>
+<Lap num="9" p="6" et="650.8461" fuel="0.137">--.----</Lap>
+<Lap num="10" p="6" et="766.7659" s1="14.2396" s2="27.1357" s3="19.5521" fuel="0.114">60.9274</Lap>
+<Lap num="11" p="6" et="827.6934" s1="14.0622" s2="27.1031" s3="18.9044" fuel="0.086">60.0698</Lap>
+<Lap num="12" p="6" et="887.7631" s1="14.0775" s2="26.7679" s3="18.9470" fuel="0.063">59.7924</Lap>
+<Lap num="13" p="7" et="947.5555" s1="14.5028" s2="26.6722" s3="18.9250" fuel="0.035">60.1000</Lap>
+<Lap num="14" p="6" et="1007.6556" s1="13.6000" s2="26.5546" s3="19.2603" fuel="0.012">59.4149</Lap>
+<Lap num="15" p="6" et="1067.0704" fuel="0.165">--.----</Lap>
+<Lap num="16" p="6" et="1077.1154" fuel="0.137">--.----</Lap>
+<Lap num="17" p="6" et="1197.2333" s1="13.8838" s2="26.9280" s3="18.9717" fuel="0.110">59.7834</Lap>
+<Lap num="18" p="6" et="1257.0167" s1="13.5435" s2="26.9874" s3="19.8357" fuel="0.082">60.3666</Lap>
+<Lap num="19" p="6" et="1317.3833" s1="14.4648" s2="26.8602" s3="18.8750" fuel="0.059">60.2001</Lap>
+<Lap num="20" p="6" et="1377.5834" s1="13.9877" s2="27.8373" fuel="0.043">--.----</Lap>
+<Lap num="21" p="6" et="1425.7458" fuel="0.165">--.----</Lap>
+<Lap num="22" p="7" et="1425.7458" fuel="0.157">--.----</Lap>
+<BestLapTime>59.4149</BestLapTime>
+<Laps>22</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="21">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="22" endLap="22">PlayerControl,Clutch,AutoLift,AutoBlip</ControlAndAids>
+<Swap startLap="1" endLap="6"></Swap><Swap startLap="7" endLap="22">Flavio Costa</Swap></Driver>
+<Driver>
+<Name>Nils Jordan</Name>
+<Connected>1</Connected>
+<VehFile>VKOFIS.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>EvoRS: Vitor Kofis #17</VehName>
+<CarType>Lancer RS</CarType>
+<CarClass>Lancer RS</CarClass>
+<CarNumber>17</CarNumber>
+<TeamName>TekMag</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>8</Position>
+<ClassPosition>8</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>8</LapRankIncludingDiscos>
+<Lap num="1" p="7" et="--.---" fuel="0.153">--.----</Lap>
+<Lap num="2" p="6" et="644.2833" s1="13.9000" s2="27.0831" s3="19.1299" fuel="0.129">60.1130</Lap>
+<Lap num="3" p="7" et="704.3964" s1="13.8370" s2="26.9000" s3="19.2831" fuel="0.102">60.0201</Lap>
+<Lap num="4" p="7" et="764.4165" s1="13.7169" s2="26.9000" s3="19.9363" fuel="0.078">60.5531</Lap>
+<Lap num="5" p="7" et="824.9696" fuel="0.180">--.----</Lap>
+<Lap num="6" p="7" et="837.3674" fuel="0.063">--.----</Lap>
+<Lap num="7" p="6" et="927.2111" s1="13.8031" s2="26.9556" s3="18.6987" fuel="0.039">59.4575</Lap>
+<Lap num="8" p="6" et="986.6686" s1="13.6788" s2="26.9137" s3="19.1500" fuel="0.012">59.7426</Lap>
+<Lap num="9" p="6" et="1046.4111" fuel="0.090">--.----</Lap>
+<BestLapTime>59.4575</BestLapTime>
+<Laps>9</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="9">PlayerControl,Clutch,AutoLift,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Antonio Castagna</Name>
+<Connected>1</Connected>
+<VehFile>HNAKUMATA.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>EvoRS: Hiro Nakumata #87</VehName>
+<CarType>Lancer RS</CarType>
+<CarClass>Lancer RS</CarClass>
+<CarNumber>87</CarNumber>
+<TeamName>Cardius Motorsport</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>10</Position>
+<ClassPosition>9</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>9</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+</Practice1>
+</RaceResults>
+</rFactorXML>

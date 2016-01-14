@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Race Weekend</Setting>
+<PlayerFile>Martin Vindis</PlayerFile>
+<DateTime>1446308831</DateTime>
+<TimeString>2015/10/31 17:27:11</TimeString>
+<Mod>reiza76.rfm</Mod>
+<Season></Season>
+<TrackVenue>Monza</TrackVenue>
+<TrackCourse>Monza</TrackCourse>
+<TrackEvent>Monza Fall</TrackEvent>
+<TrackLength>5788.8</TrackLength>
+<GameVersion>1.700</GameVersion>
+<Dedicated>0</Dedicated>
+<ConnectionType upload="64" download="64">ISDN</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>100</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>Reiza76</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>11</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Race>
+<DateTime>1446309716</DateTime>
+<TimeString>2015/10/31 17:41:56</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>25</Minutes>
+<Stream>
+<Incident et="29.7">Martin Vindis(0) reported contact (0.58) with another vehicle Denyer(9)</Incident>
+<Incident et="29.7">Martin Vindis(0) reported contact (0.84) with Wing</Incident>
+<Incident et="30.6">Ashburn(3) reported contact (0.03) with another vehicle MForster(2)</Incident>
+<Incident et="30.8">Brian Sellers(7) reported contact (0.10) with another vehicle Martin Vindis(0)</Incident>
+<Incident et="32.1">Ashburn(3) reported contact (0.16) with another vehicle MForster(2)</Incident>
+<Incident et="32.4">Seth Neiman(8) reported contact (0.03) with another vehicle Denyer(9)</Incident>
+<Incident et="32.6">Ashburn(3) reported contact (0.03) with another vehicle MForster(2)</Incident>
+<Incident et="34.7">Seth Neiman(8) reported contact (0.10) with another vehicle Ashburn(3)</Incident>
+<Incident et="34.7">Denyer(9) reported contact (0.03) with another vehicle Seth Neiman(8)</Incident>
+<Incident et="57.8">MForster(2) reported contact (0.13) with another vehicle Ashburn(3)</Incident>
+<Score et="61.3">Olaf Manillia(4) lap=0 point=1 t=49.072 et=61.317</Score>
+<Score et="62.1">Alex Figge(1) lap=0 point=1 t=49.851 et=62.096</Score>
+<Score et="62.9">Ashburn(3) lap=0 point=1 t=50.648 et=62.893</Score>
+<Score et="63.2">MForster(2) lap=0 point=1 t=50.930 et=63.175</Score>
+<Score et="63.7">Martin Vindis(0) lap=0 point=1 t=51.406 et=63.651</Score>
+<Score et="64.1">Seth Neiman(8) lap=0 point=1 t=51.795 et=64.040</Score>
+<Score et="64.5">Denyer(9) lap=0 point=1 t=52.220 et=64.465</Score>
+<Score et="64.9">Brian Sellers(7) lap=0 point=1 t=52.604 et=64.849</Score>
+<Score et="65.1">SClark(6) lap=0 point=1 t=52.865 et=65.111</Score>
+<Score et="65.5">Shaun Juniper(5) lap=0 point=1 t=53.199 et=65.444</Score>
+<Score et="103.6">Olaf Manillia(4) lap=0 point=2 t=91.354 et=103.600</Score>
+<Score et="104.3">Alex Figge(1) lap=0 point=2 t=91.990 et=104.235</Score>
+<Score et="105.3">Ashburn(3) lap=0 point=2 t=93.069 et=105.314</Score>
+<Score et="105.6">MForster(2) lap=0 point=2 t=93.324 et=105.569</Score>
+<Score et="106.3">Seth Neiman(8) lap=0 point=2 t=94.041 et=106.286</Score>
+<Score et="106.7">Martin Vindis(0) lap=0 point=2 t=94.407 et=106.652</Score>
+<Score et="107.8">Denyer(9) lap=0 point=2 t=95.577 et=107.822</Score>
+<Score et="108.4">Brian Sellers(7) lap=0 point=2 t=96.093 et=108.339</Score>
+<Score et="108.9">Shaun Juniper(5) lap=0 point=2 t=96.674 et=108.919</Score>
+<Score et="109.7">SClark(6) lap=0 point=2 t=97.467 et=109.712</Score>
+<Incident et="120.4">Martin Vindis(0) reported contact (0.10) with another vehicle Seth Neiman(8)</Incident>
+<Incident et="120.6">Martin Vindis(0) reported contact (0.06) with another vehicle Seth Neiman(8)</Incident>
+<Incident et="126.1">SClark(6) reported contact (0.52) with Sign</Incident>
+<Incident et="126.2">SClark(6) reported contact (0.35) with Sign</Incident>
+<Score et="139.6">Olaf Manillia(4) lap=1 point=0 t=127.310 et=139.555</Score>
+<Score et="140.1">Alex Figge(1) lap=1 point=0 t=127.863 et=140.109</Score>
+<Score et="141.5">Ashburn(3) lap=1 point=0 t=129.261 et=141.506</Score>
+<Score et="141.6">Martin Vindis(0) lap=1 point=0 t=129.330 et=141.575</Score>
+<Score et="142.4">MForster(2) lap=1 point=0 t=130.126 et=142.371</Score>
+<Score et="142.6">Seth Neiman(8) lap=1 point=0 t=130.306 et=142.551</Score>
+<Score et="144.8">Brian Sellers(7) lap=1 point=0 t=132.529 et=144.774</Score>
+<Score et="144.9">Shaun Juniper(5) lap=1 point=0 t=132.655 et=144.900</Score>
+<Score et="147.6">SClark(6) lap=1 point=0 t=135.381 et=147.626</Score>
+<Incident et="153.4">Shaun Juniper(5) reported contact (0.48) with another vehicle Brian Sellers(7)</Incident>
+<Score et="180.7">Olaf Manillia(4) lap=1 point=1 t=41.107 et=180.662</Score>
+<Score et="181.9">Alex Figge(1) lap=1 point=1 t=41.739 et=181.848</Score>
+<Score et="182.3">Martin Vindis(0) lap=1 point=1 t=40.735 et=182.310</Score>
+<Score et="183.7">Ashburn(3) lap=1 point=1 t=42.168 et=183.674</Score>
+<Score et="184.0">MForster(2) lap=1 point=1 t=41.567 et=183.938</Score>
+<Score et="184.2">Seth Neiman(8) lap=1 point=1 t=41.669 et=184.220</Score>
+<Score et="186.2">Brian Sellers(7) lap=1 point=1 t=41.421 et=186.196</Score>
+<Score et="186.6">Shaun Juniper(5) lap=1 point=1 t=41.698 et=186.598</Score>
+<Score et="188.8">SClark(6) lap=1 point=1 t=41.150 et=188.776</Score>
+<Score et="222.5">Olaf Manillia(4) lap=1 point=2 t=82.912 et=222.467</Score>
+<Score et="223.8">Alex Figge(1) lap=1 point=2 t=83.687 et=223.796</Score>
+<Score et="224.1">Denyer(9) lap=1 point=0 t=211.822 et=224.067</Score>
+<Score et="224.3">Martin Vindis(0) lap=1 point=2 t=82.739 et=224.314</Score>
+<Score et="225.8">Ashburn(3) lap=1 point=2 t=84.312 et=225.818</Score>
+<Score et="226.9">MForster(2) lap=1 point=2 t=84.471 et=226.843</Score>
+<Score et="227.1">Seth Neiman(8) lap=1 point=2 t=84.562 et=227.113</Score>
+<Score et="228.2">Brian Sellers(7) lap=1 point=2 t=83.371 et=228.145</Score>
+<Score et="228.7">Shaun Juniper(5) lap=1 point=2 t=83.753 et=228.653</Score>
+<Score et="230.6">SClark(6) lap=1 point=2 t=82.912 et=230.538</Score>
+<Score et="258.5">Olaf Manillia(4) lap=2 point=0 t=118.879 et=258.434</Score>
+<Score et="259.2">Martin Vindis(0) lap=2 point=0 t=117.620 et=259.195</Score>
+<Score et="259.5">Alex Figge(1) lap=2 point=0 t=119.353 et=259.461</Score>
+<Score et="261.4">Ashburn(3) lap=2 point=0 t=119.870 et=261.376</Score>
+<Score et="262.4">MForster(2) lap=2 point=0 t=120.029 et=262.400</Score>
+<Score et="262.5">Seth Neiman(8) lap=2 point=0 t=119.971 et=262.522</Score>
+<Score et="263.7">Brian Sellers(7) lap=2 point=0 t=118.860 et=263.634</Score>
+<Score et="264.2">Shaun Juniper(5) lap=2 point=0 t=119.319 et=264.219</Score>
+<Score et="266.1">SClark(6) lap=2 point=0 t=118.423 et=266.049</Score>
+<Score et="269.2">Denyer(9) lap=1 point=1 t=45.133 et=269.200</Score>
+<Score et="299.5">Olaf Manillia(4) lap=2 point=1 t=41.061 et=299.495</Score>
+<Score et="299.9">Martin Vindis(0) lap=2 point=1 t=40.715 et=299.910</Score>
+<Score et="301.2">Alex Figge(1) lap=2 point=1 t=41.750 et=301.212</Score>
+<Score et="303.0">Ashburn(3) lap=2 point=1 t=41.570 et=302.946</Score>
+<Score et="303.6">MForster(2) lap=2 point=1 t=41.189 et=303.589</Score>
+<Score et="303.9">Seth Neiman(8) lap=2 point=1 t=41.402 et=303.924</Score>
+<Score et="305.1">Brian Sellers(7) lap=2 point=1 t=41.416 et=305.050</Score>
+<Score et="306.0">Shaun Juniper(5) lap=2 point=1 t=41.751 et=305.970</Score>
+<Score et="307.3">SClark(6) lap=2 point=1 t=41.202 et=307.251</Score>
+<Score et="311.1">Denyer(9) lap=1 point=2 t=87.030 et=311.097</Score>
+<Incident et="337.7">MForster(2) reported contact (1.00) with another vehicle Seth Neiman(8)</Incident>
+<Incident et="337.7">Seth Neiman(8) reported contact (0.65) with Wing</Incident>
+<Incident et="338.1">MForster(2) reported contact (1.00) with another vehicle Ashburn(3)</Incident>
+<Incident et="338.1">MForster(2) reported contact (0.68) with Wing</Incident>
+<Incident et="338.1">MForster(2) reported contact (0.45) with another vehicle Seth Neiman(8)</Incident>
+<Incident et="338.1">Ashburn(3) reported contact (0.13) with another vehicle MForster(2)</Incident>
+<Incident et="339.6">Brian Sellers(7) reported contact (0.16) with Wing</Incident>
+<Incident et="339.7">Brian Sellers(7) reported contact (0.10) with Wing</Incident>
+<Score et="341.3">Olaf Manillia(4) lap=2 point=2 t=82.841 et=341.275</Score>
+<Score et="342.4">Martin Vindis(0) lap=2 point=2 t=83.176 et=342.371</Score>
+<Score et="342.9">Alex Figge(1) lap=2 point=2 t=83.441 et=342.902</Score>
+<Score et="346.8">Denyer(9) lap=2 point=0 t=122.741 et=346.808</Score>
+<Score et="346.9">Seth Neiman(8) lap=2 point=2 t=84.325 et=346.847</Score>
+<Score et="347.6">Ashburn(3) lap=2 point=2 t=86.201 et=347.577</Score>
+<Score et="348.4">Brian Sellers(7) lap=2 point=2 t=84.768 et=348.402</Score>
+<Score et="348.5">MForster(2) lap=2 point=2 t=86.077 et=348.477</Score>
+<Score et="348.8">Shaun Juniper(5) lap=2 point=2 t=84.525 et=348.744</Score>
+<Score et="349.1">SClark(6) lap=2 point=2 t=83.037 et=349.086</Score>
+<Incident et="350.5">Shaun Juniper(5) reported contact (0.35) with another vehicle MForster(2)</Incident>
+<Incident et="365.3">Denyer(9) reported contact (1.00) with Immovable</Incident>
+<Incident et="365.3">Denyer(9) reported contact (0.06) with Immovable</Incident>
+<Score et="377.0">Olaf Manillia(4) lap=3 point=0 t=118.554 et=376.988</Score>
+<Score et="377.6">Martin Vindis(0) lap=3 point=0 t=118.339 et=377.534</Score>
+<Score et="378.2">Alex Figge(1) lap=3 point=0 t=118.675 et=378.136</Score>
+<Score et="382.4">Seth Neiman(8) lap=3 point=0 t=119.861 et=382.382</Score>
+<Score et="385.2">Brian Sellers(7) lap=3 point=0 t=121.589 et=385.223</Score>
+<Score et="387.3">Shaun Juniper(5) lap=3 point=0 t=123.083 et=387.302</Score>
+<Incident et="388.9">Martin Vindis(0) reported contact (0.06) with another vehicle Olaf Manillia(4)</Incident>
+<Score et="389.4">SClark(6) lap=3 point=0 t=123.377 et=389.426</Score>
+<Score et="394.9">Denyer(9) lap=2 point=1 t=48.044 et=394.852</Score>
+<Score et="418.5">Martin Vindis(0) lap=3 point=1 t=40.993 et=418.527</Score>
+<Score et="419.2">Olaf Manillia(4) lap=3 point=1 t=42.149 et=419.137</Score>
+<Score et="419.5">Alex Figge(1) lap=3 point=1 t=41.347 et=419.483</Score>
+<Score et="423.6">Seth Neiman(8) lap=3 point=1 t=41.178 et=423.561</Score>
+<Score et="426.3">Brian Sellers(7) lap=3 point=1 t=41.039 et=426.262</Score>
+<Score et="428.7">Shaun Juniper(5) lap=3 point=1 t=41.422 et=428.724</Score>
+<Score et="430.6">SClark(6) lap=3 point=1 t=41.149 et=430.575</Score>
+<Score et="436.4">Denyer(9) lap=2 point=2 t=89.594 et=436.402</Score>
+<Score et="460.4">Martin Vindis(0) lap=3 point=2 t=82.810 et=460.345</Score>
+<Score et="461.0">Olaf Manillia(4) lap=3 point=2 t=84.025 et=461.014</Score>
+<Score et="461.5">Alex Figge(1) lap=3 point=2 t=83.325 et=461.461</Score>
+<Score et="462.2">Ashburn(3) lap=3 point=0 t=200.850 et=462.226</Score>
+<Score et="465.2">Seth Neiman(8) lap=3 point=2 t=82.799 et=465.182</Score>
+<Score et="466.7">MForster(2) lap=3 point=0 t=204.269 et=466.669</Score>
+<Score et="467.9">Brian Sellers(7) lap=3 point=2 t=82.659 et=467.882</Score>
+<Score et="470.7">Shaun Juniper(5) lap=3 point=2 t=83.341 et=470.643</Score>
+<Score et="472.0">Denyer(9) lap=3 point=0 t=125.219 et=472.027</Score>
+<Score et="472.1">SClark(6) lap=3 point=2 t=82.662 et=472.088</Score>
+<Score et="495.5">Martin Vindis(0) lap=4 point=0 t=117.949 et=495.484</Score>
+<Score et="496.5">Olaf Manillia(4) lap=4 point=0 t=119.536 et=496.524</Score>
+<Score et="496.7">Alex Figge(1) lap=4 point=0 t=118.529 et=496.665</Score>
+<Score et="500.7">Seth Neiman(8) lap=4 point=0 t=118.315 et=500.697</Score>
+<Score et="503.5">Brian Sellers(7) lap=4 point=0 t=118.289 et=503.511</Score>
+<Score et="506.3">Shaun Juniper(5) lap=4 point=0 t=118.992 et=506.294</Score>
+<Score et="507.6">SClark(6) lap=4 point=0 t=118.107 et=507.533</Score>
+<Score et="507.8">Ashburn(3) lap=3 point=1 t=45.602 et=507.828</Score>
+<Score et="511.9">MForster(2) lap=3 point=1 t=45.196 et=511.865</Score>
+<Score et="513.2">Denyer(9) lap=3 point=1 t=41.191 et=513.218</Score>
+<Score et="536.4">Martin Vindis(0) lap=4 point=1 t=40.879 et=536.362</Score>
+<Score et="537.7">Olaf Manillia(4) lap=4 point=1 t=41.123 et=537.647</Score>
+<Score et="538.2">Alex Figge(1) lap=4 point=1 t=41.486 et=538.150</Score>
+<Score et="542.4">Seth Neiman(8) lap=4 point=1 t=41.644 et=542.341</Score>
+<Score et="544.7">Brian Sellers(7) lap=4 point=1 t=41.163 et=544.675</Score>
+<Score et="547.7">Shaun Juniper(5) lap=4 point=1 t=41.377 et=547.671</Score>
+<Score et="548.7">SClark(6) lap=4 point=1 t=41.133 et=548.666</Score>
+<Score et="550.3">Ashburn(3) lap=3 point=2 t=88.047 et=550.272</Score>
+<Score et="553.8">MForster(2) lap=3 point=2 t=87.090 et=553.759</Score>
+<Score et="555.1">Denyer(9) lap=3 point=2 t=83.085 et=555.112</Score>
+<Score et="578.9">Martin Vindis(0) lap=4 point=2 t=83.403 et=578.886</Score>
+<Score et="579.5">Olaf Manillia(4) lap=4 point=2 t=82.934 et=579.458</Score>
+<Score et="580.0">Alex Figge(1) lap=4 point=2 t=83.352 et=580.017</Score>
+<Score et="583.9">Seth Neiman(8) lap=4 point=2 t=83.177 et=583.874</Score>
+<Score et="586.4">Ashburn(3) lap=4 point=0 t=124.190 et=586.416</Score>
+<Score et="587.4">Brian Sellers(7) lap=4 point=2 t=83.889 et=587.400</Score>
+<Score et="589.4">MForster(2) lap=4 point=0 t=122.721 et=589.389</Score>
+<Score et="589.6">Shaun Juniper(5) lap=4 point=2 t=83.273 et=589.567</Score>
+<Score et="590.2">SClark(6) lap=4 point=2 t=82.620 et=590.153</Score>
+<Score et="590.7">Denyer(9) lap=4 point=0 t=118.624 et=590.650</Score>
+<Score et="613.9">Martin Vindis(0) lap=5 point=0 t=118.358 et=613.842</Score>
+<Score et="614.9">Olaf Manillia(4) lap=5 point=0 t=118.360 et=614.884</Score>
+<Score et="615.6">Alex Figge(1) lap=5 point=0 t=118.910 et=615.575</Score>
+<Score et="619.3">Seth Neiman(8) lap=5 point=0 t=118.604 et=619.302</Score>
+<Score et="622.9">Brian Sellers(7) lap=5 point=0 t=119.382 et=622.893</Score>
+<Score et="625.2">Shaun Juniper(5) lap=5 point=0 t=118.933 et=625.227</Score>
+<Score et="625.4">SClark(6) lap=5 point=0 t=117.818 et=625.352</Score>
+<Score et="627.8">Ashburn(3) lap=4 point=1 t=41.374 et=627.790</Score>
+<Score et="630.8">MForster(2) lap=4 point=1 t=41.372 et=630.761</Score>
+<Score et="631.8">Denyer(9) lap=4 point=1 t=41.145 et=631.796</Score>
+<Score et="654.1">Martin Vindis(0) lap=5 point=1 t=40.233 et=654.075</Score>
+<Score et="656.0">Olaf Manillia(4) lap=5 point=1 t=41.061 et=655.945</Score>
+<Score et="656.7">Alex Figge(1) lap=5 point=1 t=41.112 et=656.687</Score>
+<Score et="660.4">Seth Neiman(8) lap=5 point=1 t=41.123 et=660.424</Score>
+<Score et="664.2">Brian Sellers(7) lap=5 point=1 t=41.259 et=664.152</Score>
+<Score et="666.8">Shaun Juniper(5) lap=5 point=1 t=41.574 et=666.802</Score>
+<Score et="667.1">SClark(6) lap=5 point=1 t=41.695 et=667.047</Score>
+<Score et="670.1">Ashburn(3) lap=4 point=2 t=83.692 et=670.108</Score>
+<Score et="672.5">MForster(2) lap=4 point=2 t=83.119 et=672.508</Score>
+<Score et="673.3">Denyer(9) lap=4 point=2 t=82.675 et=673.325</Score>
+<Score et="695.5">Martin Vindis(0) lap=5 point=2 t=81.623 et=695.464</Score>
+<Score et="697.7">Olaf Manillia(4) lap=5 point=2 t=82.833 et=697.717</Score>
+<Score et="698.4">Alex Figge(1) lap=5 point=2 t=82.796 et=698.371</Score>
+<Score et="702.0">Seth Neiman(8) lap=5 point=2 t=82.685 et=701.986</Score>
+<Score et="705.8">Brian Sellers(7) lap=5 point=2 t=82.840 et=705.733</Score>
+<Score et="706.0">Ashburn(3) lap=5 point=0 t=119.573 et=705.989</Score>
+<Score et="708.1">MForster(2) lap=5 point=0 t=118.652 et=708.041</Score>
+<Score et="708.7">Denyer(9) lap=5 point=0 t=118.051 et=708.702</Score>
+<Score et="708.9">Shaun Juniper(5) lap=5 point=2 t=83.650 et=708.877</Score>
+<Score et="709.1">SClark(6) lap=5 point=2 t=83.774 et=709.126</Score>
+<Score et="731.0">Martin Vindis(0) lap=6 point=0 t=117.176 et=731.018</Score>
+<Score et="733.2">Olaf Manillia(4) lap=6 point=0 t=118.263 et=733.147</Score>
+<Score et="734.6">Alex Figge(1) lap=6 point=0 t=118.999 et=734.574</Score>
+<Score et="737.5">Seth Neiman(8) lap=6 point=0 t=118.132 et=737.434</Score>
+<Score et="741.3">Brian Sellers(7) lap=6 point=0 t=118.409 et=741.302</Score>
+<Score et="744.6">Shaun Juniper(5) lap=6 point=0 t=119.310 et=744.537</Score>
+<Score et="744.7">SClark(6) lap=6 point=0 t=119.306 et=744.658</Score>
+<Score et="747.9">Ashburn(3) lap=5 point=1 t=41.879 et=747.867</Score>
+<Score et="749.7">MForster(2) lap=5 point=1 t=41.630 et=749.671</Score>
+<Score et="750.2">Denyer(9) lap=5 point=1 t=41.438 et=750.140</Score>
+<Score et="772.0">Martin Vindis(0) lap=6 point=1 t=41.007 et=772.025</Score>
+<Score et="774.7">Olaf Manillia(4) lap=6 point=1 t=41.487 et=774.634</Score>
+<Score et="775.8">Alex Figge(1) lap=6 point=1 t=41.250 et=775.824</Score>
+<Score et="778.7">Seth Neiman(8) lap=6 point=1 t=41.216 et=778.650</Score>
+<Score et="782.5">Brian Sellers(7) lap=6 point=1 t=41.194 et=782.496</Score>
+<Score et="786.0">Shaun Juniper(5) lap=6 point=1 t=41.459 et=785.996</Score>
+<Score et="786.4">SClark(6) lap=6 point=1 t=41.692 et=786.350</Score>
+<Score et="789.9">Ashburn(3) lap=5 point=2 t=83.906 et=789.895</Score>
+<Score et="791.4">MForster(2) lap=5 point=2 t=83.300 et=791.341</Score>
+<Score et="793.3">Denyer(9) lap=5 point=2 t=84.575 et=793.277</Score>
+<Score et="813.5">Martin Vindis(0) lap=6 point=2 t=82.459 et=813.477</Score>
+<Score et="816.4">Olaf Manillia(4) lap=6 point=2 t=83.254 et=816.401</Score>
+<Score et="817.9">Alex Figge(1) lap=6 point=2 t=83.287 et=817.861</Score>
+<Score et="820.3">Seth Neiman(8) lap=6 point=2 t=82.805 et=820.238</Score>
+<Score et="824.1">Brian Sellers(7) lap=6 point=2 t=82.779 et=824.082</Score>
+<Score et="825.6">Ashburn(3) lap=6 point=0 t=119.587 et=825.576</Score>
+<Score et="826.8">MForster(2) lap=6 point=0 t=118.758 et=826.799</Score>
+<Score et="828.0">Shaun Juniper(5) lap=6 point=2 t=83.429 et=827.966</Score>
+<Score et="828.2">SClark(6) lap=6 point=2 t=83.542 et=828.199</Score>
+<Score et="828.9">Denyer(9) lap=6 point=0 t=120.157 et=828.859</Score>
+<Score et="848.2">Martin Vindis(0) lap=7 point=0 t=117.169 et=848.187</Score>
+<Score et="852.0">Olaf Manillia(4) lap=7 point=0 t=118.846 et=851.993</Score>
+<Score et="853.5">Alex Figge(1) lap=7 point=0 t=118.892 et=853.466</Score>
+<Score et="855.7">Seth Neiman(8) lap=7 point=0 t=118.287 et=855.721</Score>
+<Score et="859.6">Brian Sellers(7) lap=7 point=0 t=118.304 et=859.606</Score>
+<Score et="863.7">Shaun Juniper(5) lap=7 point=0 t=119.154 et=863.691</Score>
+<Score et="863.8">SClark(6) lap=7 point=0 t=119.161 et=863.819</Score>
+<Score et="867.1">Ashburn(3) lap=6 point=1 t=41.497 et=867.072</Score>
+<Score et="867.8">MForster(2) lap=6 point=1 t=40.999 et=867.798</Score>
+<Score et="869.9">Denyer(9) lap=6 point=1 t=41.059 et=869.917</Score>
+<Score et="891.6">Martin Vindis(0) lap=7 point=1 t=43.410 et=891.597</Score>
+<Score et="893.3">Olaf Manillia(4) lap=7 point=1 t=41.291 et=893.284</Score>
+<Score et="894.5">Alex Figge(1) lap=7 point=1 t=41.010 et=894.476</Score>
+<Score et="896.9">Seth Neiman(8) lap=7 point=1 t=41.149 et=896.869</Score>
+<Score et="900.8">Brian Sellers(7) lap=7 point=1 t=41.213 et=900.819</Score>
+<Score et="905.1">Shaun Juniper(5) lap=7 point=1 t=41.434 et=905.125</Score>
+<Score et="905.5">SClark(6) lap=7 point=1 t=41.642 et=905.461</Score>
+<Score et="909.0">Ashburn(3) lap=6 point=2 t=83.435 et=909.011</Score>
+<Score et="909.3">MForster(2) lap=6 point=2 t=82.526 et=909.325</Score>
+<Score et="911.5">Denyer(9) lap=6 point=2 t=82.591 et=911.450</Score>
+<Score et="933.2">Martin Vindis(0) lap=7 point=2 t=85.020 et=933.206</Score>
+<Score et="935.6">Olaf Manillia(4) lap=7 point=2 t=83.616 et=935.609</Score>
+<Score et="936.3">Alex Figge(1) lap=7 point=2 t=82.792 et=936.258</Score>
+<Score et="938.6">Seth Neiman(8) lap=7 point=2 t=82.900 et=938.620</Score>
+<Score et="942.6">Brian Sellers(7) lap=7 point=2 t=82.979 et=942.585</Score>
+<Score et="944.5">Ashburn(3) lap=7 point=0 t=118.882 et=944.458</Score>
+<Score et="944.9">MForster(2) lap=7 point=0 t=118.034 et=944.834</Score>
+<Score et="947.0">Denyer(9) lap=7 point=0 t=118.113 et=946.971</Score>
+<Score et="947.1">Shaun Juniper(5) lap=7 point=2 t=83.398 et=947.089</Score>
+<Score et="947.3">SClark(6) lap=7 point=2 t=83.503 et=947.322</Score>
+<Score et="968.1">Martin Vindis(0) lap=8 point=0 t=119.851 et=968.038</Score>
+<Score et="971.1">Olaf Manillia(4) lap=8 point=0 t=119.112 et=971.105</Score>
+<Score et="971.9">Alex Figge(1) lap=8 point=0 t=118.382 et=971.849</Score>
+<Score et="974.6">Seth Neiman(8) lap=8 point=0 t=118.854 et=974.575</Score>
+<Score et="978.4">Brian Sellers(7) lap=8 point=0 t=118.742 et=978.348</Score>
+<Score et="982.8">Shaun Juniper(5) lap=8 point=0 t=119.134 et=982.825</Score>
+<Score et="983.0">SClark(6) lap=8 point=0 t=119.130 et=982.949</Score>
+<Score et="985.8">Ashburn(3) lap=7 point=1 t=41.342 et=985.799</Score>
+<Score et="986.3">MForster(2) lap=7 point=1 t=41.452 et=986.286</Score>
+<Score et="988.8">Denyer(9) lap=7 point=1 t=41.826 et=988.797</Score>
+<Score et="1009.0">Martin Vindis(0) lap=8 point=1 t=40.973 et=1009.010</Score>
+<Score et="1012.1">Olaf Manillia(4) lap=8 point=1 t=41.020 et=1012.125</Score>
+<Score et="1013.2">Alex Figge(1) lap=8 point=1 t=41.370 et=1013.219</Score>
+<Score et="1015.8">Seth Neiman(8) lap=8 point=1 t=41.219 et=1015.794</Score>
+<Score et="1019.6">Brian Sellers(7) lap=8 point=1 t=41.223 et=1019.572</Score>
+<Score et="1024.7">Shaun Juniper(5) lap=8 point=1 t=41.821 et=1024.646</Score>
+<Score et="1024.9">SClark(6) lap=8 point=1 t=41.951 et=1024.899</Score>
+<Score et="1027.9">Ashburn(3) lap=7 point=2 t=83.413 et=1027.871</Score>
+<Score et="1028.1">MForster(2) lap=7 point=2 t=83.283 et=1028.117</Score>
+<Score et="1030.5">Denyer(9) lap=7 point=2 t=83.481 et=1030.452</Score>
+<Score et="1050.8">Martin Vindis(0) lap=8 point=2 t=82.764 et=1050.801</Score>
+<Score et="1053.9">Olaf Manillia(4) lap=8 point=2 t=82.752 et=1053.857</Score>
+<Score et="1055.4">Alex Figge(1) lap=8 point=2 t=83.524 et=1055.372</Score>
+<Score et="1057.5">Seth Neiman(8) lap=8 point=2 t=82.919 et=1057.494</Score>
+<Score et="1061.5">Brian Sellers(7) lap=8 point=2 t=83.119 et=1061.468</Score>
+<Score et="1063.7">Ashburn(3) lap=8 point=0 t=119.218 et=1063.676</Score>
+<Score et="1063.8">MForster(2) lap=8 point=0 t=118.979 et=1063.813</Score>
+<Score et="1066.0">Denyer(9) lap=8 point=0 t=119.005 et=1065.976</Score>
+<Score et="1066.9">Shaun Juniper(5) lap=8 point=2 t=84.097 et=1066.922</Score>
+<Score et="1067.2">SClark(6) lap=8 point=2 t=84.228 et=1067.177</Score>
+<Score et="1085.6">Martin Vindis(0) lap=9 point=0 t=117.500 et=1085.538</Score>
+<Score et="1089.6">Olaf Manillia(4) lap=9 point=0 t=118.443 et=1089.548</Score>
+<Score et="1090.9">Alex Figge(1) lap=9 point=0 t=119.001 et=1090.850</Score>
+<Score et="1093.1">Seth Neiman(8) lap=9 point=0 t=118.501 et=1093.076</Score>
+<Score et="1097.3">Brian Sellers(7) lap=9 point=0 t=118.911 et=1097.259</Score>
+<Score et="1102.7">Shaun Juniper(5) lap=9 point=0 t=119.866 et=1102.691</Score>
+<Score et="1102.8">SClark(6) lap=9 point=0 t=119.866 et=1102.814</Score>
+<Score et="1104.7">Ashburn(3) lap=8 point=1 t=41.046 et=1104.722</Score>
+<Score et="1105.2">MForster(2) lap=8 point=1 t=41.388 et=1105.200</Score>
+<Score et="1107.2">Denyer(9) lap=8 point=1 t=41.245 et=1107.221</Score>
+<Score et="1126.1">Martin Vindis(0) lap=9 point=1 t=40.523 et=1126.061</Score>
+<Score et="1130.8">Olaf Manillia(4) lap=9 point=1 t=41.242 et=1130.790</Score>
+<Score et="1132.9">Alex Figge(1) lap=9 point=1 t=41.982 et=1132.832</Score>
+<Score et="1134.3">Seth Neiman(8) lap=9 point=1 t=41.222 et=1134.297</Score>
+<Score et="1138.7">Brian Sellers(7) lap=9 point=1 t=41.440 et=1138.699</Score>
+<Score et="1144.5">Shaun Juniper(5) lap=9 point=1 t=41.806 et=1144.497</Score>
+<Score et="1144.8">SClark(6) lap=9 point=1 t=41.935 et=1144.750</Score>
+<Score et="1146.5">Ashburn(3) lap=8 point=2 t=82.831 et=1146.507</Score>
+<Score et="1147.2">MForster(2) lap=8 point=2 t=83.374 et=1147.187</Score>
+<Score et="1148.9">Denyer(9) lap=8 point=2 t=82.867 et=1148.844</Score>
+<Score et="1168.0">Martin Vindis(0) lap=9 point=2 t=82.446 et=1167.984</Score>
+<Score et="1172.5">Olaf Manillia(4) lap=9 point=2 t=82.916 et=1172.464</Score>
+<Score et="1175.0">Alex Figge(1) lap=9 point=2 t=84.174 et=1175.024</Score>
+<Score et="1176.1">Seth Neiman(8) lap=9 point=2 t=82.972 et=1176.048</Score>
+<Score et="1180.7">Brian Sellers(7) lap=9 point=2 t=83.386 et=1180.645</Score>
+<Score et="1182.3">Ashburn(3) lap=9 point=0 t=118.641 et=1182.316</Score>
+<Score et="1182.5">MForster(2) lap=9 point=0 t=118.680 et=1182.493</Score>
+<Score et="1184.4">Denyer(9) lap=9 point=0 t=118.440 et=1184.416</Score>
+<Score et="1186.7">Shaun Juniper(5) lap=9 point=2 t=84.010 et=1186.701</Score>
+<Score et="1187.0">SClark(6) lap=9 point=2 t=84.155 et=1186.969</Score>
+<Score et="1203.4">Martin Vindis(0) lap=10 point=0 t=117.834 et=1203.372</Score>
+<Score et="1208.2">Olaf Manillia(4) lap=10 point=0 t=118.596 et=1208.144</Score>
+<Score et="1210.8">Alex Figge(1) lap=10 point=0 t=119.915 et=1210.765</Score>
+<Score et="1211.7">Seth Neiman(8) lap=10 point=0 t=118.634 et=1211.710</Score>
+<Score et="1216.4">Brian Sellers(7) lap=10 point=0 t=119.134 et=1216.393</Score>
+<Score et="1222.5">Shaun Juniper(5) lap=10 point=0 t=119.810 et=1222.501</Score>
+<Score et="1222.6">SClark(6) lap=10 point=0 t=119.810 et=1222.624</Score>
+<Score et="1223.5">Ashburn(3) lap=9 point=1 t=41.157 et=1223.473</Score>
+<Score et="1223.8">MForster(2) lap=9 point=1 t=41.323 et=1223.816</Score>
+<Score et="1225.8">Denyer(9) lap=9 point=1 t=41.333 et=1225.749</Score>
+<Score et="1244.3">Martin Vindis(0) lap=10 point=1 t=40.875 et=1244.247</Score>
+<Score et="1249.5">Olaf Manillia(4) lap=10 point=1 t=41.378 et=1249.522</Score>
+<Score et="1252.2">Alex Figge(1) lap=10 point=1 t=41.434 et=1252.199</Score>
+<Score et="1253.0">Seth Neiman(8) lap=10 point=1 t=41.276 et=1252.985</Score>
+<Score et="1258.0">Brian Sellers(7) lap=10 point=1 t=41.627 et=1258.020</Score>
+<Score et="1264.1">Shaun Juniper(5) lap=10 point=1 t=41.544 et=1264.045</Score>
+<Score et="1264.4">SClark(6) lap=10 point=1 t=41.753 et=1264.377</Score>
+<Score et="1265.2">Ashburn(3) lap=9 point=2 t=82.885 et=1265.201</Score>
+<Score et="1265.4">MForster(2) lap=9 point=2 t=82.933 et=1265.425</Score>
+<Score et="1267.5">Denyer(9) lap=9 point=2 t=83.033 et=1267.449</Score>
+<Score et="1286.3">Martin Vindis(0) lap=10 point=2 t=82.880 et=1286.252</Score>
+<Score et="1291.7">Olaf Manillia(4) lap=10 point=2 t=83.497 et=1291.641</Score>
+<Score et="1294.2">Alex Figge(1) lap=10 point=2 t=83.460 et=1294.225</Score>
+<Score et="1294.8">Seth Neiman(8) lap=10 point=2 t=83.062 et=1294.772</Score>
+<Score et="1300.0">Brian Sellers(7) lap=10 point=2 t=83.606 et=1299.999</Score>
+<Score et="1301.0">Ashburn(3) lap=10 point=0 t=118.668 et=1300.985</Score>
+<Score et="1301.1">MForster(2) lap=10 point=0 t=118.622 et=1301.115</Score>
+<Score et="1303.2">Denyer(9) lap=10 point=0 t=118.735 et=1303.151</Score>
+<Score et="1306.2">Shaun Juniper(5) lap=10 point=2 t=83.675 et=1306.176</Score>
+<Score et="1306.4">SClark(6) lap=10 point=2 t=83.768 et=1306.392</Score>
+<Score et="1321.1">Martin Vindis(0) lap=11 point=0 t=117.711 et=1321.083</Score>
+<Score et="1327.2">Olaf Manillia(4) lap=11 point=0 t=119.050 et=1327.194</Score>
+<Score et="1330.3">Alex Figge(1) lap=11 point=0 t=119.557 et=1330.321</Score>
+<Score et="1330.5">Seth Neiman(8) lap=11 point=0 t=118.737 et=1330.446</Score>
+<Score et="1335.6">Brian Sellers(7) lap=11 point=0 t=119.190 et=1335.583</Score>
+<Incident et="1337.7">Alex Figge(1) reported contact (0.84) with another vehicle Seth Neiman(8)</Incident>
+<Incident et="1337.7">Seth Neiman(8) reported contact (0.94) with Wing</Incident>
+<Incident et="1337.7">Seth Neiman(8) reported contact (0.03) with Wing</Incident>
+<Score et="1342.0">Shaun Juniper(5) lap=11 point=0 t=119.496 et=1341.997</Score>
+<Score et="1342.4">Ashburn(3) lap=10 point=1 t=41.418 et=1342.402</Score>
+<Score et="1342.7">MForster(2) lap=10 point=1 t=41.586 et=1342.701</Score>
+<Incident et="1344.4">Alex Figge(1) reported contact (0.58) with Immovable</Incident>
+<Incident et="1344.4">Alex Figge(1) reported contact (0.65) with Immovable</Incident>
+<Incident et="1344.4">Alex Figge(1) reported contact (0.03) with Immovable</Incident>
+<Score et="1344.4">Denyer(9) lap=10 point=1 t=41.262 et=1344.413</Score>
+<Incident et="1344.9">Seth Neiman(8) reported contact (0.97) with Immovable</Incident>
+<Score et="1345.5">SClark(6) lap=11 point=0 t=122.877 et=1345.501</Score>
+<Score et="1362.1">Martin Vindis(0) lap=11 point=1 t=40.990 et=1362.073</Score>
+<Score et="1368.8">Olaf Manillia(4) lap=11 point=1 t=41.589 et=1368.783</Score>
+<Score et="1375.2">Alex Figge(1) lap=11 point=1 t=44.842 et=1375.163</Score>
+<Score et="1376.4">Seth Neiman(8) lap=11 point=1 t=45.956 et=1376.402</Score>
+<Score et="1377.2">Brian Sellers(7) lap=11 point=1 t=41.554 et=1377.137</Score>
+<Score et="1383.8">Shaun Juniper(5) lap=11 point=1 t=41.749 et=1383.745</Score>
+<Score et="1384.1">Ashburn(3) lap=10 point=2 t=83.113 et=1384.098</Score>
+<Score et="1384.4">MForster(2) lap=10 point=2 t=83.309 et=1384.424</Score>
+<Score et="1386.9">SClark(6) lap=11 point=1 t=41.351 et=1386.852</Score>
+<Score et="1387.5">Denyer(9) lap=10 point=2 t=84.344 et=1387.495</Score>
+<Score et="1403.3">Martin Vindis(0) lap=11 point=2 t=82.164 et=1403.247</Score>
+<Score et="1410.8">Olaf Manillia(4) lap=11 point=2 t=83.633 et=1410.827</Score>
+<Score et="1417.7">Alex Figge(1) lap=11 point=2 t=87.355 et=1417.677</Score>
+<Score et="1418.4">Seth Neiman(8) lap=11 point=2 t=87.979 et=1418.425</Score>
+<Score et="1419.2">Brian Sellers(7) lap=11 point=2 t=83.564 et=1419.147</Score>
+<Score et="1419.8">Ashburn(3) lap=11 point=0 t=118.829 et=1419.814</Score>
+<Score et="1420.0">MForster(2) lap=11 point=0 t=118.830 et=1419.945</Score>
+<Score et="1423.2">Denyer(9) lap=11 point=0 t=120.011 et=1423.162</Score>
+<Score et="1426.1">Shaun Juniper(5) lap=11 point=2 t=84.124 et=1426.120</Score>
+<Score et="1428.6">SClark(6) lap=11 point=2 t=83.113 et=1428.615</Score>
+<Score et="1438.8">Martin Vindis(0) lap=12 point=0 t=117.674 et=1438.757</Score>
+<Score et="1446.5">Olaf Manillia(4) lap=12 point=0 t=119.317 et=1446.510</Score>
+<Score et="1454.1">Seth Neiman(8) lap=12 point=0 t=123.630 et=1454.077</Score>
+<Score et="1454.8">Brian Sellers(7) lap=12 point=0 t=119.201 et=1454.784</Score>
+<Score et="1461.4">Ashburn(3) lap=11 point=1 t=41.612 et=1461.426</Score>
+<Score et="1461.8">MForster(2) lap=11 point=1 t=41.852 et=1461.797</Score>
+<Score et="1462.0">Shaun Juniper(5) lap=12 point=0 t=119.975 et=1461.971</Score>
+<Score et="1464.3">SClark(6) lap=12 point=0 t=118.771 et=1464.272</Score>
+<Score et="1464.4">Denyer(9) lap=11 point=1 t=41.215 et=1464.378</Score>
+<Score et="1480.1">Martin Vindis(0) lap=12 point=1 t=41.293 et=1480.049</Score>
+<Score et="1487.8">Olaf Manillia(4) lap=12 point=1 t=41.222 et=1487.733</Score>
+<Score et="1495.4">Seth Neiman(8) lap=12 point=1 t=41.297 et=1495.373</Score>
+<Score et="1496.1">Brian Sellers(7) lap=12 point=1 t=41.331 et=1496.116</Score>
+<Score et="1503.5">Shaun Juniper(5) lap=12 point=1 t=41.519 et=1503.490</Score>
+<Score et="1503.6">Ashburn(3) lap=11 point=2 t=83.761 et=1503.575</Score>
+<Score et="1503.9">MForster(2) lap=11 point=2 t=83.964 et=1503.909</Score>
+<Score et="1505.6">SClark(6) lap=12 point=1 t=41.274 et=1505.547</Score>
+<Score et="1506.2">Denyer(9) lap=11 point=2 t=82.988 et=1506.151</Score>
+<Score et="1521.9">Martin Vindis(0) lap=12 point=2 t=83.106 et=1521.863</Score>
+<Score et="1529.8">Olaf Manillia(4) lap=12 point=2 t=83.221 et=1529.731</Score>
+<Score et="1533.8">Alex Figge(1) lap=12 point=0 t=203.424 et=1533.746</Score>
+<Score et="1537.4">Seth Neiman(8) lap=12 point=2 t=83.319 et=1537.396</Score>
+<Score et="1538.1">Brian Sellers(7) lap=12 point=2 t=83.276 et=1538.061</Score>
+<Score et="1539.3">Ashburn(3) lap=12 point=0 t=119.483 et=1539.297</Score>
+<Score et="1539.5">MForster(2) lap=12 point=0 t=119.503 et=1539.448</Score>
+<Score et="1541.8">Denyer(9) lap=12 point=0 t=118.597 et=1541.759</Score>
+<Score et="1545.7">Shaun Juniper(5) lap=12 point=2 t=83.739 et=1545.711</Score>
+<Score et="1547.4">SClark(6) lap=12 point=2 t=83.094 et=1547.367</Score>
+<Score et="1557.5">Checkered for Martin Vindis, laps=13/13, endET=1557.432251/1512.245117, crossedAfterTime=0</Score>
+<Score et="1557.5">Martin Vindis(0) lap=13 point=0 t=118.676 et=1557.432</Score>
+<Score et="1565.6">Olaf Manillia(4) lap=13 point=0 t=119.036 et=1565.546</Score>
+<Score et="1574.1">Brian Sellers(7) lap=13 point=0 t=119.262 et=1574.047</Score>
+<Score et="1579.1">Alex Figge(1) lap=12 point=1 t=45.379 et=1579.125</Score>
+<Score et="1580.7">Ashburn(3) lap=12 point=1 t=41.353 et=1580.650</Score>
+<Score et="1581.0">MForster(2) lap=12 point=1 t=41.547 et=1580.995</Score>
+<Score et="1581.6">Shaun Juniper(5) lap=13 point=0 t=119.561 et=1581.532</Score>
+<Score et="1583.0">Denyer(9) lap=12 point=1 t=41.234 et=1582.993</Score>
+<Score et="1583.1">SClark(6) lap=13 point=0 t=118.789 et=1583.061</Score>
+<Score et="1621.6">Alex Figge(1) lap=12 point=2 t=87.849 et=1621.594</Score>
+<Score et="1623.0">Ashburn(3) lap=12 point=2 t=83.679 et=1622.976</Score>
+<Score et="1623.2">MForster(2) lap=12 point=2 t=83.771 et=1623.219</Score>
+<Score et="1624.9">Denyer(9) lap=12 point=2 t=83.073 et=1624.832</Score>
+<Score et="1652.3">Seth Neiman(8) lap=13 point=0 t=198.172 et=1652.249</Score>
+<Score et="1657.4">Alex Figge(1) lap=13 point=0 t=123.585 et=1657.331</Score>
+<Score et="1659.2">Ashburn(3) lap=13 point=0 t=119.909 et=1659.206</Score>
+<Score et="1659.4">MForster(2) lap=13 point=0 t=119.904 et=1659.352</Score>
+<Score et="1660.4">Denyer(9) lap=13 point=0 t=118.665 et=1660.424</Score>
+</Stream>
+<MostLapsCompleted>13</MostLapsCompleted>
+<Driver>
+<Name>Martin Vindis</Name>
+<Connected>1</Connected>
+<VehFile>HANKOOK.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>997RSR: Hankook #57</VehName>
+<CarType>997RSR</CarType>
+<CarClass>997RSR</CarClass>
+<CarNumber>09</CarNumber>
+<TeamName>Hankook</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>10</GridPos>
+<Position>1</Position>
+<ClassGridPos>8</ClassGridPos>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="4" et="12.2451" s1="51.4060" s2="43.0013" s3="34.9227" fuel="0.522">129.3299</Lap>
+<Lap num="2" p="2" et="141.5750" s1="40.7354" s2="42.0034" s3="34.8812" fuel="0.478">117.6201</Lap>
+<Lap num="3" p="2" et="259.1951" s1="40.7151" s2="42.4611" s3="35.1631" fuel="0.435">118.3392</Lap>
+<Lap num="4" p="1" et="377.5343" s1="40.9929" s2="41.8175" s3="35.1389" fuel="0.392">117.9492</Lap>
+<Lap num="5" p="1" et="495.4836" s1="40.8788" s2="42.5239" s3="34.9554" fuel="0.349">118.3582</Lap>
+<Lap num="6" p="1" et="613.8417" s1="40.2333" s2="41.3894" s3="35.5536" fuel="0.306">117.1763</Lap>
+<Lap num="7" p="1" et="731.0181" s1="41.0068" s2="41.4526" s3="34.7095" fuel="0.263">117.1688</Lap>
+<Lap num="8" p="1" et="848.1869" s1="43.4105" s2="41.6091" s3="34.8312" fuel="0.220">119.8507</Lap>
+<Lap num="9" p="1" et="968.0376" s1="40.9728" s2="41.7908" s3="34.7369" fuel="0.176">117.5005</Lap>
+<Lap num="10" p="1" et="1085.5381" s1="40.5226" s2="41.9231" s3="35.3883" fuel="0.133">117.8340</Lap>
+<Lap num="11" p="1" et="1203.3721" s1="40.8750" s2="42.0048" s3="34.8311" fuel="0.090">117.7108</Lap>
+<Lap num="12" p="1" et="1321.0829" s1="40.9899" s2="41.1744" s3="35.5095" fuel="0.047">117.6738</Lap>
+<Lap num="13" p="1" et="1438.7567" s1="41.2927" s2="41.8136" s3="35.5692" fuel="0.008">118.6755</Lap>
+<BestLapTime>117.1688</BestLapTime>
+<FinishTime>1545.1871</FinishTime>
+<Laps>13</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="13">PlayerControl,Clutch,Invulnerable,AutoLift,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>SClark</Name>
+<Connected>1</Connected>
+<VehFile>FARNBACHER.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>997RSR: Farnbacher-Loles 2009 #87</VehName>
+<CarType>997RSR</CarType>
+<CarClass>997RSR</CarClass>
+<CarNumber>17</CarNumber>
+<TeamName>Farnbacher-Loles 2009</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>6</GridPos>
+<Position>5</Position>
+<ClassGridPos>4</ClassGridPos>
+<ClassPosition>4</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="9" et="12.2451" s1="52.8654" s2="44.6016" s3="37.9138" fuel="0.957">135.3808</Lap>
+<Lap num="2" p="9" et="147.6259" s1="41.1500" s2="41.7622" s3="35.5111" fuel="0.922">118.4233</Lap>
+<Lap num="3" p="7" et="266.0493" s1="41.2017" s2="41.8351" s3="40.3404" fuel="0.882">123.3771</Lap>
+<Lap num="4" p="7" et="389.4264" s1="41.1491" s2="41.5128" s3="35.4449" fuel="0.843">118.1068</Lap>
+<Lap num="5" p="7" et="507.5331" s1="41.1326" s2="41.4869" s3="35.1989" fuel="0.804">117.8185</Lap>
+<Lap num="6" p="7" et="625.3516" s1="41.6954" s2="42.0785" s3="35.5322" fuel="0.765">119.3061</Lap>
+<Lap num="7" p="7" et="744.6577" s1="41.6922" s2="41.8495" s3="35.6193" fuel="0.729">119.1609</Lap>
+<Lap num="8" p="7" et="863.8187" s1="41.6423" s2="41.8612" s3="35.6266" fuel="0.690">119.1301</Lap>
+<Lap num="9" p="7" et="982.9488" s1="41.9506" s2="42.2776" s3="35.6375" fuel="0.651">119.8657</Lap>
+<Lap num="10" p="7" et="1102.8145" s1="41.9352" s2="42.2197" s3="35.6548" fuel="0.612">119.8097</Lap>
+<Lap num="11" p="7" et="1222.6241" s1="41.7532" s2="42.0145" s3="39.1095" fuel="0.573">122.8772</Lap>
+<Lap num="12" p="6" et="1345.5013" s1="41.3508" s2="41.7623" s3="35.6580" fuel="0.533">118.7711</Lap>
+<Lap num="13" p="5" et="1464.2725" s1="41.2740" s2="41.8201" s3="35.6947" fuel="0.494">118.7888</Lap>
+<BestLapTime>117.8185</BestLapTime>
+<FinishTime>1570.8162</FinishTime>
+<Laps>13</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="13">AIControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>MForster</Name>
+<Connected>1</Connected>
+<VehFile>PROSPEED.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>997RSR: ProSpeed Competition #60</VehName>
+<CarType>997RSR</CarType>
+<CarClass>997RSR</CarClass>
+<CarNumber>18</CarNumber>
+<TeamName>ProSpeed Competition</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>3</GridPos>
+<Position>9</Position>
+<ClassGridPos>1</ClassGridPos>
+<ClassPosition>7</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>3</LapRankIncludingDiscos>
+<Lap num="1" p="5" et="12.2451" s1="50.9299" s2="42.3937" s3="36.8027" fuel="0.957">130.1263</Lap>
+<Lap num="2" p="5" et="142.3714" s1="41.5668" s2="42.9044" s3="35.5574" fuel="0.922">120.0287</Lap>
+<Lap num="3" p="9" et="262.4002" s1="41.1890" s2="44.8881" s3="118.1914" fuel="0.894" pit="1">204.2685</Lap>
+<Lap num="4" p="9" et="466.6687" s1="45.1961" s2="41.8941" s3="35.6303" fuel="0.961">122.7206</Lap>
+<Lap num="5" p="9" et="589.3893" s1="41.3720" s2="41.7471" s3="35.5328" fuel="0.922">118.6519</Lap>
+<Lap num="6" p="9" et="708.0412" s1="41.6302" s2="41.6695" s3="35.4586" fuel="0.882">118.7583</Lap>
+<Lap num="7" p="9" et="826.7995" s1="40.9988" s2="41.5271" s3="35.5081" fuel="0.843">118.0341</Lap>
+<Lap num="8" p="9" et="944.8336" s1="41.4520" s2="41.8311" s3="35.6958" fuel="0.804">118.9789</Lap>
+<Lap num="9" p="9" et="1063.8125" s1="41.3877" s2="41.9865" s3="35.3062" fuel="0.765">118.6803</Lap>
+<Lap num="10" p="9" et="1182.4928" s1="41.3234" s2="41.6093" s3="35.6896" fuel="0.725">118.6222</Lap>
+<Lap num="11" p="9" et="1301.1150" s1="41.5863" s2="41.7223" s3="35.5211" fuel="0.690">118.8297</Lap>
+<Lap num="12" p="9" et="1419.9447" s1="41.8519" s2="42.1124" s3="35.5386" fuel="0.647">119.5029</Lap>
+<Lap num="13" p="9" et="1539.4476" s1="41.5470" s2="42.2244" s3="36.1328" fuel="0.612">119.9042</Lap>
+<BestLapTime>118.0341</BestLapTime>
+<FinishTime>1647.1067</FinishTime>
+<Laps>13</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="13">AIControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Denyer</Name>
+<Connected>1</Connected>
+<VehFile>VIP.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>997RSR:VIP Pet Foods #29</VehName>
+<CarType>997RSR</CarType>
+<CarClass>997RSR</CarClass>
+<CarNumber>09029</CarNumber>
+<TeamName>VIP Pet Foods</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>7</GridPos>
+<Position>10</Position>
+<ClassGridPos>5</ClassGridPos>
+<ClassPosition>8</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>4</LapRankIncludingDiscos>
+<Lap num="1" p="10" et="12.2451" s1="52.2203" s2="43.3571" s3="116.2443" fuel="0.973" pit="1">211.8217</Lap>
+<Lap num="2" p="10" et="224.0668" s1="45.1333" s2="41.8971" s3="35.7105" fuel="0.961">122.7410</Lap>
+<Lap num="3" p="10" et="346.8078" s1="48.0437" s2="41.5505" s3="35.6247" fuel="0.918">125.2190</Lap>
+<Lap num="4" p="10" et="472.0267" s1="41.1913" s2="41.8936" s3="35.5388" fuel="0.878">118.6237</Lap>
+<Lap num="5" p="10" et="590.6505" s1="41.1454" s2="41.5293" s3="35.3766" fuel="0.839">118.0513</Lap>
+<Lap num="6" p="10" et="708.7017" s1="41.4384" s2="43.1368" s3="35.5816" fuel="0.804">120.1568</Lap>
+<Lap num="7" p="10" et="828.8585" s1="41.0589" s2="41.5326" s3="35.5213" fuel="0.765">118.1128</Lap>
+<Lap num="8" p="10" et="946.9713" s1="41.8256" s2="41.6550" s3="35.5244" fuel="0.725">119.0050</Lap>
+<Lap num="9" p="10" et="1065.9763" s1="41.2451" s2="41.6221" s3="35.5728" fuel="0.686">118.4399</Lap>
+<Lap num="10" p="10" et="1184.4163" s1="41.3325" s2="41.7004" s3="35.7018" fuel="0.647">118.7347</Lap>
+<Lap num="11" p="10" et="1303.1510" s1="41.2625" s2="43.0813" s3="35.6675" fuel="0.608">120.0112</Lap>
+<Lap num="12" p="10" et="1423.1622" s1="41.2153" s2="41.7731" s3="35.6083" fuel="0.569">118.5967</Lap>
+<Lap num="13" p="10" et="1541.7589" s1="41.2336" s2="41.8396" s3="35.5917" fuel="0.529">118.6649</Lap>
+<BestLapTime>118.0513</BestLapTime>
+<FinishTime>1648.1787</FinishTime>
+<Laps>13</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="13">AIControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Seth Neiman</Name>
+<Connected>1</Connected>
+<VehFile>FLYING2.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>997RSR: Flying Lizard 2010 #44</VehName>
+<CarType>997RSR</CarType>
+<CarClass>997RSR</CarClass>
+<CarNumber>7</CarNumber>
+<TeamName>Flying Lizard 2010</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>4</GridPos>
+<Position>6</Position>
+<ClassGridPos>2</ClassGridPos>
+<ClassPosition>5</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>5</LapRankIncludingDiscos>
+<Lap num="1" p="6" et="12.2451" s1="51.7950" s2="42.2458" s3="36.2652" fuel="0.957">130.3060</Lap>
+<Lap num="2" p="6" et="142.5511" s1="41.6692" s2="42.8928" s3="35.4088" fuel="0.918">119.9708</Lap>
+<Lap num="3" p="4" et="262.5219" s1="41.4023" s2="42.9228" s3="35.5354" fuel="0.882">119.8605</Lap>
+<Lap num="4" p="4" et="382.3824" s1="41.1782" s2="41.6211" s3="35.5155" fuel="0.843">118.3148</Lap>
+<Lap num="5" p="4" et="500.6972" s1="41.6435" s2="41.5335" s3="35.4273" fuel="0.804">118.6043</Lap>
+<Lap num="6" p="4" et="619.3016" s1="41.1229" s2="41.5618" s3="35.4475" fuel="0.765">118.1322</Lap>
+<Lap num="7" p="4" et="737.4338" s1="41.2159" s2="41.5886" s3="35.4822" fuel="0.725">118.2867</Lap>
+<Lap num="8" p="4" et="855.7205" s1="41.1486" s2="41.7510" s3="35.9549" fuel="0.686">118.8545</Lap>
+<Lap num="9" p="4" et="974.5750" s1="41.2188" s2="41.6999" s3="35.5822" fuel="0.647">118.5008</Lap>
+<Lap num="10" p="4" et="1093.0758" s1="41.2217" s2="41.7507" s3="35.6615" fuel="0.608">118.6339</Lap>
+<Lap num="11" p="4" et="1211.7097" s1="41.2758" s2="41.7865" s3="35.6743" fuel="0.569">118.7366</Lap>
+<Lap num="12" p="3" et="1330.4463" s1="45.9558" s2="42.0231" s3="35.6516" fuel="0.529">123.6305</Lap>
+<Lap num="13" p="6" et="1454.0768" s1="41.2966" s2="42.0228" s3="114.8529" fuel="0.502" pit="1">198.1724</Lap>
+<BestLapTime>118.1322</BestLapTime>
+<FinishTime>1640.0040</FinishTime>
+<Laps>13</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="13">AIControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Olaf Manillia</Name>
+<Connected>1</Connected>
+<VehFile>PUNTO.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>F430GTC: Punto P Eni Racing #73</VehName>
+<CarType>F430 GTC</CarType>
+<CarClass>F430 GTC</CarClass>
+<CarNumber>21</CarNumber>
+<TeamName>Punto P Eni Racing</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>1</GridPos>
+<Position>2</Position>
+<ClassGridPos>1</ClassGridPos>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>6</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="12.2451" s1="49.0723" s2="42.2821" s3="35.9555" fuel="0.957">127.3099</Lap>
+<Lap num="2" p="1" et="139.5550" s1="41.1066" s2="41.8052" s3="35.9672" fuel="0.918">118.8790</Lap>
+<Lap num="3" p="1" et="258.4341" s1="41.0607" s2="41.7803" s3="35.7132" fuel="0.878">118.5543</Lap>
+<Lap num="4" p="2" et="376.9883" s1="42.1489" s2="41.8766" s3="35.5104" fuel="0.839">119.5358</Lap>
+<Lap num="5" p="2" et="496.5242" s1="41.1226" s2="41.8111" s3="35.4260" fuel="0.800">118.3597</Lap>
+<Lap num="6" p="2" et="614.8839" s1="41.0608" s2="41.7726" s3="35.4298" fuel="0.757">118.2632</Lap>
+<Lap num="7" p="2" et="733.1471" s1="41.4867" s2="41.7675" s3="35.5920" fuel="0.718">118.8463</Lap>
+<Lap num="8" p="2" et="851.9933" s1="41.2909" s2="42.3253" s3="35.4958" fuel="0.678">119.1120</Lap>
+<Lap num="9" p="2" et="971.1053" s1="41.0197" s2="41.7324" s3="35.6907" fuel="0.639">118.4427</Lap>
+<Lap num="10" p="2" et="1089.5481" s1="41.2417" s2="41.6746" s3="35.6801" fuel="0.600">118.5963</Lap>
+<Lap num="11" p="2" et="1208.1444" s1="41.3781" s2="42.1185" s3="35.5530" fuel="0.561">119.0496</Lap>
+<Lap num="12" p="2" et="1327.1940" s1="41.5891" s2="42.0443" s3="35.6831" fuel="0.522">119.3165</Lap>
+<Lap num="13" p="2" et="1446.5105" s1="41.2224" s2="41.9985" s3="35.8146" fuel="0.482">119.0355</Lap>
+<BestLapTime>118.2632</BestLapTime>
+<FinishTime>1553.3009</FinishTime>
+<Laps>13</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="13">AIControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Brian Sellers</Name>
+<Connected>1</Connected>
+<VehFile>FALKEN.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Falken Tyre 2010 #17</VehName>
+<CarType>997RSR</CarType>
+<CarClass>997RSR</CarClass>
+<CarNumber>10</CarNumber>
+<TeamName>Falken Tyre 2010</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>8</GridPos>
+<Position>3</Position>
+<ClassGridPos>6</ClassGridPos>
+<ClassPosition>2</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>7</LapRankIncludingDiscos>
+<Lap num="1" p="7" et="12.2451" s1="52.6042" s2="43.4892" s3="36.4357" fuel="0.957">132.5291</Lap>
+<Lap num="2" p="7" et="144.7743" s1="41.4213" s2="41.9497" s3="35.4890" fuel="0.922">118.8600</Lap>
+<Lap num="3" p="5" et="263.6343" s1="41.4162" s2="43.3513" s3="36.8210" fuel="0.882">121.5885</Lap>
+<Lap num="4" p="5" et="385.2228" s1="41.0391" s2="41.6203" s3="35.6291" fuel="0.843">118.2885</Lap>
+<Lap num="5" p="5" et="503.5114" s1="41.1633" s2="42.7253" s3="35.4929" fuel="0.804">119.3815</Lap>
+<Lap num="6" p="5" et="622.8929" s1="41.2587" s2="41.5809" s3="35.5697" fuel="0.765">118.4094</Lap>
+<Lap num="7" p="5" et="741.3022" s1="41.1938" s2="41.5855" s3="35.5247" fuel="0.725">118.3040</Lap>
+<Lap num="8" p="5" et="859.6063" s1="41.2128" s2="41.7661" s3="35.7630" fuel="0.690">118.7418</Lap>
+<Lap num="9" p="5" et="978.3481" s1="41.2234" s2="41.8960" s3="35.7915" fuel="0.647">118.9109</Lap>
+<Lap num="10" p="5" et="1097.2590" s1="41.4397" s2="41.9467" s3="35.7478" fuel="0.608">119.1342</Lap>
+<Lap num="11" p="5" et="1216.3932" s1="41.6266" s2="41.9794" s3="35.5841" fuel="0.569">119.1901</Lap>
+<Lap num="12" p="4" et="1335.5833" s1="41.5536" s2="42.0103" s3="35.6373" fuel="0.529">119.2012</Lap>
+<Lap num="13" p="3" et="1454.7844" s1="41.3312" s2="41.9453" s3="35.9856" fuel="0.490">119.2621</Lap>
+<BestLapTime>118.2885</BestLapTime>
+<FinishTime>1561.8014</FinishTime>
+<Laps>13</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="13">AIControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Alex Figge</Name>
+<Connected>1</Connected>
+<VehFile>TAFEL2.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>Tafel Racing 2008 #73</VehName>
+<CarType>F430 GTC</CarType>
+<CarClass>F430 GTC</CarClass>
+<CarNumber>08</CarNumber>
+<TeamName>Tafel Racing 2008</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>2</GridPos>
+<Position>7</Position>
+<ClassGridPos>2</ClassGridPos>
+<ClassPosition>2</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>8</LapRankIncludingDiscos>
+<Lap num="1" p="2" et="12.2451" s1="49.8508" s2="42.1394" s3="35.8733" fuel="0.957">127.8634</Lap>
+<Lap num="2" p="3" et="140.1086" s1="41.7389" s2="41.9483" s3="35.6656" fuel="0.918">119.3528</Lap>
+<Lap num="3" p="3" et="259.4614" s1="41.7503" s2="41.6908" s3="35.2338" fuel="0.878">118.6749</Lap>
+<Lap num="4" p="3" et="378.1362" s1="41.3468" s2="41.9783" s3="35.2035" fuel="0.839">118.5286</Lap>
+<Lap num="5" p="3" et="496.6649" s1="41.4855" s2="41.8668" s3="35.5577" fuel="0.800">118.9100</Lap>
+<Lap num="6" p="3" et="615.5749" s1="41.1121" s2="41.6835" s3="36.2036" fuel="0.761">118.9993</Lap>
+<Lap num="7" p="3" et="734.5742" s1="41.2502" s2="42.0370" s3="35.6048" fuel="0.722">118.8921</Lap>
+<Lap num="8" p="3" et="853.4662" s1="41.0096" s2="41.7825" s3="35.5903" fuel="0.678">118.3824</Lap>
+<Lap num="9" p="3" et="971.8487" s1="41.3700" s2="42.1536" s3="35.4777" fuel="0.639">119.0013</Lap>
+<Lap num="10" p="3" et="1090.8500" s1="41.9824" s2="42.1915" s3="35.7407" fuel="0.600">119.9147</Lap>
+<Lap num="11" p="3" et="1210.7646" s1="41.4344" s2="42.0258" s3="36.0964" fuel="0.561">119.5566</Lap>
+<Lap num="12" p="7" et="1330.3213" s1="44.8418" s2="42.5135" s3="116.0690" fuel="0.533" pit="1">203.4243</Lap>
+<Lap num="13" p="7" et="1533.7456" s1="45.3793" s2="42.4695" s3="35.7366" fuel="0.957">123.5853</Lap>
+<BestLapTime>118.3824</BestLapTime>
+<FinishTime>1645.0858</FinishTime>
+<Laps>13</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="13">AIControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Ashburn</Name>
+<Connected>1</Connected>
+<VehFile>HESCO.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>997RSR: Hesco Bastion #59</VehName>
+<CarType>997RSR</CarType>
+<CarClass>997RSR</CarClass>
+<CarNumber>16</CarNumber>
+<TeamName>Hesco Bastion</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>5</GridPos>
+<Position>8</Position>
+<ClassGridPos>3</ClassGridPos>
+<ClassPosition>6</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>9</LapRankIncludingDiscos>
+<Lap num="1" p="3" et="12.2451" s1="50.6477" s2="42.4215" s3="36.1918" fuel="0.957">129.2610</Lap>
+<Lap num="2" p="4" et="141.5061" s1="42.1676" s2="42.1444" s3="35.5580" fuel="0.918">119.8700</Lap>
+<Lap num="3" p="8" et="261.3761" s1="41.5700" s2="44.6308" s3="114.6489" fuel="0.890" pit="1">200.8496</Lap>
+<Lap num="4" p="8" et="462.2258" s1="45.6020" s2="42.4445" s3="36.1436" fuel="0.957">124.1901</Lap>
+<Lap num="5" p="8" et="586.4158" s1="41.3743" s2="42.3178" s3="35.8809" fuel="0.918">119.5731</Lap>
+<Lap num="6" p="8" et="705.9889" s1="41.8786" s2="42.0275" s3="35.6805" fuel="0.878">119.5867</Lap>
+<Lap num="7" p="8" et="825.5756" s1="41.4968" s2="41.9384" s3="35.4468" fuel="0.843">118.8821</Lap>
+<Lap num="8" p="8" et="944.4576" s1="41.3417" s2="42.0714" s3="35.8048" fuel="0.804">119.2179</Lap>
+<Lap num="9" p="8" et="1063.6755" s1="41.0464" s2="41.7848" s3="35.8094" fuel="0.765">118.6406</Lap>
+<Lap num="10" p="8" et="1182.3162" s1="41.1566" s2="41.7284" s3="35.7834" fuel="0.725">118.6685</Lap>
+<Lap num="11" p="8" et="1300.9846" s1="41.4178" s2="41.6953" s3="35.7162" fuel="0.686">118.8293</Lap>
+<Lap num="12" p="8" et="1419.8140" s1="41.6124" s2="42.1489" s3="35.7213" fuel="0.647">119.4827</Lap>
+<Lap num="13" p="8" et="1539.2966" s1="41.3533" s2="42.3260" s3="36.2300" fuel="0.608">119.9093</Lap>
+<BestLapTime>118.6406</BestLapTime>
+<FinishTime>1646.9608</FinishTime>
+<Laps>13</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="13">AIControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Shaun Juniper</Name>
+<Connected>1</Connected>
+<VehFile>JUNIPER.VEH</VehFile>
+<UpgradeCode>00000000 00000000</UpgradeCode>
+<VehName>997RSR: Juniper Racing #02</VehName>
+<CarType>997RSR</CarType>
+<CarClass>997RSR</CarClass>
+<CarNumber>12</CarNumber>
+<TeamName>Juniper Racing</TeamName>
+<isPlayer>0</isPlayer>
+<ServerScored>1</ServerScored>
+<GridPos>9</GridPos>
+<Position>4</Position>
+<ClassGridPos>7</ClassGridPos>
+<ClassPosition>3</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>10</LapRankIncludingDiscos>
+<Lap num="1" p="8" et="12.2451" s1="53.1987" s2="43.4754" s3="35.9807" fuel="0.961">132.6548</Lap>
+<Lap num="2" p="8" et="144.8999" s1="41.6978" s2="42.0551" s3="35.5664" fuel="0.922">119.3193</Lap>
+<Lap num="3" p="6" et="264.2192" s1="41.7507" s2="42.7743" s3="38.5581" fuel="0.882">123.0831</Lap>
+<Lap num="4" p="6" et="387.3023" s1="41.4221" s2="41.9187" s3="35.6513" fuel="0.843">118.9921</Lap>
+<Lap num="5" p="6" et="506.2944" s1="41.3767" s2="41.8959" s3="35.6600" fuel="0.804">118.9327</Lap>
+<Lap num="6" p="6" et="625.2271" s1="41.5745" s2="42.0754" s3="35.6605" fuel="0.765">119.3103</Lap>
+<Lap num="7" p="6" et="744.5374" s1="41.4586" s2="41.9703" s3="35.7247" fuel="0.725">119.1537</Lap>
+<Lap num="8" p="6" et="863.6911" s1="41.4340" s2="41.9636" s3="35.7360" fuel="0.690">119.1336</Lap>
+<Lap num="9" p="6" et="982.8247" s1="41.8209" s2="42.2760" s3="35.7695" fuel="0.651">119.8665</Lap>
+<Lap num="10" p="6" et="1102.6912" s1="41.8059" s2="42.2043" s3="35.7996" fuel="0.612">119.8098</Lap>
+<Lap num="11" p="6" et="1222.5010" s1="41.5439" s2="42.1307" s3="35.8209" fuel="0.573">119.4956</Lap>
+<Lap num="12" p="5" et="1341.9966" s1="41.7489" s2="42.3746" s3="35.8511" fuel="0.537">119.9746</Lap>
+<Lap num="13" p="4" et="1461.9712" s1="41.5192" s2="42.2202" s3="35.8219" fuel="0.498">119.5613</Lap>
+<BestLapTime>118.9327</BestLapTime>
+<FinishTime>1569.2874</FinishTime>
+<Laps>13</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="13">AIControl</ControlAndAids>
+</Driver>
+</Race>
+</RaceResults>
+</rFactorXML>
