@@ -832,7 +832,7 @@ namespace Stock_Car_Extreme_Launcher_3
             PopulateMods();
         }
 
-        // Populate news panel
+        // Populate news panel x
         public void PopulateNews()
         {
             newsPage.Invoke((MethodInvoker)delegate { newsPage.Controls.Remove(loadingNewsLabel); });
@@ -1573,7 +1573,6 @@ namespace Stock_Car_Extreme_Launcher_3
                         size,
                         date;
     }
-
 
     public class QMod
     {
