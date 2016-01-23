@@ -84,7 +84,10 @@ namespace Stock_Car_Extreme_Launcher_3
             try
             {
                 savePLRFile(playerComboBox.GetItemText(playerComboBox.SelectedItem));
-                Process.Start("GSC.exe", parametersTextBox.Text);
+                ProcessStartInfo GSC = new ProcessStartInfo();
+                GSC.FileName = "GSC.exe";
+                GSC.Arguments = parametersTextBox.Text.Replace("\"", "\\\"");
+                Process.Start(GSC);
             }
             catch
             {
