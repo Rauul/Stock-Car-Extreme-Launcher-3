@@ -32,17 +32,9 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.carsTabPage = new System.Windows.Forms.TabPage();
-            this.loadingCarsProgressBar = new System.Windows.Forms.ProgressBar();
-            this.loadingCarsLabel = new System.Windows.Forms.Label();
             this.tracksTabPage = new System.Windows.Forms.TabPage();
-            this.loadingTracksProgressBar = new System.Windows.Forms.ProgressBar();
-            this.loadingTracksLabel = new System.Windows.Forms.Label();
             this.skinsTabPage = new System.Windows.Forms.TabPage();
-            this.loadingSkinsProgressBar = new System.Windows.Forms.ProgressBar();
-            this.loadingSkinsLabel = new System.Windows.Forms.Label();
             this.miscTabPage = new System.Windows.Forms.TabPage();
-            this.loadingMiscProgressBar = new System.Windows.Forms.ProgressBar();
-            this.loadingMiscLabel = new System.Windows.Forms.Label();
             this.errorProvider1 = new System.Windows.Forms.ErrorProvider(this.components);
             this.newsPage = new System.Windows.Forms.Panel();
             this.loadingNewsLabel = new System.Windows.Forms.Label();
@@ -103,10 +95,6 @@
             this.ModButton = new System.Windows.Forms.Button();
             this.RDButton = new System.Windows.Forms.Button();
             this.tabControl1.SuspendLayout();
-            this.carsTabPage.SuspendLayout();
-            this.tracksTabPage.SuspendLayout();
-            this.skinsTabPage.SuspendLayout();
-            this.miscTabPage.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).BeginInit();
             this.newsPage.SuspendLayout();
             this.optionsPage.SuspendLayout();
@@ -139,9 +127,6 @@
             // 
             this.carsTabPage.AutoScroll = true;
             this.carsTabPage.BackColor = System.Drawing.Color.Transparent;
-            this.carsTabPage.Controls.Add(this.loadingCarsProgressBar);
-            this.carsTabPage.Controls.Add(this.loadingCarsLabel);
-            this.carsTabPage.ForeColor = System.Drawing.SystemColors.ActiveCaption;
             this.carsTabPage.Location = new System.Drawing.Point(4, 54);
             this.carsTabPage.Name = "carsTabPage";
             this.carsTabPage.Padding = new System.Windows.Forms.Padding(3);
@@ -150,31 +135,10 @@
             this.carsTabPage.Text = "CARS";
             this.carsTabPage.UseVisualStyleBackColor = true;
             // 
-            // loadingCarsProgressBar
-            // 
-            this.loadingCarsProgressBar.Location = new System.Drawing.Point(387, 61);
-            this.loadingCarsProgressBar.Maximum = 25;
-            this.loadingCarsProgressBar.Name = "loadingCarsProgressBar";
-            this.loadingCarsProgressBar.Size = new System.Drawing.Size(100, 8);
-            this.loadingCarsProgressBar.TabIndex = 1;
-            // 
-            // loadingCarsLabel
-            // 
-            this.loadingCarsLabel.AutoSize = true;
-            this.loadingCarsLabel.Font = new System.Drawing.Font("DejaVu Sans Condensed", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.loadingCarsLabel.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.loadingCarsLabel.Location = new System.Drawing.Point(390, 45);
-            this.loadingCarsLabel.Name = "loadingCarsLabel";
-            this.loadingCarsLabel.Size = new System.Drawing.Size(97, 13);
-            this.loadingCarsLabel.TabIndex = 0;
-            this.loadingCarsLabel.Text = "Loading Content...";
-            // 
             // tracksTabPage
             // 
             this.tracksTabPage.AutoScroll = true;
             this.tracksTabPage.BackColor = System.Drawing.Color.Transparent;
-            this.tracksTabPage.Controls.Add(this.loadingTracksProgressBar);
-            this.tracksTabPage.Controls.Add(this.loadingTracksLabel);
             this.tracksTabPage.Location = new System.Drawing.Point(4, 54);
             this.tracksTabPage.Name = "tracksTabPage";
             this.tracksTabPage.Padding = new System.Windows.Forms.Padding(3);
@@ -183,30 +147,9 @@
             this.tracksTabPage.Text = "TRACKS";
             this.tracksTabPage.UseVisualStyleBackColor = true;
             // 
-            // loadingTracksProgressBar
-            // 
-            this.loadingTracksProgressBar.Location = new System.Drawing.Point(387, 61);
-            this.loadingTracksProgressBar.Maximum = 25;
-            this.loadingTracksProgressBar.Name = "loadingTracksProgressBar";
-            this.loadingTracksProgressBar.Size = new System.Drawing.Size(100, 8);
-            this.loadingTracksProgressBar.TabIndex = 2;
-            // 
-            // loadingTracksLabel
-            // 
-            this.loadingTracksLabel.AutoSize = true;
-            this.loadingTracksLabel.Font = new System.Drawing.Font("DejaVu Sans Condensed", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.loadingTracksLabel.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.loadingTracksLabel.Location = new System.Drawing.Point(390, 45);
-            this.loadingTracksLabel.Name = "loadingTracksLabel";
-            this.loadingTracksLabel.Size = new System.Drawing.Size(97, 13);
-            this.loadingTracksLabel.TabIndex = 1;
-            this.loadingTracksLabel.Text = "Loading Content...";
-            // 
             // skinsTabPage
             // 
             this.skinsTabPage.AutoScroll = true;
-            this.skinsTabPage.Controls.Add(this.loadingSkinsProgressBar);
-            this.skinsTabPage.Controls.Add(this.loadingSkinsLabel);
             this.skinsTabPage.Location = new System.Drawing.Point(4, 54);
             this.skinsTabPage.Name = "skinsTabPage";
             this.skinsTabPage.Padding = new System.Windows.Forms.Padding(3);
@@ -215,30 +158,9 @@
             this.skinsTabPage.Text = "SKINS";
             this.skinsTabPage.UseVisualStyleBackColor = true;
             // 
-            // loadingSkinsProgressBar
-            // 
-            this.loadingSkinsProgressBar.Location = new System.Drawing.Point(387, 61);
-            this.loadingSkinsProgressBar.Maximum = 25;
-            this.loadingSkinsProgressBar.Name = "loadingSkinsProgressBar";
-            this.loadingSkinsProgressBar.Size = new System.Drawing.Size(100, 8);
-            this.loadingSkinsProgressBar.TabIndex = 2;
-            // 
-            // loadingSkinsLabel
-            // 
-            this.loadingSkinsLabel.AutoSize = true;
-            this.loadingSkinsLabel.Font = new System.Drawing.Font("DejaVu Sans Condensed", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.loadingSkinsLabel.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.loadingSkinsLabel.Location = new System.Drawing.Point(390, 45);
-            this.loadingSkinsLabel.Name = "loadingSkinsLabel";
-            this.loadingSkinsLabel.Size = new System.Drawing.Size(97, 13);
-            this.loadingSkinsLabel.TabIndex = 1;
-            this.loadingSkinsLabel.Text = "Loading Content...";
-            // 
             // miscTabPage
             // 
             this.miscTabPage.AutoScroll = true;
-            this.miscTabPage.Controls.Add(this.loadingMiscProgressBar);
-            this.miscTabPage.Controls.Add(this.loadingMiscLabel);
             this.miscTabPage.Location = new System.Drawing.Point(4, 54);
             this.miscTabPage.Name = "miscTabPage";
             this.miscTabPage.Padding = new System.Windows.Forms.Padding(3);
@@ -246,25 +168,6 @@
             this.miscTabPage.TabIndex = 3;
             this.miscTabPage.Text = "MISC";
             this.miscTabPage.UseVisualStyleBackColor = true;
-            // 
-            // loadingMiscProgressBar
-            // 
-            this.loadingMiscProgressBar.Location = new System.Drawing.Point(387, 61);
-            this.loadingMiscProgressBar.Maximum = 25;
-            this.loadingMiscProgressBar.Name = "loadingMiscProgressBar";
-            this.loadingMiscProgressBar.Size = new System.Drawing.Size(100, 8);
-            this.loadingMiscProgressBar.TabIndex = 2;
-            // 
-            // loadingMiscLabel
-            // 
-            this.loadingMiscLabel.AutoSize = true;
-            this.loadingMiscLabel.Font = new System.Drawing.Font("DejaVu Sans Condensed", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.loadingMiscLabel.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.loadingMiscLabel.Location = new System.Drawing.Point(390, 45);
-            this.loadingMiscLabel.Name = "loadingMiscLabel";
-            this.loadingMiscLabel.Size = new System.Drawing.Size(97, 13);
-            this.loadingMiscLabel.TabIndex = 1;
-            this.loadingMiscLabel.Text = "Loading Content...";
             // 
             // errorProvider1
             // 
@@ -940,7 +843,6 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Gainsboro;
             this.ClientSize = new System.Drawing.Size(984, 562);
-            this.Controls.Add(this.optionsPage);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.ServerButton);
             this.Controls.Add(this.SyncButton);
@@ -948,8 +850,9 @@
             this.Controls.Add(this.OptionsButton);
             this.Controls.Add(this.ModButton);
             this.Controls.Add(this.RDButton);
-            this.Controls.Add(this.newsPage);
             this.Controls.Add(this.tabControl1);
+            this.Controls.Add(this.optionsPage);
+            this.Controls.Add(this.newsPage);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
@@ -958,14 +861,6 @@
             this.Text = "Stock Car Extreme Launcher 3.0";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.tabControl1.ResumeLayout(false);
-            this.carsTabPage.ResumeLayout(false);
-            this.carsTabPage.PerformLayout();
-            this.tracksTabPage.ResumeLayout(false);
-            this.tracksTabPage.PerformLayout();
-            this.skinsTabPage.ResumeLayout(false);
-            this.skinsTabPage.PerformLayout();
-            this.miscTabPage.ResumeLayout(false);
-            this.miscTabPage.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
             this.newsPage.ResumeLayout(false);
             this.newsPage.PerformLayout();
@@ -1001,15 +896,7 @@
         private System.Windows.Forms.ErrorProvider errorProvider1;
         private System.Windows.Forms.Panel newsPage;
         private System.Windows.Forms.PictureBox pictureBox1;
-        private System.Windows.Forms.Label loadingCarsLabel;
         private System.Windows.Forms.Label loadingNewsLabel;
-        private System.Windows.Forms.Label loadingTracksLabel;
-        private System.Windows.Forms.Label loadingSkinsLabel;
-        private System.Windows.Forms.Label loadingMiscLabel;
-        private System.Windows.Forms.ProgressBar loadingCarsProgressBar;
-        private System.Windows.Forms.ProgressBar loadingTracksProgressBar;
-        private System.Windows.Forms.ProgressBar loadingSkinsProgressBar;
-        private System.Windows.Forms.ProgressBar loadingMiscProgressBar;
         private System.Windows.Forms.Panel optionsPage;
         private System.Windows.Forms.ComboBox controllerComboBox;
         private System.Windows.Forms.ComboBox playerComboBox;

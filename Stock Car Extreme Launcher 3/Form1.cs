@@ -661,7 +661,7 @@ namespace Stock_Car_Extreme_Launcher_3
             text = Regex.Replace(text, @"^(Moving Rearview="")(\d+)("")", "Moving Rearview=\"" + x + "\"", RegexOptions.Multiline);
 
             //Controller
-            text = Regex.Replace(text, @"^(Current Control File="")(\d+)("")", "Current Control File=\"" + controllerComboBox.GetItemText(controllerComboBox.SelectedItem) + "\"", RegexOptions.Multiline);
+            text = Regex.Replace(text, @"^(Current Control File="")(.+?)("")", "Current Control File=\"" + controllerComboBox.GetItemText(controllerComboBox.SelectedItem) + "\"", RegexOptions.Multiline);
 
             File.WriteAllText(plrpath, text);
         }
@@ -906,26 +906,18 @@ namespace Stock_Car_Extreme_Launcher_3
                 if (type == "cars")
                 {
                     modList = modCarList;
-                    carsTabPage.Invoke((MethodInvoker)delegate { carsTabPage.Controls.Remove(loadingCarsLabel); });
-                    carsTabPage.Invoke((MethodInvoker)delegate { carsTabPage.Controls.Remove(loadingCarsProgressBar); });
                 }
                 else if (type == "tracks")
                 {
                     modList = modTrackList;
-                    tracksTabPage.Invoke((MethodInvoker)delegate { tracksTabPage.Controls.Remove(loadingTracksLabel); });
-                    tracksTabPage.Invoke((MethodInvoker)delegate { tracksTabPage.Controls.Remove(loadingTracksProgressBar); });
                 }
                 else if (type == "skins")
                 {
                     modList = modSkinList;
-                    skinsTabPage.Invoke((MethodInvoker)delegate { skinsTabPage.Controls.Remove(loadingSkinsLabel); });
-                    skinsTabPage.Invoke((MethodInvoker)delegate { skinsTabPage.Controls.Remove(loadingSkinsProgressBar); });
                 }
                 else if (type == "misc")
                 {
                     modList = modMiscList;
-                    miscTabPage.Invoke((MethodInvoker)delegate { miscTabPage.Controls.Remove(loadingMiscLabel); });
-                    miscTabPage.Invoke((MethodInvoker)delegate { miscTabPage.Controls.Remove(loadingMiscProgressBar); });
                 }
 
                 foreach (Mod mod in modList)
@@ -991,11 +983,13 @@ namespace Stock_Car_Extreme_Launcher_3
                     modPanel.Invoke((MethodInvoker)delegate { modPanel.Controls.Add(modDateLabel); });
 
                     Button modDownloadButton = new Button();
-                    modDownloadButton.Size = new Size(100, 52);
+                    modDownloadButton.Size = new Size(100, 61);
                     modDownloadButton.ForeColor = Color.Black;
                     modDownloadButton.BackColor = Color.WhiteSmoke;
                     modDownloadButton.UseVisualStyleBackColor = true;
-                    modDownloadButton.Dock = DockStyle.Right;
+                    modDownloadButton.FlatStyle = FlatStyle.Flat;
+                    //modDownloadButton.Dock = DockStyle.Right;
+                    modDownloadButton.Location = new Point(759, -1);
                     modDownloadButton.Text = mod.size + " MB";
                     modDownloadButton.Font = new Font("DejaVu Sans Condensed", 10, FontStyle.Regular);
                     modPanel.Invoke((MethodInvoker)delegate { modPanel.Controls.Add(modDownloadButton); });
@@ -1014,13 +1008,15 @@ namespace Stock_Car_Extreme_Launcher_3
                         if (ModIsInstalled(mod))
                         {
                             modDownloadButton.Invoke((MethodInvoker)delegate { modDownloadButton.Text = "Uninstall"; });
-                            modDownloadButton.Invoke((MethodInvoker)delegate { modDownloadButton.UseVisualStyleBackColor = false; });
+                            //modDownloadButton.Invoke((MethodInvoker)delegate { modDownloadButton.UseVisualStyleBackColor = false; });
+                            modDownloadButton.Invoke((MethodInvoker)delegate { modDownloadButton.BackColor = Color.Salmon; });
                             modDownloadButton.Click += delegate { Task.Run(() => UninstallMod(modDownloadButton, modProgressBar, mod, type)); };
                         }
                         else
                         {
                             modDownloadButton.Invoke((MethodInvoker)delegate { modDownloadButton.Text = "Install"; });
-                            modDownloadButton.Invoke((MethodInvoker)delegate { modDownloadButton.UseVisualStyleBackColor = false; });
+                            //modDownloadButton.Invoke((MethodInvoker)delegate { modDownloadButton.UseVisualStyleBackColor = false; });
+                            modDownloadButton.Invoke((MethodInvoker)delegate { modDownloadButton.BackColor = Color.LightGreen; });
                             modDownloadButton.Click += delegate {
                                 modDownloadButton.Invoke((MethodInvoker)delegate { modDownloadButton.Text = "Queued"; });
                                 modProgressBar.Invoke((MethodInvoker)delegate { modProgressBar.Visible = true; });
@@ -1075,18 +1071,6 @@ namespace Stock_Car_Extreme_Launcher_3
                 myStream.Close();
             }
             return fileName;
-        }
-
-        private void UpdateLoadingBar(string type)
-        {
-            if (type == "cars" && loadingCarsProgressBar.Value < loadingCarsProgressBar.Maximum)
-                carsTabPage.Invoke((MethodInvoker)delegate { loadingCarsProgressBar.Value++; });
-            else if (type == "tracks" && loadingTracksProgressBar.Value < loadingTracksProgressBar.Maximum)
-                carsTabPage.Invoke((MethodInvoker)delegate { loadingTracksProgressBar.Value++; });
-            else if (type == "skins" && loadingSkinsProgressBar.Value < loadingSkinsProgressBar.Maximum)
-                carsTabPage.Invoke((MethodInvoker)delegate { loadingSkinsProgressBar.Value++; });
-            else if (type == "misc" && loadingMiscProgressBar.Value < loadingMiscProgressBar.Maximum)
-                carsTabPage.Invoke((MethodInvoker)delegate { loadingMiscProgressBar.Value++; });
         }
 
         private void CreateInstallLogFile()
@@ -1557,8 +1541,6 @@ namespace Stock_Car_Extreme_Launcher_3
                 button.Click += delegate { Task.Run(() => UninstallMod(button, progressBar, mod, type)); };
             }
         }
-
-        
     }
 
 
